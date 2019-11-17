@@ -12,7 +12,7 @@
         </category>
     </metadata>
     <codelist-items>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn" withdrawal-date="2019-11-17">
             <code>0</code>
             <name>
                 <narrative>NON FLOW ITEMS</narrative>

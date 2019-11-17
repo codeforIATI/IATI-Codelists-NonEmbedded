@@ -222,7 +222,7 @@
         <codelist-item>
             <code>el</code>
             <name>
-                <narrative>Greek</narrative>
+                <narrative>Greek, Modern (1453-)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -720,7 +720,7 @@
         <codelist-item>
             <code>oc</code>
             <name>
-                <narrative>Occitan (post 1500)</narrative>
+                <narrative>Occitan (post 1500); Provençal</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1087,6 +1087,27 @@
             <code>zh</code>
             <name>
                 <narrative>Chinese</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2019-11-17">
+            <code>cu</code>
+            <name>
+                <narrative>Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2019-11-17">
+            <code>ie</code>
+            <name>
+                <narrative>Interlingue; Occidental</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2019-11-17">
+            <code>ia</code>
+            <name>
+                <narrative>Interlingua (International Auxiliary Language Association)</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item>

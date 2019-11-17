@@ -19,6 +19,12 @@
     </metadata>
     <codelist-items>
         <codelist-item>
+            <code>XK</code>
+            <name>
+                <narrative xml:lang="en">Kosovo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>AF</code>
             <name>
                 <narrative>Afghanistan</narrative>
@@ -75,7 +81,7 @@
         <codelist-item>
             <code>AG</code>
             <name>
-                <narrative>Antigua and Barbuda</narrative>
+                <narrative>Antigua &amp; Barbuda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -117,7 +123,7 @@
         <codelist-item>
             <code>BS</code>
             <name>
-                <narrative>Bahamas (the)</narrative>
+                <narrative>Bahamas</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -177,19 +183,19 @@
         <codelist-item>
             <code>BO</code>
             <name>
-                <narrative>Bolivia (Plurinational State of)</narrative>
+                <narrative>Bolivia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BQ</code>
             <name>
-                <narrative>Bonaire, Sint Eustatius and Saba</narrative>
+                <narrative>Caribbean Netherlands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BA</code>
             <name>
-                <narrative>Bosnia and Herzegovina</narrative>
+                <narrative>Bosnia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -213,13 +219,13 @@
         <codelist-item>
             <code>IO</code>
             <name>
-                <narrative>British Indian Ocean Territory (the)</narrative>
+                <narrative>British Indian Ocean Territory</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BN</code>
             <name>
-                <narrative>Brunei Darussalam</narrative>
+                <narrative>Brunei</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -261,19 +267,19 @@
         <codelist-item>
             <code>CV</code>
             <name>
-                <narrative>Cabo Verde</narrative>
+                <narrative>Cape Verde</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KY</code>
             <name>
-                <narrative>Cayman Islands (the)</narrative>
+                <narrative>Cayman Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CF</code>
             <name>
-                <narrative>Central African Republic (the)</narrative>
+                <narrative>Central African Republic</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -303,7 +309,7 @@
         <codelist-item>
             <code>CC</code>
             <name>
-                <narrative>Cocos (Keeling) Islands (the)</narrative>
+                <narrative>Cocos (Keeling) Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -315,25 +321,25 @@
         <codelist-item>
             <code>KM</code>
             <name>
-                <narrative>Comoros (the)</narrative>
+                <narrative>Comoros</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CG</code>
             <name>
-                <narrative>Congo (the)</narrative>
+                <narrative>Congo - Brazzaville</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CD</code>
             <name>
-                <narrative>Congo (the Democratic Republic of the)</narrative>
+                <narrative>Congo - Kinshasa</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CK</code>
             <name>
-                <narrative>Cook Islands (the)</narrative>
+                <narrative>Cook Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -345,7 +351,7 @@
         <codelist-item>
             <code>CI</code>
             <name>
-                <narrative>Côte d'Ivoire</narrative>
+                <narrative>Côte d’Ivoire</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -399,7 +405,7 @@
         <codelist-item>
             <code>DO</code>
             <name>
-                <narrative>Dominican Republic (the)</narrative>
+                <narrative>Dominican Republic</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -447,13 +453,13 @@
         <codelist-item>
             <code>FK</code>
             <name>
-                <narrative>Falkland Islands (the) [Malvinas]</narrative>
+                <narrative>Falkland Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FO</code>
             <name>
-                <narrative>Faroe Islands (the)</narrative>
+                <narrative>Faroe Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -489,7 +495,7 @@
         <codelist-item>
             <code>TF</code>
             <name>
-                <narrative>French Southern Territories (the)</narrative>
+                <narrative>French Southern Territories</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -501,7 +507,7 @@
         <codelist-item>
             <code>GM</code>
             <name>
-                <narrative>Gambia (the)</narrative>
+                <narrative>Gambia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -597,13 +603,13 @@
         <codelist-item>
             <code>HM</code>
             <name>
-                <narrative>Heard Island and McDonald Islands</narrative>
+                <narrative>Heard &amp; McDonald Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VA</code>
             <name>
-                <narrative>Holy See (the)</narrative>
+                <narrative>Vatican City</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -645,7 +651,7 @@
         <codelist-item>
             <code>IR</code>
             <name>
-                <narrative>Iran (Islamic Republic of)</narrative>
+                <narrative>Iran</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -723,19 +729,13 @@
         <codelist-item>
             <code>KP</code>
             <name>
-                <narrative>Korea (the Democratic People's Republic of)</narrative>
+                <narrative>North Korea</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KR</code>
             <name>
-                <narrative>Korea (the Republic of)</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
-            <code>XK</code>
-            <name>
-                <narrative>Kosovo</narrative>
+                <narrative>South Korea</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -753,7 +753,7 @@
         <codelist-item>
             <code>LA</code>
             <name>
-                <narrative>Lao People's Democratic Republic (the)</narrative>
+                <narrative>Laos</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -807,7 +807,7 @@
         <codelist-item>
             <code>MO</code>
             <name>
-                <narrative>Macao</narrative>
+                <narrative>Macau</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -855,7 +855,7 @@
         <codelist-item>
             <code>MH</code>
             <name>
-                <narrative>Marshall Islands (the)</narrative>
+                <narrative>Marshall Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -891,13 +891,13 @@
         <codelist-item>
             <code>FM</code>
             <name>
-                <narrative>Micronesia (Federated States of)</narrative>
+                <narrative>Micronesia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MD</code>
             <name>
-                <narrative>Moldova (the Republic of)</narrative>
+                <narrative>Moldova</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -963,7 +963,7 @@
         <codelist-item>
             <code>NL</code>
             <name>
-                <narrative>Netherlands (the)</narrative>
+                <narrative>Netherlands</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -993,7 +993,7 @@
         <codelist-item>
             <code>NE</code>
             <name>
-                <narrative>Niger (the)</narrative>
+                <narrative>Niger</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1017,7 +1017,7 @@
         <codelist-item>
             <code>MP</code>
             <name>
-                <narrative>Northern Mariana Islands (the)</narrative>
+                <narrative>Northern Mariana Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1047,7 +1047,7 @@
         <codelist-item>
             <code>PS</code>
             <name>
-                <narrative>Palestine, State of</narrative>
+                <narrative>Palestine</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1077,13 +1077,13 @@
         <codelist-item>
             <code>PH</code>
             <name>
-                <narrative>Philippines (the)</narrative>
+                <narrative>Philippines</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PN</code>
             <name>
-                <narrative>Pitcairn</narrative>
+                <narrative>Pitcairn Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1125,7 +1125,7 @@
         <codelist-item>
             <code>RU</code>
             <name>
-                <narrative>Russian Federation (the)</narrative>
+                <narrative>Russia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1137,43 +1137,43 @@
         <codelist-item>
             <code>BL</code>
             <name>
-                <narrative>Saint Barthélemy</narrative>
+                <narrative>St. Barthélemy</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SH</code>
             <name>
-                <narrative>Saint Helena, Ascension and Tristan da Cunha</narrative>
+                <narrative>St. Helena</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KN</code>
             <name>
-                <narrative>Saint Kitts and Nevis</narrative>
+                <narrative>St. Kitts &amp; Nevis</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LC</code>
             <name>
-                <narrative>Saint Lucia</narrative>
+                <narrative>St. Lucia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MF</code>
             <name>
-                <narrative>Saint Martin (French part)</narrative>
+                <narrative>St. Martin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PM</code>
             <name>
-                <narrative>Saint Pierre and Miquelon</narrative>
+                <narrative>St. Pierre &amp; Miquelon</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VC</code>
             <name>
-                <narrative>Saint Vincent and the Grenadines</narrative>
+                <narrative>St. Vincent &amp; Grenadines</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1191,7 +1191,7 @@
         <codelist-item>
             <code>ST</code>
             <name>
-                <narrative>Sao Tome and Principe</narrative>
+                <narrative>São Tomé &amp; Príncipe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1233,7 +1233,7 @@
         <codelist-item>
             <code>SX</code>
             <name>
-                <narrative>Sint Maarten (Dutch part)</narrative>
+                <narrative>Sint Maarten</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1269,7 +1269,7 @@
         <codelist-item>
             <code>GS</code>
             <name>
-                <narrative>South Georgia and the South Sandwich Islands</narrative>
+                <narrative>South Georgia &amp; South Sandwich Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1293,7 +1293,7 @@
         <codelist-item>
             <code>SD</code>
             <name>
-                <narrative>Sudan (the)</narrative>
+                <narrative>Sudan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1305,7 +1305,7 @@
         <codelist-item>
             <code>SJ</code>
             <name>
-                <narrative>Svalbard and Jan Mayen</narrative>
+                <narrative>Svalbard &amp; Jan Mayen</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1329,13 +1329,13 @@
         <codelist-item>
             <code>SY</code>
             <name>
-                <narrative>Syrian Arab Republic</narrative>
+                <narrative>Syria</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TW</code>
             <name>
-                <narrative>Taiwan (Province of China)</narrative>
+                <narrative>Taiwan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1347,7 +1347,7 @@
         <codelist-item>
             <code>TZ</code>
             <name>
-                <narrative>Tanzania, United Republic of</narrative>
+                <narrative>Tanzania</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1383,7 +1383,7 @@
         <codelist-item>
             <code>TT</code>
             <name>
-                <narrative>Trinidad and Tobago</narrative>
+                <narrative>Trinidad &amp; Tobago</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1407,7 +1407,7 @@
         <codelist-item>
             <code>TC</code>
             <name>
-                <narrative>Turks and Caicos Islands (the)</narrative>
+                <narrative>Turks &amp; Caicos Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1431,25 +1431,25 @@
         <codelist-item>
             <code>AE</code>
             <name>
-                <narrative>United Arab Emirates (the)</narrative>
+                <narrative>United Arab Emirates</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GB</code>
             <name>
-                <narrative>United Kingdom of Great Britain and Northern Ireland (the)</narrative>
+                <narrative>UK</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>US</code>
             <name>
-                <narrative>United States of America (the)</narrative>
+                <narrative>US</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UM</code>
             <name>
-                <narrative>United States Minor Outlying Islands (the)</narrative>
+                <narrative>U.S. Outlying Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1473,31 +1473,31 @@
         <codelist-item>
             <code>VE</code>
             <name>
-                <narrative>Venezuela (Bolivarian Republic of)</narrative>
+                <narrative>Venezuela</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VN</code>
             <name>
-                <narrative>Viet Nam</narrative>
+                <narrative>Vietnam</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VG</code>
             <name>
-                <narrative>Virgin Islands (British)</narrative>
+                <narrative>British Virgin Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VI</code>
             <name>
-                <narrative>Virgin Islands (U.S.)</narrative>
+                <narrative>U.S. Virgin Islands</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>WF</code>
             <name>
-                <narrative>Wallis and Futuna</narrative>
+                <narrative>Wallis &amp; Futuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
