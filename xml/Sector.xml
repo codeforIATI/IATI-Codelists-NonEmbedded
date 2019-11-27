@@ -1,5 +1,4 @@
-<?xml version="1.0" ?>
-<codelist category-codelist="SectorCategory" complete="1" embedded="0" name="Sector" xml:lang="en" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
+<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
     <metadata>
         <name>
             <narrative>DAC 5 Digit Sector</narrative>
@@ -119,7 +118,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>11250</code>
             <name>
                 <narrative>School feeding</narrative>
@@ -348,7 +347,7 @@
             </description>
             <category>122</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12310</code>
             <name>
                 <narrative>NCDs control, general</narrative>
@@ -360,7 +359,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12320</code>
             <name>
                 <narrative>Tobacco use control</narrative>
@@ -372,7 +371,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12330</code>
             <name>
                 <narrative>Control of harmful use of alcohol and drugs</narrative>
@@ -384,7 +383,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12340</code>
             <name>
                 <narrative>Promotion of mental health and well-being</narrative>
@@ -396,7 +395,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12350</code>
             <name>
                 <narrative>Other prevention and treatment of NCDs</narrative>
@@ -408,7 +407,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>12382</code>
             <name>
                 <narrative>Research for prevention and control of NCDs</narrative>
@@ -1133,7 +1132,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item activation-date="2016-01-01" status="active">
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>15180</code>
             <name>
                 <narrative>Ending violence against women and girls</narrative>
@@ -1189,7 +1188,7 @@
             </name>
             <description>
                 <narrative>Support for civilian activities related to peace building, conflict prevention and resolution, including capacity building, monitoring, dialogue and information exchange. Bilateral participation in international civilian peace missions such as those conducted by the UN Department of Political Affairs (UNDPA) or the European Union (European Security and Defence Policy), and contributions to civilian peace funds or commissions (e.g. Peacebuilding Commission, Peacebuilding thematic window of the MDG achievement fund etc.). The contributions can take the form of financing or provision of equipment or civilian or military personnel (e.g. for training civilians).(Use code 15230 for bilateral participation in international peacekeeping operations).</narrative>
-                <narrative xml:lang="fr">Aide à des activités civiles de construction de la paix, et de prévention et de règlement des conflits, y compris renforcement des capacités, suivi, dialogue et échange d’informations. Participation bilatérale à des missions civiles internationales en faveur de la paix comme celles qui sont conduites par le Département des affaires politiques des Nations unies (UNDPA) ou l’Union européenne (Politique européenne de sécurité et de défense), et contributions à des fonds ou commissions civils pour la paix (par exemple, Commission de consolidation de la paix, guichet thématique &quot;Construction de la paix&quot; du Fonds pour la réalisation des OMD, etc.). Les contributions peuvent être apportées sous la forme d’un financement ou à travers la fourniture de matériel ou de personnel civil ou militaire (par exemple, pour la formation des civils). (Utiliser le code [15230] pour la participation bilatérale à des opérations internationales de maintien de la paix.)</narrative>
+                <narrative xml:lang="fr">Aide à des activités civiles de construction de la paix, et de prévention et de règlement des conflits, y compris renforcement des capacités, suivi, dialogue et échange d’informations. Participation bilatérale à des missions civiles internationales en faveur de la paix comme celles qui sont conduites par le Département des affaires politiques des Nations unies (UNDPA) ou l’Union européenne (Politique européenne de sécurité et de défense), et contributions à des fonds ou commissions civils pour la paix (par exemple, Commission de consolidation de la paix, guichet thématique "Construction de la paix" du Fonds pour la réalisation des OMD, etc.). Les contributions peuvent être apportées sous la forme d’un financement ou à travers la fourniture de matériel ou de personnel civil ou militaire (par exemple, pour la formation des civils). (Utiliser le code [15230] pour la participation bilatérale à des opérations internationales de maintien de la paix.)</narrative>
             </description>
             <category>152</category>
         </codelist-item>
@@ -1435,7 +1434,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>16070</code>
             <name>
                 <narrative>Labour Rights</narrative>
@@ -1447,7 +1446,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>16080</code>
             <name>
                 <narrative>Social Dialogue</narrative>
@@ -1722,7 +1721,7 @@
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
-                <narrative xml:lang="fr">Politique de l’énergie, planification et programmes; aide aux ministères de l’énergie; renforcement des capacités institutionnelles et conseils; activités non spécifiées dans le domaine de l’énergie y compris les économies d’énergie.</narrative>
+                <narrative xml:lang="fr">Politique de l’énergie, planification et programmes; aide aux ministères de l’énergie; renforcement des capacités institutionnelles et conseils; activités non spécifiées dans le domaine de l’énergie y compris les économies d’énergie. </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1758,7 +1757,7 @@
             </name>
             <description>
                 <narrative>Distribution from power source to end user; transmission lines.</narrative>
-                <narrative xml:lang="fr">Distribution de la source d’énergie au consommateur; lignes de transmission.</narrative>
+                <narrative xml:lang="fr">Distribution de la source d’énergie au consommateur; lignes de transmission. </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -2264,7 +2263,7 @@
             </description>
             <category>240</category>
         </codelist-item>
-        <codelist-item activation-date="2017-01-01" status="active">
+        <codelist-item status="active" activation-date="2017-01-01">
             <code>24050</code>
             <name>
                 <narrative>Remittance facilitation, promotion and optimisation</narrative>
@@ -2312,7 +2311,7 @@
             </description>
             <category>250</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>25030</code>
             <name>
                 <narrative>Business development services</narrative>
@@ -2324,7 +2323,7 @@
             </description>
             <category>250</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>25040</code>
             <name>
                 <narrative>Responsible Business Conduct</narrative>
@@ -3288,7 +3287,7 @@
             <category>430</category>
             <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>43060</code>
             <name>
                 <narrative>Disaster Risk Reduction</narrative>
@@ -3300,7 +3299,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>43071</code>
             <name>
                 <narrative>Food security policy and administrative management</narrative>
@@ -3312,7 +3311,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>43072</code>
             <name>
                 <narrative>Household food security programmes</narrative>
@@ -3324,7 +3323,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>43073</code>
             <name>
                 <narrative>Food safety and quality</narrative>
@@ -3555,7 +3554,7 @@
             </description>
             <category>740</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>74020</code>
             <name>
                 <narrative>Multi-hazard response preparedness</narrative>
@@ -3621,7 +3620,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93011</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
@@ -3633,7 +3632,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93012</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
@@ -3645,7 +3644,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93013</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - health</narrative>
@@ -3657,7 +3656,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93014</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - other temporary sustenance</narrative>
@@ -3669,7 +3668,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93015</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - voluntary repatriation</narrative>
@@ -3681,7 +3680,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93016</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - transport</narrative>
@@ -3693,7 +3692,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93017</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - rescue at sea</narrative>
@@ -3705,7 +3704,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item activation-date="2018-01-01" status="active">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93018</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - administrative costs</narrative>
