@@ -1,4 +1,5 @@
-<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
+<?xml version="1.0" ?>
+<codelist category-codelist="SectorCategory" complete="1" embedded="0" name="Sector" xml:lang="en" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
     <metadata>
         <name>
             <narrative>DAC 5 Digit Sector</narrative>
@@ -118,7 +119,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>11250</code>
             <name>
                 <narrative>School feeding</narrative>
@@ -347,7 +348,7 @@
             </description>
             <category>122</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12310</code>
             <name>
                 <narrative>NCDs control, general</narrative>
@@ -359,7 +360,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12320</code>
             <name>
                 <narrative>Tobacco use control</narrative>
@@ -371,7 +372,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12330</code>
             <name>
                 <narrative>Control of harmful use of alcohol and drugs</narrative>
@@ -383,7 +384,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12340</code>
             <name>
                 <narrative>Promotion of mental health and well-being</narrative>
@@ -395,7 +396,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12350</code>
             <name>
                 <narrative>Other prevention and treatment of NCDs</narrative>
@@ -407,7 +408,7 @@
             </description>
             <category>123</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>12382</code>
             <name>
                 <narrative>Research for prevention and control of NCDs</narrative>
@@ -1132,7 +1133,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2016-01-01">
+        <codelist-item activation-date="2016-01-01" status="active">
             <code>15180</code>
             <name>
                 <narrative>Ending violence against women and girls</narrative>
@@ -1188,7 +1189,7 @@
             </name>
             <description>
                 <narrative>Support for civilian activities related to peace building, conflict prevention and resolution, including capacity building, monitoring, dialogue and information exchange. Bilateral participation in international civilian peace missions such as those conducted by the UN Department of Political Affairs (UNDPA) or the European Union (European Security and Defence Policy), and contributions to civilian peace funds or commissions (e.g. Peacebuilding Commission, Peacebuilding thematic window of the MDG achievement fund etc.). The contributions can take the form of financing or provision of equipment or civilian or military personnel (e.g. for training civilians).(Use code 15230 for bilateral participation in international peacekeeping operations).</narrative>
-                <narrative xml:lang="fr">Aide à des activités civiles de construction de la paix, et de prévention et de règlement des conflits, y compris renforcement des capacités, suivi, dialogue et échange d’informations. Participation bilatérale à des missions civiles internationales en faveur de la paix comme celles qui sont conduites par le Département des affaires politiques des Nations unies (UNDPA) ou l’Union européenne (Politique européenne de sécurité et de défense), et contributions à des fonds ou commissions civils pour la paix (par exemple, Commission de consolidation de la paix, guichet thématique "Construction de la paix" du Fonds pour la réalisation des OMD, etc.). Les contributions peuvent être apportées sous la forme d’un financement ou à travers la fourniture de matériel ou de personnel civil ou militaire (par exemple, pour la formation des civils). (Utiliser le code [15230] pour la participation bilatérale à des opérations internationales de maintien de la paix.)</narrative>
+                <narrative xml:lang="fr">Aide à des activités civiles de construction de la paix, et de prévention et de règlement des conflits, y compris renforcement des capacités, suivi, dialogue et échange d’informations. Participation bilatérale à des missions civiles internationales en faveur de la paix comme celles qui sont conduites par le Département des affaires politiques des Nations unies (UNDPA) ou l’Union européenne (Politique européenne de sécurité et de défense), et contributions à des fonds ou commissions civils pour la paix (par exemple, Commission de consolidation de la paix, guichet thématique &quot;Construction de la paix&quot; du Fonds pour la réalisation des OMD, etc.). Les contributions peuvent être apportées sous la forme d’un financement ou à travers la fourniture de matériel ou de personnel civil ou militaire (par exemple, pour la formation des civils). (Utiliser le code [15230] pour la participation bilatérale à des opérations internationales de maintien de la paix.)</narrative>
             </description>
             <category>152</category>
         </codelist-item>
@@ -1434,7 +1435,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>16070</code>
             <name>
                 <narrative>Labour Rights</narrative>
@@ -1446,7 +1447,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>16080</code>
             <name>
                 <narrative>Social Dialogue</narrative>
@@ -1717,9 +1718,11 @@
             <code>23010</code>
             <name>
                 <narrative>Energy policy and administrative management</narrative>
+                <narrative xml:lang="fr">Politique de l’énergie et gestion administrative</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
+                <narrative xml:lang="fr">Politique de l’énergie, planification et programmes; aide aux ministères de l’énergie; renforcement des capacités institutionnelles et conseils; activités non spécifiées dans le domaine de l’énergie y compris les économies d’énergie.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1727,9 +1730,11 @@
             <code>23020</code>
             <name>
                 <narrative>Power generation/non-renewable sources</narrative>
+                <narrative xml:lang="fr">Production d’énergie (sources non renouvelables)</narrative>
             </name>
             <description>
                 <narrative>Thermal power plants including when heat source cannot be determined; combined gas-coal power plants.</narrative>
+                <narrative xml:lang="fr">Centrales thermiques (lorsque la source de chaleur ne peut être déterminée); centrales alimentées au gaz et au charbon.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1737,9 +1742,11 @@
             <code>23030</code>
             <name>
                 <narrative>Power generation/renewable sources</narrative>
+                <narrative xml:lang="fr">Production d’énergie (sources renouvelables)</narrative>
             </name>
             <description>
                 <narrative>Including policy, planning, development programmes, surveys and incentives. Fuelwood/ charcoal production should be included under forestry (31261).</narrative>
+                <narrative xml:lang="fr">Y compris politique et planification, programmes de développement, études et primes. Production de bois de chauffage et de charbon de bois devrait être incluse dans sylviculture (31261). </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1747,9 +1754,11 @@
             <code>23040</code>
             <name>
                 <narrative>Electrical transmission/ distribution</narrative>
+                <narrative xml:lang="fr">Transmission et distribution d’électricité</narrative>
             </name>
             <description>
                 <narrative>Distribution from power source to end user; transmission lines.</narrative>
+                <narrative xml:lang="fr">Distribution de la source d’énergie au consommateur; lignes de transmission.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1757,9 +1766,11 @@
             <code>23050</code>
             <name>
                 <narrative>Gas distribution</narrative>
+                <narrative xml:lang="fr">Distribution de gaz</narrative>
             </name>
             <description>
                 <narrative>Delivery for use by ultimate consumer.</narrative>
+                <narrative xml:lang="fr">Distribution au consommateur.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1767,9 +1778,11 @@
             <code>23061</code>
             <name>
                 <narrative>Oil-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au fuel</narrative>
             </name>
             <description>
                 <narrative>Including diesel power plants.</narrative>
+                <narrative xml:lang="fr">Y compris les centrales alimentées au gas-oil.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1777,6 +1790,7 @@
             <code>23062</code>
             <name>
                 <narrative>Gas-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au gaz</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1787,6 +1801,7 @@
             <code>23063</code>
             <name>
                 <narrative>Coal-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au charbon</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1797,9 +1812,11 @@
             <code>23064</code>
             <name>
                 <narrative>Nuclear power plants</narrative>
+                <narrative xml:lang="fr">Centrales nucléaires</narrative>
             </name>
             <description>
                 <narrative>Including nuclear safety.</narrative>
+                <narrative xml:lang="fr">Y compris la sécurité nucléaire. L’aide visant à favoriser une utilisation pacifique de l’énergie nucléaire est comptabilisable dans l’APD. À titre d’exemples, on citera : la construction ou le déclassement de centrales nucléaires à des fins civiles, le développement ou la fourniture d’isotopes médicaux, l’irradiation des aliments et d’autres applications industrielles et commerciales. Sont par contre exclues les activités de recherche sur les armes nucléaires et les applications militaires de la technologie nucléaire.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1807,9 +1824,11 @@
             <code>23065</code>
             <name>
                 <narrative>Hydro-electric power plants</narrative>
+                <narrative xml:lang="fr">Centrales et barrages hydroélectriques</narrative>
             </name>
             <description>
                 <narrative>Including power-generating river barges.</narrative>
+                <narrative xml:lang="fr">Y compris les installations sur les barges.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1817,6 +1836,7 @@
             <code>23066</code>
             <name>
                 <narrative>Geothermal energy</narrative>
+                <narrative xml:lang="fr">Énergie géothermique</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1827,9 +1847,11 @@
             <code>23067</code>
             <name>
                 <narrative>Solar energy</narrative>
+                <narrative xml:lang="fr">Énergie solaire</narrative>
             </name>
             <description>
                 <narrative>Including photo-voltaic cells, solar thermal applications and solar heating.</narrative>
+                <narrative xml:lang="fr">Y compris les cellules photovoltaïques et les pompes à énergie solaire.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1837,9 +1859,11 @@
             <code>23068</code>
             <name>
                 <narrative>Wind power</narrative>
+                <narrative xml:lang="fr">Énergie éolienne</narrative>
             </name>
             <description>
                 <narrative>Wind energy for water lifting and electric power generation.</narrative>
+                <narrative xml:lang="fr">Énergie éolienne pour l’hydrodynamique et la production d’électricité.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1847,9 +1871,11 @@
             <code>23069</code>
             <name>
                 <narrative>Ocean power</narrative>
+                <narrative xml:lang="fr">Énergie marémotrice</narrative>
             </name>
             <description>
                 <narrative>Including ocean thermal energy conversion, tidal and wave power.</narrative>
+                <narrative xml:lang="fr">Y compris la conversion de l’énergie thermique marine, la puissance des marées et des vagues.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1857,9 +1883,11 @@
             <code>23070</code>
             <name>
                 <narrative>Biomass</narrative>
+                <narrative xml:lang="fr">Biomasse</narrative>
             </name>
             <description>
                 <narrative>Densification technologies and use of biomass for direct power generation including biogas, gas obtained from sugar cane and other plant residues, anaerobic digesters.</narrative>
+                <narrative xml:lang="fr">Technologies de densification et utilisation de la biomasse pour la production d’énergie directe, y compris le gaz obtenu par fermentation de la canne à sucre et d’autres résidus végétaux, et par anaérobie.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1867,9 +1895,11 @@
             <code>23081</code>
             <name>
                 <narrative>Energy education/training</narrative>
+                <narrative xml:lang="fr">Éducation et formation dans le domaine de l’énergie</narrative>
             </name>
             <description>
                 <narrative>Applies to all energy sub-sectors; all levels of training.</narrative>
+                <narrative xml:lang="fr">Se rapporte à tous les sous-secteurs de l’énergie et à tous les niveaux de formation.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1877,9 +1907,11 @@
             <code>23082</code>
             <name>
                 <narrative>Energy research</narrative>
+                <narrative xml:lang="fr">Recherche dans le domaine de l’énergie</narrative>
             </name>
             <description>
                 <narrative>Including general inventories, surveys.</narrative>
+                <narrative xml:lang="fr">Y compris inventaires et études.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -2232,7 +2264,7 @@
             </description>
             <category>240</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2017-01-01">
+        <codelist-item activation-date="2017-01-01" status="active">
             <code>24050</code>
             <name>
                 <narrative>Remittance facilitation, promotion and optimisation</narrative>
@@ -2280,7 +2312,7 @@
             </description>
             <category>250</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>25030</code>
             <name>
                 <narrative>Business development services</narrative>
@@ -2292,7 +2324,7 @@
             </description>
             <category>250</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>25040</code>
             <name>
                 <narrative>Responsible Business Conduct</narrative>
@@ -3256,7 +3288,7 @@
             <category>430</category>
             <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>43060</code>
             <name>
                 <narrative>Disaster Risk Reduction</narrative>
@@ -3268,7 +3300,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>43071</code>
             <name>
                 <narrative>Food security policy and administrative management</narrative>
@@ -3280,7 +3312,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>43072</code>
             <name>
                 <narrative>Household food security programmes</narrative>
@@ -3292,7 +3324,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>43073</code>
             <name>
                 <narrative>Food safety and quality</narrative>
@@ -3523,7 +3555,7 @@
             </description>
             <category>740</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>74020</code>
             <name>
                 <narrative>Multi-hazard response preparedness</narrative>
@@ -3589,7 +3621,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93011</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
@@ -3601,7 +3633,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93012</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
@@ -3613,7 +3645,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93013</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - health</narrative>
@@ -3625,7 +3657,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93014</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - other temporary sustenance</narrative>
@@ -3637,7 +3669,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93015</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - voluntary repatriation</narrative>
@@ -3649,7 +3681,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93016</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - transport</narrative>
@@ -3661,7 +3693,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93017</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - rescue at sea</narrative>
@@ -3673,7 +3705,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2018-01-01">
+        <codelist-item activation-date="2018-01-01" status="active">
             <code>93018</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - administrative costs</narrative>
