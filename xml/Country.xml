@@ -15,6 +15,12 @@
     </metadata>
     <codelist-items>
         <codelist-item>
+            <code>XK</code>
+            <name>
+                <narrative>Kosovo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>AF</code>
             <name>
                 <narrative>Afghanistan</narrative>
@@ -859,12 +865,6 @@
             <name>
                 <narrative>Korea (the Republic of)</narrative>
                 <narrative xml:lang="fr">Corée (la République de)</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
-            <code>XK</code>
-            <name>
-                <narrative>Kosovo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1773,8 +1773,8 @@
         <codelist-item>
             <code>EH</code>
             <name>
-                <narrative>Western Sahara</narrative>
-                <narrative xml:lang="fr">Sahara occidental (le)</narrative>
+                <narrative>Western Sahara*</narrative>
+                <narrative xml:lang="fr">Sahara occidental (le)*</narrative>
             </name>
         </codelist-item>
         <codelist-item>
