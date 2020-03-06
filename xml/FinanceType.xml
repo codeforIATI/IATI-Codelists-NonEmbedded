@@ -21,8 +21,7 @@
                 <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
             </name>
             <description>
-                <narrative>GNI: Gross National Income</narrative>
-                <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
+                <narrative/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -68,8 +67,7 @@
                 <narrative xml:lang="fr">APD en % du RNB</narrative>
             </name>
             <description>
-                <narrative>ODA % GNI</narrative>
-                <narrative xml:lang="fr">APD en % du RNB</narrative>
+                <narrative/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -104,8 +102,7 @@
                 <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
             </name>
             <description>
-                <narrative>Total Flows % GNI</narrative>
-                <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
+                <narrative/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -140,8 +137,7 @@
                 <narrative xml:lang="fr">Population</narrative>
             </name>
             <description>
-                <narrative>Population</narrative>
-                <narrative xml:lang="fr">Population</narrative>
+                <narrative/>
             </description>
             <category>0</category>
         </codelist-item>
