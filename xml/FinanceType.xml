@@ -2,11 +2,9 @@
     <metadata>
         <name>
             <narrative>Finance Type</narrative>
-            <narrative xml:lang="fr">Type de financement</narrative>
         </name>
         <description>
             <narrative>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</narrative>
-            <narrative xml:lang="fr">Classification de transaction du CAD/SNPC pour distinguer les instruments financiers, par exemple les subventions ou prêts.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>
@@ -21,8 +19,8 @@
                 <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
             </name>
             <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
+                <narrative>GNI: Gross National Income</narrative>
+                <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
             </description>
             <category>0</category>
         </codelist-item>
@@ -46,7 +44,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>1000</category>
         </codelist-item>
@@ -69,8 +66,8 @@
                 <narrative xml:lang="fr">APD en % du RNB</narrative>
             </name>
             <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
+                <narrative>ODA % GNI</narrative>
+                <narrative xml:lang="fr">APD en % du RNB</narrative>
             </description>
             <category>0</category>
         </codelist-item>
@@ -105,8 +102,8 @@
                 <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
             </name>
             <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
+                <narrative>Total Flows % GNI</narrative>
+                <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
             </description>
             <category>0</category>
         </codelist-item>
@@ -141,8 +138,8 @@
                 <narrative xml:lang="fr">Population</narrative>
             </name>
             <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
+                <narrative>Population</narrative>
+                <narrative xml:lang="fr">Population</narrative>
             </description>
             <category>0</category>
         </codelist-item>
@@ -262,7 +259,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>420</category>
         </codelist-item>
@@ -406,7 +402,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -418,7 +413,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -430,7 +424,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -442,7 +435,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -454,7 +446,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -466,7 +457,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -478,7 +468,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -490,7 +479,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -502,7 +490,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -514,7 +501,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -526,7 +512,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -538,7 +523,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -550,7 +534,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -562,7 +545,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -574,7 +556,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -586,7 +567,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -598,7 +578,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -610,7 +589,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -622,7 +600,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -634,7 +611,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -646,7 +622,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -658,7 +633,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -670,7 +644,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -682,7 +655,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -694,7 +666,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -706,7 +677,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -718,7 +688,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
