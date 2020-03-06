@@ -1117,5 +1117,873 @@
                 <narrative>Zimbabwe Dollar</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XBA</code>
+            <name>
+                <narrative>Bond Markets Unit European Composite Unit (EURCO)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XBB</code>
+            <name>
+                <narrative>Bond Markets Unit European Monetary Unit (E.M.U.-6)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XBC</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XBD</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XTS</code>
+            <name>
+                <narrative>Codes specifically reserved for testing purposes</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XXX</code>
+            <name>
+                <narrative>The codes assigned for transactions where no currency is involved</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XAU</code>
+            <name>
+                <narrative>Gold</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XPD</code>
+            <name>
+                <narrative>Palladium</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XPT</code>
+            <name>
+                <narrative>Platinum</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XAG</code>
+            <name>
+                <narrative>Silver</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AFA</code>
+            <name>
+                <narrative>Afghani</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>FIM</code>
+            <name>
+                <narrative>Markka</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ALK</code>
+            <name>
+                <narrative>Old Lek</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ADP</code>
+            <name>
+                <narrative>Andorran Peseta</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ESP</code>
+            <name>
+                <narrative>Spanish Peseta</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>FRF</code>
+            <name>
+                <narrative>French Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AOK</code>
+            <name>
+                <narrative>Kwanza</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AON</code>
+            <name>
+                <narrative>New Kwanza</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AOR</code>
+            <name>
+                <narrative>Kwanza Reajustado</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ARA</code>
+            <name>
+                <narrative>Austral</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ARP</code>
+            <name>
+                <narrative>Peso Argentino</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ARY</code>
+            <name>
+                <narrative>Peso</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>RUR</code>
+            <name>
+                <narrative>Russian Ruble</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ATS</code>
+            <name>
+                <narrative>Schilling</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AYM</code>
+            <name>
+                <narrative>Azerbaijan Manat</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>AZM</code>
+            <name>
+                <narrative>Azerbaijanian Manat</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BYB</code>
+            <name>
+                <narrative>Belarusian Ruble</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BEC</code>
+            <name>
+                <narrative>Convertible Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BEF</code>
+            <name>
+                <narrative>Belgian Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BEL</code>
+            <name>
+                <narrative>Financial Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BOP</code>
+            <name>
+                <narrative>Peso boliviano</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BAD</code>
+            <name>
+                <narrative>Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BRB</code>
+            <name>
+                <narrative>Cruzeiro</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BRC</code>
+            <name>
+                <narrative>Cruzado</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BRE</code>
+            <name>
+                <narrative>Cruzeiro</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BRN</code>
+            <name>
+                <narrative>New Cruzado</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BRR</code>
+            <name>
+                <narrative>Cruzeiro Real</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BGJ</code>
+            <name>
+                <narrative>Lev A/52</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BGK</code>
+            <name>
+                <narrative>Lev A/62</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BGL</code>
+            <name>
+                <narrative>Lev</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>BUK</code>
+            <name>
+                <narrative>Kyat</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>HRD</code>
+            <name>
+                <narrative>Croatian Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CYP</code>
+            <name>
+                <narrative>Cyprus Pound</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CSJ</code>
+            <name>
+                <narrative>Krona A/53</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CSK</code>
+            <name>
+                <narrative>Koruna</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ECS</code>
+            <name>
+                <narrative>Sucre</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ECV</code>
+            <name>
+                <narrative>Unidad de Valor Constante (UVC)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GQE</code>
+            <name>
+                <narrative>Ekwele</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XEU</code>
+            <name>
+                <narrative>European Currency Unit (E.C.U)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GEK</code>
+            <name>
+                <narrative>Georgian Coupon</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>DDM</code>
+            <name>
+                <narrative>Mark der DDR</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>DEM</code>
+            <name>
+                <narrative>Deutsche Mark</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GHC</code>
+            <name>
+                <narrative>Cedi</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GHP</code>
+            <name>
+                <narrative>Ghana Cedi</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GRD</code>
+            <name>
+                <narrative>Drachma</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GNE</code>
+            <name>
+                <narrative>Syli</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GNS</code>
+            <name>
+                <narrative>Syli</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GWE</code>
+            <name>
+                <narrative>Guinea Escudo</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>GWP</code>
+            <name>
+                <narrative>Guinea-Bissau Peso</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ITL</code>
+            <name>
+                <narrative>Italian Lira</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ISJ</code>
+            <name>
+                <narrative>Old Krona</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>IEP</code>
+            <name>
+                <narrative>Irish Pound</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ILP</code>
+            <name>
+                <narrative>Pound</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ILR</code>
+            <name>
+                <narrative>Old Shekel</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LAJ</code>
+            <name>
+                <narrative>Pathet Lao Kip</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LVR</code>
+            <name>
+                <narrative>Latvian Ruble</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LSM</code>
+            <name>
+                <narrative>Loti</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZAL</code>
+            <name>
+                <narrative>Financial Rand</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LTT</code>
+            <name>
+                <narrative>Talonas</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LUC</code>
+            <name>
+                <narrative>Luxembourg Convertible Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LUF</code>
+            <name>
+                <narrative>Luxembourg Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>LUL</code>
+            <name>
+                <narrative>Luxembourg Financial Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MGF</code>
+            <name>
+                <narrative>Malagasy Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MVQ</code>
+            <name>
+                <narrative>Maldive Rupee</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MLF</code>
+            <name>
+                <narrative>Mali Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MTL</code>
+            <name>
+                <narrative>Maltese Lira</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MTP</code>
+            <name>
+                <narrative>Maltese Pound</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MXP</code>
+            <name>
+                <narrative>Mexican Peso</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MZE</code>
+            <name>
+                <narrative>Mozambique Escudo</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>MZM</code>
+            <name>
+                <narrative>Mozambique Metical</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>NLG</code>
+            <name>
+                <narrative>Netherlands Guilder</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>NIC</code>
+            <name>
+                <narrative>Cordoba</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>PEH</code>
+            <name>
+                <narrative>Sol</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>PEI</code>
+            <name>
+                <narrative>Inti</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>PES</code>
+            <name>
+                <narrative>Sol</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>PLZ</code>
+            <name>
+                <narrative>Zloty</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>PTE</code>
+            <name>
+                <narrative>Portuguese Escudo</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ROK</code>
+            <name>
+                <narrative>Leu A/52</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ROL</code>
+            <name>
+                <narrative>Old Leu</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CSD</code>
+            <name>
+                <narrative>Serbian Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SKK</code>
+            <name>
+                <narrative>Slovak Koruna</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SIT</code>
+            <name>
+                <narrative>Tolar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>RHD</code>
+            <name>
+                <narrative>Rhodesian Dollar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ESA</code>
+            <name>
+                <narrative>Spanish Peseta</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ESB</code>
+            <name>
+                <narrative>"A" Account (convertible Peseta Account)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SDD</code>
+            <name>
+                <narrative>Sudanese Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SDP</code>
+            <name>
+                <narrative>Sudanese Pound</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SRG</code>
+            <name>
+                <narrative>Surinam Guilder</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CHC</code>
+            <name>
+                <narrative>WIR Franc (for electronic)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>TJR</code>
+            <name>
+                <narrative>Tajik Ruble</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>TPE</code>
+            <name>
+                <narrative>Timor Escudo</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>TRL</code>
+            <name>
+                <narrative>Old Turkish Lira</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>TMM</code>
+            <name>
+                <narrative>Turkmenistan Manat</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UGS</code>
+            <name>
+                <narrative>Uganda Shilling</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UGW</code>
+            <name>
+                <narrative>Old Shilling</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UAK</code>
+            <name>
+                <narrative>Karbovanet</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>SUR</code>
+            <name>
+                <narrative>Rouble</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UYN</code>
+            <name>
+                <narrative>Old Uruguay Peso</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UYP</code>
+            <name>
+                <narrative>Uruguayan Peso</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>VEB</code>
+            <name>
+                <narrative>Bolivar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>VNC</code>
+            <name>
+                <narrative>Old Dong</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>YDD</code>
+            <name>
+                <narrative>Yemeni Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>YUD</code>
+            <name>
+                <narrative>New Yugoslavian Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>YUM</code>
+            <name>
+                <narrative>New Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>YUN</code>
+            <name>
+                <narrative>Yugoslavian Dinar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZRN</code>
+            <name>
+                <narrative>New Zaire</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZRZ</code>
+            <name>
+                <narrative>Zaire</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZWC</code>
+            <name>
+                <narrative>Rhodesian Dollar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZWD</code>
+            <name>
+                <narrative>Zimbabwe Dollar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZWN</code>
+            <name>
+                <narrative>Zimbabwe Dollar (new)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>ZWR</code>
+            <name>
+                <narrative>Zimbabwe Dollar</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XFO</code>
+            <name>
+                <narrative>Gold-Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XRE</code>
+            <name>
+                <narrative>RINET Funds Code</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XFU</code>
+            <name>
+                <narrative>UIC-Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
     </codelist-items>
 </codelist>
