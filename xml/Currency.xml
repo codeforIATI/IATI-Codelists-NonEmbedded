@@ -2,11 +2,9 @@
     <metadata>
         <name>
             <narrative>Currency</narrative>
-            <narrative xml:lang="fr">Devise</narrative>
         </name>
         <description>
             <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
-            <narrative xml:lang="fr">ISO 4217 La devise utilisée pour tous les budgets et transactions</narrative>
         </description>
         <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
         <category>
@@ -41,7 +39,7 @@
         <codelist-item>
             <code>ANG</code>
             <name>
-                <narrative>Netherlands Antillian Guilder</narrative>
+                <narrative>Netherlands Antillean Guilder</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -65,19 +63,19 @@
         <codelist-item>
             <code>AWG</code>
             <name>
-                <narrative>Aruban Guilder</narrative>
+                <narrative>Aruban Florin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AZN</code>
             <name>
-                <narrative>Azerbaijanian Manat</narrative>
+                <narrative>Azerbaijan Manat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BAM</code>
             <name>
-                <narrative>Convertible Marks</narrative>
+                <narrative>Convertible Mark</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -161,7 +159,7 @@
         <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>BYR</code>
             <name>
-                <narrative>Belarussian Ruble</narrative>
+                <narrative>Belarusian Ruble</narrative>
             </name>
             <description>
                 <narrative>Withdrawn from ISO Currency codelist. Use code BYN.</narrative>
@@ -170,7 +168,7 @@
         <codelist-item>
             <code>BYN</code>
             <name>
-                <narrative>Belarussian Ruble</narrative>
+                <narrative>Belarusian Ruble</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -200,7 +198,7 @@
         <codelist-item>
             <code>CLF</code>
             <name>
-                <narrative>Unidades de fomento</narrative>
+                <narrative>Unidad de Fomento</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -248,7 +246,7 @@
         <codelist-item>
             <code>CVE</code>
             <name>
-                <narrative>Cape Verde Escudo</narrative>
+                <narrative>Cabo Verde Escudo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -341,7 +339,7 @@
         <codelist-item>
             <code>GHS</code>
             <name>
-                <narrative>Cedi</narrative>
+                <narrative>Ghana Cedi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -359,7 +357,7 @@
         <codelist-item>
             <code>GNF</code>
             <name>
-                <narrative>Guinea Franc</narrative>
+                <narrative>Guinean Franc</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -389,7 +387,7 @@
         <codelist-item>
             <code>HRK</code>
             <name>
-                <narrative>Kuna</narrative>
+                <narrative>Croatian Kuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -479,7 +477,7 @@
         <codelist-item>
             <code>KMF</code>
             <name>
-                <narrative>Comoro Franc</narrative>
+                <narrative>Comorian Franc</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -515,7 +513,7 @@
         <codelist-item>
             <code>LAK</code>
             <name>
-                <narrative>Kip</narrative>
+                <narrative>Lao Kip</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -638,7 +636,7 @@
         <codelist-item>
             <code>MWK</code>
             <name>
-                <narrative>Malawi Kwacha</narrative>
+                <narrative>Kwacha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -662,7 +660,7 @@
         <codelist-item>
             <code>MZN</code>
             <name>
-                <narrative>Metical</narrative>
+                <narrative>Mozambique Metical</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -758,7 +756,7 @@
         <codelist-item>
             <code>RON</code>
             <name>
-                <narrative>Romanian Leu</narrative>
+                <narrative>New Romanian Leu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -893,7 +891,7 @@
         <codelist-item>
             <code>TMT</code>
             <name>
-                <narrative>Manat</narrative>
+                <narrative>Turkmenistan New Manat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -905,13 +903,13 @@
         <codelist-item>
             <code>TOP</code>
             <name>
-                <narrative>Paanga</narrative>
+                <narrative>Pa’anga</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TRY</code>
             <name>
-                <narrative>Turkish Lira</narrative>
+                <narrative>New Turkish Lira</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -968,7 +966,7 @@
         <codelist-item>
             <code>UYI</code>
             <name>
-                <narrative>Uruguay Peso en Unidades Indexadas</narrative>
+                <narrative>Uruguay Peso en Unidades Indexadas (UI)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -986,13 +984,13 @@
         <codelist-item status="withdrawn" withdrawal-date="2018-12-06">
             <code>VEF</code>
             <name>
-                <narrative>Bolivar</narrative>
+                <narrative>Bolívar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VES</code>
             <name>
-                <narrative>Bolivar Soberano</narrative>
+                <narrative>Bolívar Soberano</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1019,7 +1017,7 @@
                 <narrative>CFA Franc BEAC</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2020-03-06">
             <code>XBT</code>
             <name>
                 <narrative>Bitcoin</narrative>
@@ -1034,7 +1032,7 @@
         <codelist-item>
             <code>XDR</code>
             <name>
-                <narrative>International Monetary Fund (IMF) Special Drawing Right (SDR)</narrative>
+                <narrative>SDR (Special Drawing Right)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1059,6 +1057,41 @@
             <code>ZAR</code>
             <name>
                 <narrative>Rand</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XUA</code>
+            <name>
+                <narrative>ADB Unit of Account</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>XSU</code>
+            <name>
+                <narrative>Sucre</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CHE</code>
+            <name>
+                <narrative>WIR Euro</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>CHW</code>
+            <name>
+                <narrative>WIR Franc</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-03-06">
+            <code>UYW</code>
+            <name>
+                <narrative>Unidad Previsional</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
