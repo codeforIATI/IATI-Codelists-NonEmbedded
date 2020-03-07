@@ -38,10 +38,10 @@
                 <narrative>Armenian Dram</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2010-10" status="withdrawn">
             <code>ANG</code>
             <name>
-                <narrative>Netherlands Antillian Guilder</narrative>
+                <narrative>Netherlands Antillean Guilder</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -65,19 +65,19 @@
         <codelist-item>
             <code>AWG</code>
             <name>
-                <narrative>Aruban Guilder</narrative>
+                <narrative>Aruban Florin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AZN</code>
             <name>
-                <narrative>Azerbaijanian Manat</narrative>
+                <narrative>Azerbaijan Manat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BAM</code>
             <name>
-                <narrative>Convertible Marks</narrative>
+                <narrative>Convertible Mark</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -158,10 +158,10 @@
                 <narrative>Pula</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2017-01">
             <code>BYR</code>
             <name>
-                <narrative>Belarussian Ruble</narrative>
+                <narrative>Belarusian Ruble</narrative>
             </name>
             <description>
                 <narrative>Withdrawn from ISO Currency codelist. Use code BYN.</narrative>
@@ -170,7 +170,7 @@
         <codelist-item>
             <code>BYN</code>
             <name>
-                <narrative>Belarussian Ruble</narrative>
+                <narrative>Belarusian Ruble</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -200,7 +200,7 @@
         <codelist-item>
             <code>CLF</code>
             <name>
-                <narrative>Unidades de fomento</narrative>
+                <narrative>Unidad de Fomento</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -248,7 +248,7 @@
         <codelist-item>
             <code>CVE</code>
             <name>
-                <narrative>Cape Verde Escudo</narrative>
+                <narrative>Cabo Verde Escudo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -281,7 +281,7 @@
                 <narrative>Algerian Dinar</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2011-01">
             <code>EEK</code>
             <name>
                 <narrative>Kroon</narrative>
@@ -308,7 +308,7 @@
                 <narrative>Ethiopian Birr</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2006-10" status="withdrawn">
             <code>EUR</code>
             <name>
                 <narrative>Euro</narrative>
@@ -341,7 +341,7 @@
         <codelist-item>
             <code>GHS</code>
             <name>
-                <narrative>Cedi</narrative>
+                <narrative>Ghana Cedi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -359,7 +359,7 @@
         <codelist-item>
             <code>GNF</code>
             <name>
-                <narrative>Guinea Franc</narrative>
+                <narrative>Guinean Franc</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -386,10 +386,10 @@
                 <narrative>Lempira</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2015-06" status="withdrawn">
             <code>HRK</code>
             <name>
-                <narrative>Kuna</narrative>
+                <narrative>Croatian Kuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -404,7 +404,7 @@
                 <narrative>Forint</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2002-07" status="withdrawn">
             <code>IDR</code>
             <name>
                 <narrative>Rupiah</narrative>
@@ -479,7 +479,7 @@
         <codelist-item>
             <code>KMF</code>
             <name>
-                <narrative>Comoro Franc</narrative>
+                <narrative>Comorian Franc </narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -515,7 +515,7 @@
         <codelist-item>
             <code>LAK</code>
             <name>
-                <narrative>Kip</narrative>
+                <narrative>Lao Kip</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -542,7 +542,7 @@
                 <narrative>Loti</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2014-12">
             <code>LTL</code>
             <name>
                 <narrative>Lithuanian Litas</narrative>
@@ -551,7 +551,7 @@
                 <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2014-01">
             <code>LVL</code>
             <name>
                 <narrative>Latvian Lats</narrative>
@@ -608,7 +608,7 @@
                 <narrative>Pataca</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2017-12">
             <code>MRO</code>
             <name>
                 <narrative>Ouguiya</narrative>
@@ -635,10 +635,10 @@
                 <narrative>Rufiyaa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2016-02" status="withdrawn">
             <code>MWK</code>
             <name>
-                <narrative>Malawi Kwacha</narrative>
+                <narrative>Kwacha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -662,7 +662,7 @@
         <codelist-item>
             <code>MZN</code>
             <name>
-                <narrative>Metical</narrative>
+                <narrative>Mozambique Metical</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -713,10 +713,10 @@
                 <narrative>Balboa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2015-12" status="withdrawn">
             <code>PEN</code>
             <name>
-                <narrative>Nuevo Sol</narrative>
+                <narrative>Nuevo Sol </narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -755,10 +755,10 @@
                 <narrative>Qatari Rial</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2015-06" status="withdrawn">
             <code>RON</code>
             <name>
-                <narrative>Romanian Leu</narrative>
+                <narrative>New Romanian Leu </narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -797,7 +797,7 @@
                 <narrative>Seychelles Rupee</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2012-09" status="withdrawn">
             <code>SDG</code>
             <name>
                 <narrative>Sudanese Pound</narrative>
@@ -845,7 +845,7 @@
                 <narrative>Surinam Dollar</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="withdrawn" withdrawal-date="2017-12">
             <code>STD</code>
             <name>
                 <narrative>Dobra</narrative>
@@ -872,7 +872,7 @@
                 <narrative>Syrian Pound</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2018-08" status="withdrawn">
             <code>SZL</code>
             <name>
                 <narrative>Lilangeni</narrative>
@@ -893,7 +893,7 @@
         <codelist-item>
             <code>TMT</code>
             <name>
-                <narrative>Manat</narrative>
+                <narrative>Turkmenistan New Manat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -905,13 +905,13 @@
         <codelist-item>
             <code>TOP</code>
             <name>
-                <narrative>Paanga</narrative>
+                <narrative>Pa’anga</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item withdrawal-date="2009-01" status="withdrawn">
             <code>TRY</code>
             <name>
-                <narrative>Turkish Lira</narrative>
+                <narrative>New Turkish Lira</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -956,7 +956,7 @@
                 <narrative>US Dollar (Next day)</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-20">
+        <codelist-item status="withdrawn" withdrawal-date="2014-03">
             <code>USS</code>
             <name>
                 <narrative>US Dollar (Same day)</narrative>
@@ -968,7 +968,7 @@
         <codelist-item>
             <code>UYI</code>
             <name>
-                <narrative>Uruguay Peso en Unidades Indexadas</narrative>
+                <narrative>Uruguay Peso en Unidades Indexadas (UI)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -983,16 +983,16 @@
                 <narrative>Uzbekistan Sum</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-12-06">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08">
             <code>VEF</code>
             <name>
-                <narrative>Bolivar</narrative>
+                <narrative>Bolívar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VES</code>
             <name>
-                <narrative>Bolivar Soberano</narrative>
+                <narrative>Bolívar Soberano</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1019,7 +1019,7 @@
                 <narrative>CFA Franc BEAC</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>XBT</code>
             <name>
                 <narrative>Bitcoin</narrative>
@@ -1034,7 +1034,7 @@
         <codelist-item>
             <code>XDR</code>
             <name>
-                <narrative>International Monetary Fund (IMF) Special Drawing Right (SDR)</narrative>
+                <narrative>SDR (Special Drawing Right)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1061,7 +1061,37 @@
                 <narrative>Rand</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
+        <codelist-item status="active">
+            <code>XUA</code>
+            <name>
+                <narrative>ADB Unit of Account</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XSU</code>
+            <name>
+                <narrative>Sucre</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CHE</code>
+            <name>
+                <narrative>WIR Euro</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CHW</code>
+            <name>
+                <narrative>WIR Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UYW</code>
+            <name>
+                <narrative>Unidad Previsional</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2012-12">
             <code>ZMK</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
@@ -1080,6 +1110,750 @@
             <code>ZWL</code>
             <name>
                 <narrative>Zimbabwe Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBA</code>
+            <name>
+                <narrative>Bond Markets Unit European Composite Unit (EURCO)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBB</code>
+            <name>
+                <narrative>Bond Markets Unit European Monetary Unit (E.M.U.-6)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBC</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XBD</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XTS</code>
+            <name>
+                <narrative>Codes specifically reserved for testing purposes</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XXX</code>
+            <name>
+                <narrative>The codes assigned for transactions where no currency is involved</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XAU</code>
+            <name>
+                <narrative>Gold</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XPD</code>
+            <name>
+                <narrative>Palladium</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XPT</code>
+            <name>
+                <narrative>Platinum</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XAG</code>
+            <name>
+                <narrative>Silver</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-01">
+            <code>AFA</code>
+            <name>
+                <narrative>Afghani</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>FIM</code>
+            <name>
+                <narrative>Markka</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12">
+            <code>ALK</code>
+            <name>
+                <narrative>Old Lek</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-07">
+            <code>ADP</code>
+            <name>
+                <narrative>Andorran Peseta</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>ESP</code>
+            <name>
+                <narrative>Spanish Peseta</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-01">
+            <code>FRF</code>
+            <name>
+                <narrative>French Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-03">
+            <code>AOK</code>
+            <name>
+                <narrative>Kwanza</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-02">
+            <code>AON</code>
+            <name>
+                <narrative>New Kwanza</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-02">
+            <code>AOR</code>
+            <name>
+                <narrative>Kwanza Reajustado</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1992-01">
+            <code>ARA</code>
+            <name>
+                <narrative>Austral</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1985-07">
+            <code>ARP</code>
+            <name>
+                <narrative>Peso Argentino</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>ARY</code>
+            <name>
+                <narrative>Peso</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-07">
+            <code>RUR</code>
+            <name>
+                <narrative>Russian Ruble</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>ATS</code>
+            <name>
+                <narrative>Schilling</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-10">
+            <code>AYM</code>
+            <name>
+                <narrative>Azerbaijan Manat</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-12">
+            <code>AZM</code>
+            <name>
+                <narrative>Azerbaijanian Manat</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2001-01">
+            <code>BYB</code>
+            <name>
+                <narrative>Belarusian Ruble</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03">
+            <code>BEC</code>
+            <name>
+                <narrative>Convertible Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>BEF</code>
+            <name>
+                <narrative>Belgian Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03">
+            <code>BEL</code>
+            <name>
+                <narrative>Financial Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1987-02">
+            <code>BOP</code>
+            <name>
+                <narrative>Peso boliviano</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1998-07">
+            <code>BAD</code>
+            <name>
+                <narrative>Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-03">
+            <code>BRB</code>
+            <name>
+                <narrative>Cruzeiro</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-02">
+            <code>BRC</code>
+            <name>
+                <narrative>Cruzado</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03">
+            <code>BRE</code>
+            <name>
+                <narrative>Cruzeiro</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03">
+            <code>BRN</code>
+            <name>
+                <narrative>New Cruzado</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-07">
+            <code>BRR</code>
+            <name>
+                <narrative>Cruzeiro Real</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>BGJ</code>
+            <name>
+                <narrative>Lev A/52</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>BGK</code>
+            <name>
+                <narrative>Lev A/62</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-11">
+            <code>BGL</code>
+            <name>
+                <narrative>Lev</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-02">
+            <code>BUK</code>
+            <name>
+                <narrative>Kyat</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-01">
+            <code>HRD</code>
+            <name>
+                <narrative>Croatian Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01">
+            <code>CYP</code>
+            <name>
+                <narrative>Cyprus Pound</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>CSJ</code>
+            <name>
+                <narrative>Krona A/53</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03">
+            <code>CSK</code>
+            <name>
+                <narrative>Koruna</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-09">
+            <code>ECS</code>
+            <name>
+                <narrative>Sucre</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2000-09">
+            <code>ECV</code>
+            <name>
+                <narrative>Unidad de Valor Constante (UVC)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-06">
+            <code>GQE</code>
+            <name>
+                <narrative>Ekwele</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-01">
+            <code>XEU</code>
+            <name>
+                <narrative>European Currency Unit (E.C.U)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-10">
+            <code>GEK</code>
+            <name>
+                <narrative>Georgian Coupon</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-07 to 1990-09">
+            <code>DDM</code>
+            <name>
+                <narrative>Mark der DDR</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>DEM</code>
+            <name>
+                <narrative>Deutsche Mark</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01">
+            <code>GHC</code>
+            <name>
+                <narrative>Cedi</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-06">
+            <code>GHP</code>
+            <name>
+                <narrative>Ghana Cedi</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>GRD</code>
+            <name>
+                <narrative>Drachma</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12">
+            <code>GNE</code>
+            <name>
+                <narrative>Syli</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-02">
+            <code>GNS</code>
+            <name>
+                <narrative>Syli</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1978 to 1981">
+            <code>GWE</code>
+            <name>
+                <narrative>Guinea Escudo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1997-05">
+            <code>GWP</code>
+            <name>
+                <narrative>Guinea-Bissau Peso</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>ITL</code>
+            <name>
+                <narrative>Italian Lira</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>ISJ</code>
+            <name>
+                <narrative>Old Krona</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>IEP</code>
+            <name>
+                <narrative>Irish Pound</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1978 to 1981">
+            <code>ILP</code>
+            <name>
+                <narrative>Pound</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>ILR</code>
+            <name>
+                <narrative>Old Shekel</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1979-12">
+            <code>LAJ</code>
+            <name>
+                <narrative>Pathet Lao Kip</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-12">
+            <code>LVR</code>
+            <name>
+                <narrative>Latvian Ruble</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1985-05">
+            <code>LSM</code>
+            <name>
+                <narrative>Loti</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-03">
+            <code>ZAL</code>
+            <name>
+                <narrative>Financial Rand</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-07">
+            <code>LTT</code>
+            <name>
+                <narrative>Talonas</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03">
+            <code>LUC</code>
+            <name>
+                <narrative>Luxembourg Convertible Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>LUF</code>
+            <name>
+                <narrative>Luxembourg Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-03">
+            <code>LUL</code>
+            <name>
+                <narrative>Luxembourg Financial Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2004-12">
+            <code>MGF</code>
+            <name>
+                <narrative>Malagasy Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12">
+            <code>MVQ</code>
+            <name>
+                <narrative>Maldive Rupee</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1984-11">
+            <code>MLF</code>
+            <name>
+                <narrative>Mali Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01">
+            <code>MTL</code>
+            <name>
+                <narrative>Maltese Lira</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1983-06">
+            <code>MTP</code>
+            <name>
+                <narrative>Maltese Pound</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-01">
+            <code>MXP</code>
+            <name>
+                <narrative>Mexican Peso</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1978 to 1981">
+            <code>MZE</code>
+            <name>
+                <narrative>Mozambique Escudo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-06">
+            <code>MZM</code>
+            <name>
+                <narrative>Mozambique Metical</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>NLG</code>
+            <name>
+                <narrative>Netherlands Guilder</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-10">
+            <code>NIC</code>
+            <name>
+                <narrative>Cordoba</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>PEH</code>
+            <name>
+                <narrative>Sol</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-07">
+            <code>PEI</code>
+            <name>
+                <narrative>Inti</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1986-02">
+            <code>PES</code>
+            <name>
+                <narrative>Sol</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1997-01">
+            <code>PLZ</code>
+            <name>
+                <narrative>Zloty</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-03">
+            <code>PTE</code>
+            <name>
+                <narrative>Portuguese Escudo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>ROK</code>
+            <name>
+                <narrative>Leu A/52</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-06">
+            <code>ROL</code>
+            <name>
+                <narrative>Old Leu</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-10">
+            <code>CSD</code>
+            <name>
+                <narrative>Serbian Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-01">
+            <code>SKK</code>
+            <name>
+                <narrative>Slovak Koruna</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-01">
+            <code>SIT</code>
+            <name>
+                <narrative>Tolar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1978 to 1981">
+            <code>RHD</code>
+            <name>
+                <narrative>Rhodesian Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1978 to 1981">
+            <code>ESA</code>
+            <name>
+                <narrative>Spanish Peseta</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-12">
+            <code>ESB</code>
+            <name>
+                <narrative>"A" Account (convertible Peseta Account)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2007-07">
+            <code>SDD</code>
+            <name>
+                <narrative>Sudanese Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1998-06">
+            <code>SDP</code>
+            <name>
+                <narrative>Sudanese Pound</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-12">
+            <code>SRG</code>
+            <name>
+                <narrative>Surinam Guilder</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2004-11">
+            <code>CHC</code>
+            <name>
+                <narrative>WIR Franc (for electronic)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2001-04">
+            <code>TJR</code>
+            <name>
+                <narrative>Tajik Ruble</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2002-11">
+            <code>TPE</code>
+            <name>
+                <narrative>Timor Escudo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2005-12">
+            <code>TRL</code>
+            <name>
+                <narrative>Old Turkish Lira</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-01">
+            <code>TMM</code>
+            <name>
+                <narrative>Turkmenistan Manat</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1987-05">
+            <code>UGS</code>
+            <name>
+                <narrative>Uganda Shilling</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989 to 1990">
+            <code>UGW</code>
+            <name>
+                <narrative>Old Shilling</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1996-09">
+            <code>UAK</code>
+            <name>
+                <narrative>Karbovanet</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-12">
+            <code>SUR</code>
+            <name>
+                <narrative>Rouble</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12">
+            <code>UYN</code>
+            <name>
+                <narrative>Old Uruguay Peso</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1993-03">
+            <code>UYP</code>
+            <name>
+                <narrative>Uruguayan Peso</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-01">
+            <code>VEB</code>
+            <name>
+                <narrative>Bolivar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-1990">
+            <code>VNC</code>
+            <name>
+                <narrative>Old Dong</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1991-09">
+            <code>YDD</code>
+            <name>
+                <narrative>Yemeni Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1990-01">
+            <code>YUD</code>
+            <name>
+                <narrative>New Yugoslavian Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2003-07">
+            <code>YUM</code>
+            <name>
+                <narrative>New Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1995-11">
+            <code>YUN</code>
+            <name>
+                <narrative>Yugoslavian Dinar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-06">
+            <code>ZRN</code>
+            <name>
+                <narrative>New Zaire</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1994-02">
+            <code>ZRZ</code>
+            <name>
+                <narrative>Zaire</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1989-12">
+            <code>ZWC</code>
+            <name>
+                <narrative>Rhodesian Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2008-08">
+            <code>ZWD</code>
+            <name>
+                <narrative>Zimbabwe Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-09">
+            <code>ZWN</code>
+            <name>
+                <narrative>Zimbabwe Dollar (new)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2009-06">
+            <code>ZWR</code>
+            <name>
+                <narrative>Zimbabwe Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2006-10">
+            <code>XFO</code>
+            <name>
+                <narrative>Gold-Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="1999-11">
+            <code>XRE</code>
+            <name>
+                <narrative>RINET Funds Code</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2013-11">
+            <code>XFU</code>
+            <name>
+                <narrative>UIC-Franc</narrative>
             </name>
         </codelist-item>
     </codelist-items>
