@@ -961,7 +961,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1081,7 +1080,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1467,7 +1465,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>160</category>
         </codelist-item>
@@ -1479,7 +1476,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>160</category>
         </codelist-item>
@@ -1673,7 +1669,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>210</category>
         </codelist-item>
@@ -1698,7 +1693,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>220</category>
         </codelist-item>
@@ -1984,7 +1978,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>231</category>
         </codelist-item>
@@ -2391,7 +2384,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>240</category>
         </codelist-item>
@@ -2427,7 +2419,6 @@
             </name>
             <description>
                 <narrative>Public and private provision of business development services, e.g. incubators, business strategies, commercial linkages programmes and matchmaking services. Includes support to private organisations representing businesses, e.g. business associations; chambers of commerce; producer associations; providers of know-how and other business development services. For financial services use CRS codes 24030 or 24040. For SME development and for support to companies in the industrial sector use codes 32130 through 32172. For support to companies in the agricultural sector use code 31120.</narrative>
-                <narrative xml:lang="fr"/>
             </description>
             <category>250</category>
         </codelist-item>
@@ -2439,7 +2430,6 @@
             </name>
             <description>
                 <narrative>Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises’ operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation.</narrative>
-                <narrative xml:lang="fr"/>
             </description>
             <category>250</category>
         </codelist-item>
@@ -2583,7 +2573,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>311</category>
         </codelist-item>
@@ -2703,7 +2692,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>312</category>
         </codelist-item>
@@ -2727,7 +2715,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>312</category>
         </codelist-item>
@@ -2763,7 +2750,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>313</category>
         </codelist-item>
@@ -2811,7 +2797,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>321</category>
         </codelist-item>
@@ -2835,7 +2820,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>321</category>
         </codelist-item>
@@ -2895,7 +2879,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>321</category>
         </codelist-item>
@@ -2907,7 +2890,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>321</category>
         </codelist-item>
@@ -2955,7 +2937,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>321</category>
         </codelist-item>
@@ -3231,7 +3212,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>332</category>
         </codelist-item>
@@ -3303,7 +3283,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>410</category>
         </codelist-item>
@@ -3327,7 +3306,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>430</category>
             <budget-alignment:status>Unmappable</budget-alignment:status>
@@ -3439,7 +3417,6 @@
             </name>
             <description>
                 <narrative>Food security policy, programmes and activities; institution capacity strengthening; policies, programmes for the reduction of food loss/waste; food security information systems, data collection, statistics, analysis, tools, methods; coordination and governance mechanisms; other unspecified food security activities.</narrative>
-                <narrative xml:lang="fr"/>
             </description>
             <category>430</category>
         </codelist-item>
@@ -3451,7 +3428,6 @@
             </name>
             <description>
                 <narrative>Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010).</narrative>
-                <narrative xml:lang="fr"/>
             </description>
             <category>430</category>
         </codelist-item>
@@ -3463,7 +3439,6 @@
             </name>
             <description>
                 <narrative>Food safety and quality policies, programmes and activities, including food inspection and certification; strengthening food safety/quality capacities and development of standards along the value chain; monitoring/surveillance and laboratory capacities; and delivery of information, communication, education.</narrative>
-                <narrative xml:lang="fr"/>
             </description>
             <category>430</category>
         </codelist-item>
@@ -3562,7 +3537,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -3586,7 +3560,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -3730,7 +3703,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>910</category>
         </codelist-item>
