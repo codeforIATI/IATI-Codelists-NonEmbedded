@@ -22,7 +22,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -46,7 +45,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>1000</category>
         </codelist-item>
@@ -70,7 +68,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -106,7 +103,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -142,7 +138,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>0</category>
         </codelist-item>
@@ -262,7 +257,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>420</category>
         </codelist-item>
@@ -406,7 +400,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -418,7 +411,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -430,7 +422,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -442,7 +433,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -454,7 +444,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -466,7 +455,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -478,7 +466,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -490,7 +477,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -502,7 +488,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -514,7 +499,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -526,7 +510,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -538,7 +521,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -550,7 +532,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -562,7 +543,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -574,7 +554,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -586,7 +565,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -598,7 +576,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -610,7 +587,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -622,7 +598,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -634,7 +609,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -646,7 +620,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -658,7 +631,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -670,7 +642,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -682,7 +653,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -694,7 +664,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -706,7 +675,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
@@ -718,7 +686,6 @@
             </name>
             <description>
                 <narrative/>
-                <narrative xml:lang="fr"/>
             </description>
             <category>600</category>
         </codelist-item>
