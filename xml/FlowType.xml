@@ -36,7 +36,7 @@
                 <narrative xml:lang="fr">Autres Apports du Secteur Public</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="active" activation-date="2016-01-01">
+        <codelist-item status="active">
             <code>21</code>
             <name>
                 <narrative>Non-export credit OOF</narrative>
@@ -47,7 +47,7 @@
                 <narrative xml:lang="fr">Autres Apports du Secteur Public, à l'exclusion des crédits à l'exportation</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="active" activation-date="2016-01-01">
+        <codelist-item status="active">
             <code>22</code>
             <name>
                 <narrative>Officially supported export credits</narrative>
@@ -80,7 +80,7 @@
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="active" activation-date="2016-01-01">
+        <codelist-item status="active">
             <code>36</code>
             <name>
                 <narrative>Private Foreign Direct Investment</narrative>
@@ -91,7 +91,7 @@
                 <narrative xml:lang="fr">Investissements directs à l'étranger</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="active" activation-date="2016-01-01">
+        <codelist-item status="active">
             <code>37</code>
             <name>
                 <narrative>Other Private flows at market terms</narrative>
