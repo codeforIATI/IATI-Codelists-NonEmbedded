@@ -6725,17 +6725,6 @@ Unique Entity Number (UEN) as its identification number. " [2]
             <category>SG</category>
             <url>http://www.acra.gov.sg/</url>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
-            <code>SG-COC</code>
-            <name>
-                <narrative>Commissioner of Charities</narrative>
-            </name>
-            <description>
-                <narrative>The Commissioner of Charities (COC) in Singapore maintains a register of Charities and Institutions of a Public Character.</narrative>
-            </description>
-            <category>SG</category>
-            <url>https://www.charities.gov.sg/Pages/Home.aspx</url>
-        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>SG-COA</code>
             <name>
@@ -6750,6 +6739,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>SG</category>
             <url>https://gov-id-finder.codeforiati.org/countries/SG/</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>SG-COC</code>
+            <name>
+                <narrative>Commissioner of Charities</narrative>
+            </name>
+            <description>
+                <narrative>The Commissioner of Charities (COC) in Singapore maintains a register of Charities and Institutions of a Public Character.</narrative>
+            </description>
+            <category>SG</category>
+            <url>https://www.charities.gov.sg/Pages/Home.aspx</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>SH-COA</code>
