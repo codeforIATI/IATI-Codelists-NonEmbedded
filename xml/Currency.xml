@@ -1773,6 +1773,12 @@
                 <narrative xml:lang="pt">Libra de Santa Helena</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>SLE</code>
+            <name>
+                <narrative>Leone</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2007-01-01">
             <code>SIT</code>
             <name>
