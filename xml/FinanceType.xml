@@ -23,6 +23,9 @@
                 <narrative xml:lang="pt">RNB: renda nacional bruta</narrative>
             </name>
             <category>0</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>110</code>
@@ -47,6 +50,9 @@
                 <narrative xml:lang="pt">Garantias/seguro</narrative>
             </name>
             <category>1000</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>111</code>
@@ -67,6 +73,9 @@
                 <narrative xml:lang="pt">APD em % do RNB</narrative>
             </name>
             <category>0</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>210</code>
@@ -101,6 +110,9 @@
                 <narrative xml:lang="pt">Fluxos totais em % do RNB</narrative>
             </name>
             <category>0</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>310</code>
@@ -139,6 +151,9 @@
                 <narrative xml:lang="pt">População</narrative>
             </name>
             <category>0</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>410</code>
@@ -255,6 +270,9 @@
                 <narrative xml:lang="pt">Outros títulos de dívida</narrative>
             </name>
             <category>420</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>431</code>
@@ -399,6 +417,9 @@
                 <narrative xml:lang="pt">Perdão de dívida:  pedidos de APD (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>611</code>
@@ -409,6 +430,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: pedidos de APD (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>612</code>
@@ -419,6 +443,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: pedidos de OFP (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>613</code>
@@ -429,6 +456,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: pedidos de OFP (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>614</code>
@@ -439,6 +469,9 @@
                 <narrative xml:lang="pt">Perdão de dívida:  pedidos privados (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>615</code>
@@ -449,6 +482,9 @@
                 <narrative xml:lang="pt">Perdão de dívida:  pedidos privados (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>616</code>
@@ -459,6 +495,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: pedidos de OFP (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>617</code>
@@ -469,6 +508,9 @@
                 <narrative xml:lang="pt">Perdão de dívida:  pedidos privados (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>618</code>
@@ -479,6 +521,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: Outros</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>620</code>
@@ -489,6 +534,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de APD (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>621</code>
@@ -499,6 +547,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de APD (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>622</code>
@@ -509,6 +560,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de OFP (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>623</code>
@@ -519,6 +573,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de OFP (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>624</code>
@@ -529,6 +586,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida:  pedidos privados (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>625</code>
@@ -539,6 +599,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida:  pedidos privados (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>626</code>
@@ -549,6 +612,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de OFP (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>627</code>
@@ -559,6 +625,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida:  pedidos privados (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>630</code>
@@ -569,6 +638,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedido de OFP (RSD – capital original do empréstimo)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>631</code>
@@ -579,6 +651,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedido de OFP (RSD – juros originais do empréstimo)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>632</code>
@@ -589,6 +664,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedido privado (RSD – capital original do empréstimo)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>633</code>
@@ -599,6 +677,9 @@
                 <narrative xml:lang="pt">Perdão/conversão de dívida: pedidos de créditos à exportação (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>634</code>
@@ -609,6 +690,9 @@
                 <narrative xml:lang="pt">Perdão/conversão de dívida: pedidos de créditos à exportação (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>635</code>
@@ -619,6 +703,9 @@
                 <narrative xml:lang="pt">Perdão de dívida: pedidos de créditos à exportação (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>636</code>
@@ -629,6 +716,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de créditos à exportação (C)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>637</code>
@@ -639,6 +729,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de créditos à exportação (J)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>638</code>
@@ -649,6 +742,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedidos de créditos à exportação (RSD)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>639</code>
@@ -659,6 +755,9 @@
                 <narrative xml:lang="pt">Reescalonamento de dívida: pedido de crédito à exportação (RSD – capital original do empréstimo)</narrative>
             </name>
             <category>600</category>
+            <description>
+                <narrative/>
+            </description>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>710</code>
