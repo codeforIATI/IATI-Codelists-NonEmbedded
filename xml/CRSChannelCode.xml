@@ -13,8 +13,8 @@
         <codelist-item status="active">
             <code>10000</code>
             <name>
-                <narrative>Public Sector Institutions</narrative>
-                <narrative xml:lang="fr">Institutions du secteur public</narrative>
+                <narrative>PUBLIC SECTOR INSTITUTIONS</narrative>
+                <narrative xml:lang="fr">INSTITUTIONS DU SECTEUR PUBLIC</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">
@@ -108,15 +108,15 @@
         <codelist-item status="active">
             <code>20000</code>
             <name>
-                <narrative>Non-Governmental Organisation (NGO) and Civil Society</narrative>
-                <narrative xml:lang="fr">Organisations non gouvernementales (ONG) et société civile</narrative>
+                <narrative>NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</narrative>
+                <narrative xml:lang="fr">ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCIÉTÉ CIVILE</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">
             <code>21000</code>
             <name>
-                <narrative>International NGO</narrative>
-                <narrative xml:lang="fr">ONG internationales</narrative>
+                <narrative>INTERNATIONAL NGO</narrative>
+                <narrative xml:lang="fr">ONG INTERNATIONALE</narrative>
             </name>
             <category>20000</category>
         </codelist-item>
@@ -324,7 +324,7 @@
             <code>21027</code>
             <name>
                 <narrative>ITF Enhancing Human Security</narrative>
-                <narrative xml:lang="fr">ITF Améliorer la sécurité humaine</narrative>
+                <narrative xml:lang="fr">Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines</narrative>
             </name>
             <category>22000</category>
         </codelist-item>
@@ -524,7 +524,7 @@
             <code>21053</code>
             <name>
                 <narrative>IPAS-Protecting Women’s Health, Advancing Women’s Reproductive Rights</narrative>
-                <narrative xml:lang="fr">IPAS-Protecting Women's Health, Advancing Women's Reproductive Rights</narrative>
+                <narrative xml:lang="fr">IPAS-Protecting Womens Health, Advancing Womens Reproductive Rights</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -548,7 +548,7 @@
             <code>21056</code>
             <name>
                 <narrative>Renewable Energy and Energy Efficiency Partnership</narrative>
-                <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l'efficience énergétique</narrative>
+                <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l'efficience énergétique</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -715,8 +715,8 @@
         <codelist-item status="active">
             <code>30000</code>
             <name>
-                <narrative>Public-Private Partnerships (PPP) and Networks</narrative>
-                <narrative xml:lang="fr">Partenariats public-privé (PPP) et réseaux</narrative>
+                <narrative>PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS</narrative>
+                <narrative xml:lang="fr">PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -827,7 +827,7 @@
             <code>30015</code>
             <name>
                 <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
-                <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables</narrative>
+                <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -850,8 +850,8 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30018</code>
             <name>
-                <narrative>African Finance Corporation</narrative>
-                <narrative xml:lang="fr">African Finance Corporation</narrative>
+                <narrative>Africa Finance Corporation</narrative>
+                <narrative xml:lang="fr">Africa Finance Corporation</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -866,16 +866,16 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30020</code>
             <name>
-                <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
-                <narrative xml:lang="fr">Global Energy Efficiency and Renewable Energy Fund</narrative>
+                <narrative>Global Energy Efficiency and Renewable Energy Fund II</narrative>
+                <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables II</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>31000</code>
             <name>
-                <narrative>Public-Private Partnerships (PPP)</narrative>
-                <narrative xml:lang="fr">Partenariats public-privé (PPP)</narrative>
+                <narrative>Public-Private Partnership (PPP)</narrative>
+                <narrative xml:lang="fr">Partenariat public-privé (PPP)</narrative>
             </name>
             <category>30000</category>
         </codelist-item>
@@ -930,23 +930,23 @@
         <codelist-item status="active">
             <code>32000</code>
             <name>
-                <narrative>Networks</narrative>
-                <narrative xml:lang="fr">Réseaux</narrative>
+                <narrative>Network</narrative>
+                <narrative xml:lang="fr">RÉSEAU</narrative>
             </name>
             <category>30000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>40000</code>
             <name>
-                <narrative>Multilateral Organisations</narrative>
-                <narrative xml:lang="fr">Organisations multilatérales</narrative>
+                <narrative>MULTILATERAL ORGANISATIONS</narrative>
+                <narrative xml:lang="fr">ORGANISATIONS MULTILATÉRALES</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">
             <code>41000</code>
             <name>
-                <narrative>United Nations (UN) agency, fund or commission</narrative>
-                <narrative xml:lang="fr">Agence, fonds ou commission des Nations Unies (ONU)</narrative>
+                <narrative>United Nations agency, fund or commission (UN)</narrative>
+                <narrative xml:lang="fr">Agence, fonds ou commission des Nations unies (NU)</narrative>
             </name>
             <category>40000</category>
         </codelist-item>
@@ -1273,7 +1273,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41145</code>
             <name>
-                <narrative>International Maritime Organisation - Technical Co-operation Fund</narrative>
+                <narrative>International Maritime Organization - Technical Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation maritime internationale - Programme intégré de coopération technique</narrative>
             </name>
             <category>41100</category>
@@ -1297,8 +1297,8 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41148</code>
             <name>
-                <narrative>United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs</narrative>
-                <narrative xml:lang="fr">Département des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques</narrative>
+                <narrative>United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs.</narrative>
+                <narrative xml:lang="fr">Département des affaires politiques et de consolidation de la paix des Nations Unies, Fonds d'affectation spéciale à l'appui des affaires politiques.</narrative>
             </name>
             <category>41500</category>
         </codelist-item>
@@ -1314,7 +1314,7 @@
             <code>41150</code>
             <name>
                 <narrative>United Nations Institute for Disarmament Research</narrative>
-                <narrative xml:lang="fr">Institut des Nations unies pour la recherche sur le désarmement</narrative>
+                <narrative xml:lang="fr">Institut des Nations Unies pour la recherche sur le désarmement</narrative>
             </name>
             <category>41300</category>
         </codelist-item>
@@ -1409,7 +1409,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41310</code>
             <name>
-                <narrative>United Nations Department of Peace Operations - UN Peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
+                <narrative>United Nations Department of Peace Operations – UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
                 <narrative xml:lang="fr">Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++.</narrative>
             </name>
             <category>41300</category>
@@ -1449,7 +1449,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41315</code>
             <name>
-                <narrative>United Nations Office for Disaster Reduction</narrative>
+                <narrative>United Nations Office for Disaster Risk Reduction</narrative>
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la prévention de catastrophes</narrative>
             </name>
             <category>41300</category>
@@ -1481,7 +1481,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41319</code>
             <name>
-                <narrative>World Tourism Organisation</narrative>
+                <narrative>World Tourism Organization</narrative>
                 <narrative xml:lang="fr">Organisation mondiale du tourisme</narrative>
             </name>
             <category>41300</category>
@@ -1557,8 +1557,8 @@
         <codelist-item status="active">
             <code>42000</code>
             <name>
-                <narrative>European Union Institutions</narrative>
-                <narrative xml:lang="fr">Institutions de l'Union européenne</narrative>
+                <narrative>European Union Institution (EU)</narrative>
+                <narrative xml:lang="fr">Institution de l’Union européenne (UE)</narrative>
             </name>
             <category>40000</category>
         </codelist-item>
@@ -1722,7 +1722,7 @@
             </name>
             <category>44000</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>45000</code>
             <name>
                 <narrative>World Trade Organisation (WTO)</narrative>
@@ -1757,8 +1757,8 @@
         <codelist-item status="active">
             <code>46000</code>
             <name>
-                <narrative>Regional Development Banks</narrative>
-                <narrative xml:lang="fr">Banques régionales de développement</narrative>
+                <narrative>Regional Development Bank</narrative>
+                <narrative xml:lang="fr">Banque régionale de développement (BRD)</narrative>
             </name>
             <category>40000</category>
         </codelist-item>
@@ -1934,7 +1934,7 @@
             <code>46026</code>
             <name>
                 <narrative>Asian Infrastructure Investment Bank</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Banque Asiatique d’Investissement dans les Infrastructures</narrative>
             </name>
             <category>46000</category>
         </codelist-item>
@@ -1949,8 +1949,8 @@
         <codelist-item status="active">
             <code>47000</code>
             <name>
-                <narrative>Other multilateral institutions</narrative>
-                <narrative xml:lang="fr">Autres institutions multilatérales</narrative>
+                <narrative>Other multilateral institution</narrative>
+                <narrative xml:lang="fr">Autre institution multilatérale</narrative>
             </name>
             <category>40000</category>
         </codelist-item>
@@ -2274,6 +2274,13 @@
             </name>
             <category>31000</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>31007</code>
+            <name>
+                <narrative>Drugs for Neglected Diseases initative</narrative>
+                <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47044</code>
             <name>
@@ -2578,6 +2585,27 @@
             </name>
             <category>41100</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>41321</code>
+            <name>
+                <narrative>World Health Organisation - Strategic Preparedness and Response Plan</narrative>
+                <narrative xml:lang="fr">Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>41403</code>
+            <name>
+                <narrative>COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
+                <narrative xml:lang="fr">COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>41402</code>
+            <name>
+                <narrative>Joint Sustainable Development Goals Fund</narrative>
+                <narrative xml:lang="fr">Fonds conjoint des objectifs de développement durable</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47084</code>
             <name>
@@ -2669,8 +2697,8 @@
         <codelist-item status="active" activation-date="2000-01-01">
             <code>47095</code>
             <name>
-                <narrative>South Pacific Board for Educational Assessment</narrative>
-                <narrative xml:lang="fr">Conseil d’évaluation du Pacifique Sud pour l'éducation</narrative>
+                <narrative>Educational Quality and Assessment Programme</narrative>
+                <narrative xml:lang="fr">Programme d'évaluation et de qualité de l'éducation</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2806,7 +2834,7 @@
             <code>47112</code>
             <name>
                 <narrative>Central European Initiative - Special Fund for Climate and Environmental Protection</narrative>
-                <narrative xml:lang="fr">Initiative de l’Europe centrale - Fonds Spécial pour la protection climatique et environnementale</narrative>
+                <narrative xml:lang="fr">Initiative de l’Europe centrale -  Fonds Spécial pour la protection climatique et environnementale</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2822,7 +2850,7 @@
             <code>47114</code>
             <name>
                 <narrative>Asian Forest Cooperation Organisation</narrative>
-                <narrative xml:lang="fr">Asian Forest Cooperation Organisation</narrative>
+                <narrative xml:lang="fr">Organisation asiatique de coopération forestière</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2830,7 +2858,7 @@
             <code>47116</code>
             <name>
                 <narrative>Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries</narrative>
-                <narrative xml:lang="fr">Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
+                <narrative xml:lang="fr">Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2894,7 +2922,7 @@
             <code>47124</code>
             <name>
                 <narrative>International Anti-Corruption Academy</narrative>
-                <narrative xml:lang="fr">International Anti-Corruption Academy</narrative>
+                <narrative xml:lang="fr">Académie internationale de lutte contre la corruption</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2902,7 +2930,7 @@
             <code>47125</code>
             <name>
                 <narrative>International Centre for Genetic Engineering and Biotechnology</narrative>
-                <narrative xml:lang="fr">International Centre for Genetic Engineering and Biotechnology</narrative>
+                <narrative xml:lang="fr">Centre international de génie génétique et de biotechnologie</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -2941,7 +2969,7 @@
         <codelist-item status="active" activation-date="2010-01-01">
             <code>47131</code>
             <name>
-                <narrative>Organisation for Security and Co-operation in Europe</narrative>
+                <narrative>Organization for Security and Co-operation in Europe</narrative>
                 <narrative xml:lang="fr">Organisation pour la sécurité et la oopération en Europe</narrative>
             </name>
             <category>47000</category>
@@ -2997,7 +3025,7 @@
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47139</code>
             <name>
-                <narrative>World Customs Organisation Customs Co-operation Fund</narrative>
+                <narrative>World Customs Organization Customs Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation Mondiale des Douanes Fonds de coopération douanière</narrative>
             </name>
             <category>47000</category>
@@ -3006,7 +3034,7 @@
             <code>47140</code>
             <name>
                 <narrative>Organisation of Ibero-American States for Education, Science and Culture</narrative>
-                <narrative xml:lang="fr">Organisation des états ibéro-américains pour l'éducation, la science et la culture (OEI)</narrative>
+                <narrative xml:lang="fr">Organización de Estados Iberoamericanos</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -3053,7 +3081,7 @@
         <codelist-item status="active" activation-date="2018-01-01">
             <code>47146</code>
             <name>
-                <narrative>International Investment Bank</narrative>
+                <narrative>International Investment Bank (IIB)</narrative>
                 <narrative xml:lang="fr"/>
             </name>
             <category>47000</category>
@@ -3077,7 +3105,7 @@
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
             <name>
-                <narrative>European Space Agency (ESA) programme 'Space in support of International Development Aid'</narrative>
+                <narrative>European Space Agency (ESA) programme “Space in support of International Development Aid”</narrative>
                 <narrative xml:lang="fr"/>
             </name>
             <category>47000</category>
@@ -3114,6 +3142,13 @@
             </name>
             <category>47000</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>47149</code>
+            <name>
+                <narrative>International Commission on Missing Persons</narrative>
+                <narrative xml:lang="fr">Commission internationale pour les personnes disparues</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>50000</code>
             <name>
@@ -3124,8 +3159,8 @@
         <codelist-item status="active">
             <code>51000</code>
             <name>
-                <narrative>University, college or other teaching institution, research institute or think-tank</narrative>
-                <narrative xml:lang="fr">Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion</narrative>
+                <narrative>University, college or other teaching institution, research institute or think‑tank</narrative>
+                <narrative xml:lang="fr">Université, institut d’éducation et autre institution d’enseignement, institut de recherche ou groupe de réflexion</narrative>
             </name>
             <category>50000</category>
         </codelist-item>
@@ -3148,8 +3183,8 @@
         <codelist-item status="active" activation-date="2016-01-01">
             <code>60000</code>
             <name>
-                <narrative>Private Sector Institutions</narrative>
-                <narrative xml:lang="fr">Institutions du secteur privé</narrative>
+                <narrative>Private sector institution</narrative>
+                <narrative xml:lang="fr">Institutions du Secteur Privé</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
