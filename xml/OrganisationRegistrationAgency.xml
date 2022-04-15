@@ -7219,7 +7219,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>TH</category>
             <url>https://gov-id-finder.codeforiati.org/countries/TH/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="0" status="withdrawn">
             <code>TH-MOI</code>
             <name>
                 <narrative>Ministry of Interior of the Kingdom of Thailand</narrative>
