@@ -1469,6 +1469,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>CG</category>
             <url>https://gov-id-finder.codeforiati.org/countries/CG/</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>CH-BS-CR</code>
+            <name>
+                <narrative>Commercial Register of the Canton of Basel-Stadt, Switzerland</narrative>
+            </name>
+            <description>
+                <narrative> As statated on the Register website: 'The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.'</narrative>
+            </description>
+            <category>CH</category>
+            <url>https://bs.chregister.ch/cr-portal/suche/suche.xhtml</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>CH-COA</code>
             <name>
@@ -1516,6 +1527,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>CI</category>
             <url>https://gov-id-finder.codeforiati.org/countries/CI/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>CI-MOI</code>
+            <name>
+                <narrative>Ministry of the Interior (Ivory Coast)</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of the Interior and Security is the ministerial department of the Ivorian Government responsible for the administration of the territory and public freedoms, the organization of administrative districts, civil status and associations. This includes the registration of private enterprises, foundations, non-governmental organisations and civil society organisations.</narrative>
+            </description>
+            <category>CI</category>
+            <url>http://interieur.gouv.ci/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>CK-COA</code>
