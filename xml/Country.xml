@@ -2113,8 +2113,8 @@
         <codelist-item>
             <code>TR</code>
             <name>
-                <narrative>Turkey</narrative>
-                <narrative xml:lang="fr">Turquie (la)</narrative>
+                <narrative>Türkiye</narrative>
+                <narrative xml:lang="fr">Türkiye (la)</narrative>
                 <narrative xml:lang="es">Turquía</narrative>
                 <narrative xml:lang="pt">Turquia</narrative>
             </name>
