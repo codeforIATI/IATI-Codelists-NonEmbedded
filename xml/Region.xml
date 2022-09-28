@@ -10,7 +10,7 @@
         </category>
     </metadata>
     <codelist-items>
-        <codelist-item>
+        <codelist-item status="active">
             <code>88</code>
             <name>
                 <narrative>States Ex-Yugoslavia unspecified</narrative>
@@ -19,7 +19,7 @@
                 <narrative xml:lang="pt">Estados da ex-Iugoslávia não especificados</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>89</code>
             <name>
                 <narrative>Europe, regional</narrative>
@@ -28,7 +28,7 @@
                 <narrative xml:lang="pt">Europa, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>189</code>
             <name>
                 <narrative>North of Sahara, regional</narrative>
@@ -37,7 +37,7 @@
                 <narrative xml:lang="pt">Norte do Saara, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>289</code>
             <name>
                 <narrative>South of Sahara, regional</narrative>
@@ -46,7 +46,7 @@
                 <narrative xml:lang="pt">Sul do Saara, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>298</code>
             <name>
                 <narrative>Africa, regional</narrative>
@@ -64,7 +64,7 @@
                 <narrative xml:lang="pt">Índias Ocidentais, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>389</code>
             <name>
                 <narrative>Caribbean &amp; Central America, regional</narrative>
@@ -73,7 +73,7 @@
                 <narrative xml:lang="pt">Caribe e América Central, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>489</code>
             <name>
                 <narrative>South America, regional</narrative>
@@ -82,7 +82,7 @@
                 <narrative xml:lang="pt">América do Sul, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>498</code>
             <name>
                 <narrative>America, regional</narrative>
@@ -91,7 +91,7 @@
                 <narrative xml:lang="pt">América, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>589</code>
             <name>
                 <narrative>Middle East, regional</narrative>
@@ -100,7 +100,7 @@
                 <narrative xml:lang="pt">Oriente Médio, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>619</code>
             <name>
                 <narrative>Central Asia, regional</narrative>
@@ -109,7 +109,7 @@
                 <narrative xml:lang="pt">Ásia Central, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>679</code>
             <name>
                 <narrative>South Asia, regional</narrative>
@@ -118,7 +118,7 @@
                 <narrative xml:lang="pt">Ásia Meridional, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>689</code>
             <name>
                 <narrative>South &amp; Central Asia, regional</narrative>
@@ -127,7 +127,7 @@
                 <narrative xml:lang="pt">Ásia Meridional e Central, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>789</code>
             <name>
                 <narrative>Far East Asia, regional</narrative>
@@ -136,7 +136,7 @@
                 <narrative xml:lang="pt">Extremo Oriente, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>798</code>
             <name>
                 <narrative>Asia, regional</narrative>
@@ -145,7 +145,7 @@
                 <narrative xml:lang="pt">Ásia, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>889</code>
             <name>
                 <narrative>Oceania, regional</narrative>
@@ -154,7 +154,7 @@
                 <narrative xml:lang="pt">Oceania, regional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>998</code>
             <name>
                 <narrative>Developing countries, unspecified</narrative>
