@@ -22,7 +22,7 @@
                 <narrative xml:lang="pt">Peseta andorrense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AED</code>
             <name>
                 <narrative>UAE Dirham</narrative>
@@ -38,7 +38,7 @@
                 <narrative xml:lang="pt">Afegâni</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AFN</code>
             <name>
                 <narrative>Afghani</narrative>
@@ -54,7 +54,7 @@
                 <narrative xml:lang="pt">Lek antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ALL</code>
             <name>
                 <narrative>Lek</narrative>
@@ -62,7 +62,7 @@
                 <narrative xml:lang="pt">Lek</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AMD</code>
             <name>
                 <narrative>Armenian Dram</narrative>
@@ -70,7 +70,7 @@
                 <narrative xml:lang="pt">Dram arménio</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2010-10-01" status="withdrawn">
+        <codelist-item withdrawal-date="2010-10-01" status="active">
             <code>ANG</code>
             <name>
                 <narrative>Netherlands Antillean Guilder</narrative>
@@ -78,7 +78,7 @@
                 <narrative xml:lang="pt">Florim das Antilhas Neerlandesas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AOA</code>
             <name>
                 <narrative>Kwanza</narrative>
@@ -126,7 +126,7 @@
                 <narrative xml:lang="pt">Peso argentino</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ARS</code>
             <name>
                 <narrative>Argentine Peso</narrative>
@@ -150,7 +150,7 @@
                 <narrative xml:lang="pt">Xelim</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AUD</code>
             <name>
                 <narrative>Australian Dollar</narrative>
@@ -158,7 +158,7 @@
                 <narrative xml:lang="pt">Dólar australiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AWG</code>
             <name>
                 <narrative>Aruban Florin</narrative>
@@ -182,7 +182,7 @@
                 <narrative xml:lang="pt">Manat azerbaijano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AZN</code>
             <name>
                 <narrative>Azerbaijan Manat</narrative>
@@ -198,7 +198,7 @@
                 <narrative xml:lang="pt">Dinar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BAM</code>
             <name>
                 <narrative>Convertible Mark</narrative>
@@ -206,7 +206,7 @@
                 <narrative xml:lang="pt">Marco convertível</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BBD</code>
             <name>
                 <narrative>Barbados Dollar</narrative>
@@ -214,7 +214,7 @@
                 <narrative xml:lang="pt">Dólar barbadense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BDT</code>
             <name>
                 <narrative>Taka</narrative>
@@ -270,7 +270,7 @@
                 <narrative xml:lang="pt">Lev</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BGN</code>
             <name>
                 <narrative>Bulgarian Lev</narrative>
@@ -278,7 +278,7 @@
                 <narrative xml:lang="pt">Lev búlgaro</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BHD</code>
             <name>
                 <narrative>Bahraini Dinar</narrative>
@@ -286,7 +286,7 @@
                 <narrative xml:lang="pt">Dinar baremense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BIF</code>
             <name>
                 <narrative>Burundi Franc</narrative>
@@ -294,7 +294,7 @@
                 <narrative xml:lang="pt">Franco burundês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BMD</code>
             <name>
                 <narrative>Bermudian Dollar</narrative>
@@ -302,7 +302,7 @@
                 <narrative xml:lang="pt">Dólar bermudense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BND</code>
             <name>
                 <narrative>Brunei Dollar</narrative>
@@ -310,7 +310,7 @@
                 <narrative xml:lang="pt">Dólar bruneano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BOB</code>
             <name>
                 <narrative>Boliviano</narrative>
@@ -326,7 +326,7 @@
                 <narrative xml:lang="pt">Peso boliviano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BOV</code>
             <name>
                 <narrative>Mvdol</narrative>
@@ -358,7 +358,7 @@
                 <narrative xml:lang="pt">Cruzeiro</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BRL</code>
             <name>
                 <narrative>Brazilian Real</narrative>
@@ -382,7 +382,7 @@
                 <narrative xml:lang="pt">Cruzeiro real</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BSD</code>
             <name>
                 <narrative>Bahamian Dollar</narrative>
@@ -390,7 +390,7 @@
                 <narrative xml:lang="pt">Dólar bahamense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BTN</code>
             <name>
                 <narrative>Ngultrum</narrative>
@@ -406,7 +406,7 @@
                 <narrative xml:lang="pt">Kyat</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BWP</code>
             <name>
                 <narrative>Pula</narrative>
@@ -422,7 +422,7 @@
                 <narrative xml:lang="pt">Rublo bielorrusso</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BYN</code>
             <name>
                 <narrative>Belarusian Ruble</narrative>
@@ -441,7 +441,7 @@
                 <narrative>Withdrawn from ISO Currency codelist. Use code BYN.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BZD</code>
             <name>
                 <narrative>Belize Dollar</narrative>
@@ -449,7 +449,7 @@
                 <narrative xml:lang="pt">Dólar belizenho</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CAD</code>
             <name>
                 <narrative>Canadian Dollar</narrative>
@@ -457,7 +457,7 @@
                 <narrative xml:lang="pt">Dólar canadense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CDF</code>
             <name>
                 <narrative>Congolese Franc</narrative>
@@ -481,7 +481,7 @@
                 <narrative xml:lang="pt">Euro WIR</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CHF</code>
             <name>
                 <narrative>Swiss Franc</narrative>
@@ -497,7 +497,7 @@
                 <narrative xml:lang="pt">Franco WIR</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CLF</code>
             <name>
                 <narrative>Unidad de Fomento</narrative>
@@ -505,7 +505,7 @@
                 <narrative xml:lang="pt">Unidade de fomento</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CLP</code>
             <name>
                 <narrative>Chilean Peso</narrative>
@@ -513,7 +513,7 @@
                 <narrative xml:lang="pt">Peso chileno</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CNY</code>
             <name>
                 <narrative>Yuan Renminbi</narrative>
@@ -521,7 +521,7 @@
                 <narrative xml:lang="pt">Yuan Renminbi</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>COP</code>
             <name>
                 <narrative>Colombian Peso</narrative>
@@ -529,7 +529,7 @@
                 <narrative xml:lang="pt">Peso colombiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>COU</code>
             <name>
                 <narrative>Unidad de Valor Real</narrative>
@@ -537,7 +537,7 @@
                 <narrative xml:lang="pt">Unidade de valor real</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CRC</code>
             <name>
                 <narrative>Costa Rican Colon</narrative>
@@ -569,7 +569,7 @@
                 <narrative xml:lang="pt">Coroa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CUC</code>
             <name>
                 <narrative>Peso Convertible</narrative>
@@ -577,7 +577,7 @@
                 <narrative xml:lang="pt">Peso Convertível</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CUP</code>
             <name>
                 <narrative>Cuban Peso</narrative>
@@ -585,7 +585,7 @@
                 <narrative xml:lang="pt">Peso cubano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CVE</code>
             <name>
                 <narrative>Cabo Verde Escudo</narrative>
@@ -601,7 +601,7 @@
                 <narrative xml:lang="pt">Libra cipriota</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CZK</code>
             <name>
                 <narrative>Czech Koruna</narrative>
@@ -625,7 +625,7 @@
                 <narrative xml:lang="pt">Marco alemão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DJF</code>
             <name>
                 <narrative>Djibouti Franc</narrative>
@@ -633,7 +633,7 @@
                 <narrative xml:lang="pt">Franco djibutiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DKK</code>
             <name>
                 <narrative>Danish Krone</narrative>
@@ -641,7 +641,7 @@
                 <narrative xml:lang="pt">Coroa dinamarquesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DOP</code>
             <name>
                 <narrative>Dominican Peso</narrative>
@@ -649,7 +649,7 @@
                 <narrative xml:lang="pt">Peso dominicano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DZD</code>
             <name>
                 <narrative>Algerian Dinar</narrative>
@@ -684,7 +684,7 @@
                 <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>EGP</code>
             <name>
                 <narrative>Egyptian Pound</narrative>
@@ -692,7 +692,7 @@
                 <narrative xml:lang="pt">Libra egípcia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ERN</code>
             <name>
                 <narrative>Nakfa</narrative>
@@ -724,7 +724,7 @@
                 <narrative xml:lang="pt">Peseta espanhola</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ETB</code>
             <name>
                 <narrative>Ethiopian Birr</narrative>
@@ -732,7 +732,7 @@
                 <narrative xml:lang="pt">Birr etíope</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2006-10-01" status="withdrawn">
+        <codelist-item withdrawal-date="2006-10-01" status="active">
             <code>EUR</code>
             <name>
                 <narrative>Euro</narrative>
@@ -748,7 +748,7 @@
                 <narrative xml:lang="pt">Marca</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FJD</code>
             <name>
                 <narrative>Fiji Dollar</narrative>
@@ -756,7 +756,7 @@
                 <narrative xml:lang="pt">Dólar fijiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FKP</code>
             <name>
                 <narrative>Falkland Islands Pound</narrative>
@@ -772,7 +772,7 @@
                 <narrative xml:lang="pt">Franco francês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GBP</code>
             <name>
                 <narrative>Pound Sterling</narrative>
@@ -788,7 +788,7 @@
                 <narrative xml:lang="pt">Coupon georgiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GEL</code>
             <name>
                 <narrative>Lari</narrative>
@@ -812,7 +812,7 @@
                 <narrative xml:lang="pt">Cedi ganês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GHS</code>
             <name>
                 <narrative>Ghana Cedi</narrative>
@@ -820,7 +820,7 @@
                 <narrative xml:lang="pt">Cedi ganês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GIP</code>
             <name>
                 <narrative>Gibraltar Pound</narrative>
@@ -828,7 +828,7 @@
                 <narrative xml:lang="pt">Libra gibraltina</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GMD</code>
             <name>
                 <narrative>Dalasi</narrative>
@@ -844,7 +844,7 @@
                 <narrative xml:lang="pt">Syli</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GNF</code>
             <name>
                 <narrative>Guinean Franc</narrative>
@@ -876,7 +876,7 @@
                 <narrative xml:lang="pt">Dracma</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GTQ</code>
             <name>
                 <narrative>Quetzal</narrative>
@@ -900,7 +900,7 @@
                 <narrative xml:lang="pt">Peso da Guiné-Bissau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GYD</code>
             <name>
                 <narrative>Guyana Dollar</narrative>
@@ -908,7 +908,7 @@
                 <narrative xml:lang="pt">Dólar guianense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HKD</code>
             <name>
                 <narrative>Hong Kong Dollar</narrative>
@@ -916,7 +916,7 @@
                 <narrative xml:lang="pt">Dólar de Hong Kong</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HNL</code>
             <name>
                 <narrative>Lempira</narrative>
@@ -932,7 +932,7 @@
                 <narrative xml:lang="pt">Dinar croata</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
+        <codelist-item withdrawal-date="2015-06-01" status="active">
             <code>HRK</code>
             <name>
                 <narrative>Kuna</narrative>
@@ -940,7 +940,7 @@
                 <narrative xml:lang="pt">Kuna croata</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HTG</code>
             <name>
                 <narrative>Gourde</narrative>
@@ -948,7 +948,7 @@
                 <narrative xml:lang="pt">Gourde</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HUF</code>
             <name>
                 <narrative>Forint</narrative>
@@ -956,7 +956,7 @@
                 <narrative xml:lang="pt">Forint</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2002-07-01" status="withdrawn">
+        <codelist-item withdrawal-date="2002-07-01" status="active">
             <code>IDR</code>
             <name>
                 <narrative>Rupiah</narrative>
@@ -988,7 +988,7 @@
                 <narrative xml:lang="pt">Shekel antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ILS</code>
             <name>
                 <narrative>New Israeli Sheqel</narrative>
@@ -996,7 +996,7 @@
                 <narrative xml:lang="pt">Shekel israelita novo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>INR</code>
             <name>
                 <narrative>Indian Rupee</narrative>
@@ -1004,7 +1004,7 @@
                 <narrative xml:lang="pt">Rupia indiana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IQD</code>
             <name>
                 <narrative>Iraqi Dinar</narrative>
@@ -1012,7 +1012,7 @@
                 <narrative xml:lang="pt">Dinar iraquiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IRR</code>
             <name>
                 <narrative>Iranian Rial</narrative>
@@ -1028,7 +1028,7 @@
                 <narrative xml:lang="pt">Coroa antiga</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ISK</code>
             <name>
                 <narrative>Iceland Krona</narrative>
@@ -1044,7 +1044,7 @@
                 <narrative xml:lang="pt">Lira italiana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JMD</code>
             <name>
                 <narrative>Jamaican Dollar</narrative>
@@ -1052,7 +1052,7 @@
                 <narrative xml:lang="pt">Dólar jamaicano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JOD</code>
             <name>
                 <narrative>Jordanian Dinar</narrative>
@@ -1060,7 +1060,7 @@
                 <narrative xml:lang="pt">Dinar jordano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JPY</code>
             <name>
                 <narrative>Yen</narrative>
@@ -1068,7 +1068,7 @@
                 <narrative xml:lang="pt">Iene</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KES</code>
             <name>
                 <narrative>Kenyan Shilling</narrative>
@@ -1076,7 +1076,7 @@
                 <narrative xml:lang="pt">Xelim queniano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KGS</code>
             <name>
                 <narrative>Som</narrative>
@@ -1084,7 +1084,7 @@
                 <narrative xml:lang="pt">Som</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KHR</code>
             <name>
                 <narrative>Riel</narrative>
@@ -1092,7 +1092,7 @@
                 <narrative xml:lang="pt">Riel</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KMF</code>
             <name>
                 <narrative>Comorian Franc </narrative>
@@ -1100,7 +1100,7 @@
                 <narrative xml:lang="pt">Franco comorense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KPW</code>
             <name>
                 <narrative>North Korean Won</narrative>
@@ -1108,7 +1108,7 @@
                 <narrative xml:lang="pt">Won norte-coreano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KRW</code>
             <name>
                 <narrative>Won</narrative>
@@ -1116,7 +1116,7 @@
                 <narrative xml:lang="pt">Won</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KWD</code>
             <name>
                 <narrative>Kuwaiti Dinar</narrative>
@@ -1124,7 +1124,7 @@
                 <narrative xml:lang="pt">Dinar koweitiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KYD</code>
             <name>
                 <narrative>Cayman Islands Dollar</narrative>
@@ -1132,7 +1132,7 @@
                 <narrative xml:lang="pt">Dólar caimanês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KZT</code>
             <name>
                 <narrative>Tenge</narrative>
@@ -1148,7 +1148,7 @@
                 <narrative xml:lang="pt">Pathet Lao Kip</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LAK</code>
             <name>
                 <narrative>Lao Kip</narrative>
@@ -1156,7 +1156,7 @@
                 <narrative xml:lang="pt">Lao Kip</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LBP</code>
             <name>
                 <narrative>Lebanese Pound</narrative>
@@ -1164,7 +1164,7 @@
                 <narrative xml:lang="pt">Libra libanesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LKR</code>
             <name>
                 <narrative>Sri Lanka Rupee</narrative>
@@ -1172,7 +1172,7 @@
                 <narrative xml:lang="pt">Rupia do Sri Lanka</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LRD</code>
             <name>
                 <narrative>Liberian Dollar</narrative>
@@ -1180,7 +1180,7 @@
                 <narrative xml:lang="pt">Dólar liberiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LSL</code>
             <name>
                 <narrative>Loti</narrative>
@@ -1258,7 +1258,7 @@
                 <narrative xml:lang="pt">Rublo letão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LYD</code>
             <name>
                 <narrative>Libyan Dinar</narrative>
@@ -1266,7 +1266,7 @@
                 <narrative xml:lang="pt">Dinar líbio</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MAD</code>
             <name>
                 <narrative>Moroccan Dirham</narrative>
@@ -1274,7 +1274,7 @@
                 <narrative xml:lang="pt">Dirham marroquino</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MDL</code>
             <name>
                 <narrative>Moldovan Leu</narrative>
@@ -1282,7 +1282,7 @@
                 <narrative xml:lang="pt">Leu moldavo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MGA</code>
             <name>
                 <narrative>Malagasy Ariary</narrative>
@@ -1298,7 +1298,7 @@
                 <narrative xml:lang="pt">Franco malgaxe</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MKD</code>
             <name>
                 <narrative>Denar</narrative>
@@ -1314,7 +1314,7 @@
                 <narrative xml:lang="pt">Franco maliano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MMK</code>
             <name>
                 <narrative>Kyat</narrative>
@@ -1322,7 +1322,7 @@
                 <narrative xml:lang="pt">Kyat</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MNT</code>
             <name>
                 <narrative>Tugrik</narrative>
@@ -1330,7 +1330,7 @@
                 <narrative xml:lang="pt">Tugrik</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MOP</code>
             <name>
                 <narrative>Pataca</narrative>
@@ -1349,7 +1349,7 @@
                 <narrative>Withdrawn from ISO Currency codelist. Use code MRU.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MRU</code>
             <name>
                 <narrative>Ouguiya</narrative>
@@ -1373,7 +1373,7 @@
                 <narrative xml:lang="pt">Libra maltesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MUR</code>
             <name>
                 <narrative>Mauritius Rupee</narrative>
@@ -1389,7 +1389,7 @@
                 <narrative xml:lang="pt">Rupia maldivense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MVR</code>
             <name>
                 <narrative>Rufiyaa</narrative>
@@ -1397,7 +1397,7 @@
                 <narrative xml:lang="pt">Rufiyaa</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2016-02-01" status="withdrawn">
+        <codelist-item withdrawal-date="2016-02-01" status="active">
             <code>MWK</code>
             <name>
                 <narrative>Malawi Kwacha</narrative>
@@ -1405,7 +1405,7 @@
                 <narrative xml:lang="pt">Kwacha</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MXN</code>
             <name>
                 <narrative>Mexican Peso</narrative>
@@ -1421,7 +1421,7 @@
                 <narrative xml:lang="pt">Peso mexicano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MXV</code>
             <name>
                 <narrative>Mexican Unidad de Inversion (UDI)</narrative>
@@ -1429,7 +1429,7 @@
                 <narrative xml:lang="pt">Unidade de investimento mexicana (UDI)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MYR</code>
             <name>
                 <narrative>Malaysian Ringgit</narrative>
@@ -1453,7 +1453,7 @@
                 <narrative xml:lang="pt">Metical moçambicano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MZN</code>
             <name>
                 <narrative>Mozambique Metical</narrative>
@@ -1461,7 +1461,7 @@
                 <narrative xml:lang="pt">Metical moçambicano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NAD</code>
             <name>
                 <narrative>Namibia Dollar</narrative>
@@ -1469,7 +1469,7 @@
                 <narrative xml:lang="pt">Dólar namibiano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NGN</code>
             <name>
                 <narrative>Naira</narrative>
@@ -1485,7 +1485,7 @@
                 <narrative xml:lang="pt">Cordoba</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NIO</code>
             <name>
                 <narrative>Cordoba Oro</narrative>
@@ -1501,7 +1501,7 @@
                 <narrative xml:lang="pt">Florim neerlandês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NOK</code>
             <name>
                 <narrative>Norwegian Krone</narrative>
@@ -1509,7 +1509,7 @@
                 <narrative xml:lang="pt">Coroa norueguesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NPR</code>
             <name>
                 <narrative>Nepalese Rupee</narrative>
@@ -1517,7 +1517,7 @@
                 <narrative xml:lang="pt">Rupia nepalesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NZD</code>
             <name>
                 <narrative>New Zealand Dollar</narrative>
@@ -1525,7 +1525,7 @@
                 <narrative xml:lang="pt">Dólar neozelandês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>OMR</code>
             <name>
                 <narrative>Rial Omani</narrative>
@@ -1533,7 +1533,7 @@
                 <narrative xml:lang="pt">Rial omani</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PAB</code>
             <name>
                 <narrative>Balboa</narrative>
@@ -1557,7 +1557,7 @@
                 <narrative xml:lang="pt">Inti</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2015-12-01" status="withdrawn">
+        <codelist-item withdrawal-date="2015-12-01" status="active">
             <code>PEN</code>
             <name>
                 <narrative>Sol</narrative>
@@ -1573,7 +1573,7 @@
                 <narrative xml:lang="pt">Sol</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PGK</code>
             <name>
                 <narrative>Kina</narrative>
@@ -1581,7 +1581,7 @@
                 <narrative xml:lang="pt">Kina</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PHP</code>
             <name>
                 <narrative>Philippine Peso</narrative>
@@ -1589,7 +1589,7 @@
                 <narrative xml:lang="pt">Peso filipino</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PKR</code>
             <name>
                 <narrative>Pakistan Rupee</narrative>
@@ -1597,7 +1597,7 @@
                 <narrative xml:lang="pt">Rupia paquistanesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PLN</code>
             <name>
                 <narrative>Zloty</narrative>
@@ -1621,7 +1621,7 @@
                 <narrative xml:lang="pt">Escudo português</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PYG</code>
             <name>
                 <narrative>Guarani</narrative>
@@ -1629,7 +1629,7 @@
                 <narrative xml:lang="pt">Guarani</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>QAR</code>
             <name>
                 <narrative>Qatari Rial</narrative>
@@ -1661,7 +1661,7 @@
                 <narrative xml:lang="pt">Leu antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
+        <codelist-item withdrawal-date="2015-06-01" status="active">
             <code>RON</code>
             <name>
                 <narrative>Romanian Leu</narrative>
@@ -1669,7 +1669,7 @@
                 <narrative xml:lang="pt">Leu romeno novo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RSD</code>
             <name>
                 <narrative>Serbian Dinar</narrative>
@@ -1677,7 +1677,7 @@
                 <narrative xml:lang="pt">Dinar sérvio</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RUB</code>
             <name>
                 <narrative>Russian Ruble</narrative>
@@ -1693,7 +1693,7 @@
                 <narrative xml:lang="pt">Rublo russo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RWF</code>
             <name>
                 <narrative>Rwanda Franc</narrative>
@@ -1701,7 +1701,7 @@
                 <narrative xml:lang="pt">Franco ruandês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SAR</code>
             <name>
                 <narrative>Saudi Riyal</narrative>
@@ -1709,7 +1709,7 @@
                 <narrative xml:lang="pt">Rial saudita</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SBD</code>
             <name>
                 <narrative>Solomon Islands Dollar</narrative>
@@ -1717,7 +1717,7 @@
                 <narrative xml:lang="pt">Dólar salomonense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SCR</code>
             <name>
                 <narrative>Seychelles Rupee</narrative>
@@ -1733,7 +1733,7 @@
                 <narrative xml:lang="pt">Dinar sudanês</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2012-09-01" status="withdrawn">
+        <codelist-item withdrawal-date="2012-09-01" status="active">
             <code>SDG</code>
             <name>
                 <narrative>Sudanese Pound</narrative>
@@ -1749,7 +1749,7 @@
                 <narrative xml:lang="pt">Libra sudanesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SEK</code>
             <name>
                 <narrative>Swedish Krona</narrative>
@@ -1757,7 +1757,7 @@
                 <narrative xml:lang="pt">Coroa sueca</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SGD</code>
             <name>
                 <narrative>Singapore Dollar</narrative>
@@ -1765,7 +1765,7 @@
                 <narrative xml:lang="pt">Dólar singapurense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SHP</code>
             <name>
                 <narrative>Saint Helena Pound</narrative>
@@ -1795,7 +1795,7 @@
                 <narrative xml:lang="pt">Coroa eslovaca</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SLL</code>
             <name>
                 <narrative>Leone</narrative>
@@ -1803,7 +1803,7 @@
                 <narrative xml:lang="pt">Leone</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SOS</code>
             <name>
                 <narrative>Somali Shilling</narrative>
@@ -1811,7 +1811,7 @@
                 <narrative xml:lang="pt">Xelim somali</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SRD</code>
             <name>
                 <narrative>Surinam Dollar</narrative>
@@ -1827,7 +1827,7 @@
                 <narrative xml:lang="pt">Florim surinamês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SSP</code>
             <name>
                 <narrative>South Sudanese Pound</narrative>
@@ -1846,7 +1846,7 @@
                 <narrative>Withdrawn from ISO Currency codelist. Use code STN.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>STN</code>
             <name>
                 <narrative>Dobra</narrative>
@@ -1862,7 +1862,7 @@
                 <narrative xml:lang="pt">Rublo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SVC</code>
             <name>
                 <narrative>El Salvador Colon</narrative>
@@ -1870,7 +1870,7 @@
                 <narrative xml:lang="pt">Colón salvadorenho</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SYP</code>
             <name>
                 <narrative>Syrian Pound</narrative>
@@ -1878,7 +1878,7 @@
                 <narrative xml:lang="pt">Libra síria</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2018-08-01" status="withdrawn">
+        <codelist-item withdrawal-date="2018-08-01" status="active">
             <code>SZL</code>
             <name>
                 <narrative>Lilangeni</narrative>
@@ -1886,7 +1886,7 @@
                 <narrative xml:lang="pt">Lilangeni</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>THB</code>
             <name>
                 <narrative>Baht</narrative>
@@ -1902,7 +1902,7 @@
                 <narrative xml:lang="pt">Rublo tajique</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TJS</code>
             <name>
                 <narrative>Somoni</narrative>
@@ -1918,7 +1918,7 @@
                 <narrative xml:lang="pt">Manat turquemenistanês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TMT</code>
             <name>
                 <narrative>Turkmenistan New Manat</narrative>
@@ -1926,7 +1926,7 @@
                 <narrative xml:lang="pt">Manat turquemenistanês novo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TND</code>
             <name>
                 <narrative>Tunisian Dinar</narrative>
@@ -1934,7 +1934,7 @@
                 <narrative xml:lang="pt">Dinar tunisino</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TOP</code>
             <name>
                 <narrative>Pa’anga</narrative>
@@ -1958,7 +1958,7 @@
                 <narrative xml:lang="pt">Lira turca antiga</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2009-01-01" status="withdrawn">
+        <codelist-item withdrawal-date="2009-01-01" status="active">
             <code>TRY</code>
             <name>
                 <narrative>Turkish Lira</narrative>
@@ -1966,7 +1966,7 @@
                 <narrative xml:lang="pt">Lira turca nova</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TTD</code>
             <name>
                 <narrative>Trinidad and Tobago Dollar</narrative>
@@ -1974,7 +1974,7 @@
                 <narrative xml:lang="pt">Dólar de Trindade e Tobago</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TWD</code>
             <name>
                 <narrative>New Taiwan Dollar</narrative>
@@ -1982,7 +1982,7 @@
                 <narrative xml:lang="pt">Dólar taiwanês novo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TZS</code>
             <name>
                 <narrative>Tanzanian Shilling</narrative>
@@ -1990,7 +1990,7 @@
                 <narrative xml:lang="pt">Xelim tanzaniano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UAH</code>
             <name>
                 <narrative>Hryvnia</narrative>
@@ -2022,7 +2022,7 @@
                 <narrative xml:lang="pt">Xelim antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UGX</code>
             <name>
                 <narrative>Uganda Shilling</narrative>
@@ -2030,7 +2030,7 @@
                 <narrative xml:lang="pt">Xelim ugandês</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>USD</code>
             <name>
                 <narrative>US Dollar</narrative>
@@ -2038,7 +2038,7 @@
                 <narrative xml:lang="pt">Dólar dos EUA</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>USN</code>
             <name>
                 <narrative>US Dollar (Next day)</narrative>
@@ -2057,7 +2057,7 @@
                 <narrative>Withdrawn from ISO Currency codelist.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UYI</code>
             <name>
                 <narrative>Uruguay Peso en Unidades Indexadas (UI)</narrative>
@@ -2081,7 +2081,7 @@
                 <narrative xml:lang="pt">Peso uruguaio</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UYU</code>
             <name>
                 <narrative>Peso Uruguayo</narrative>
@@ -2097,7 +2097,7 @@
                 <narrative xml:lang="pt">Unidade previsional</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UZS</code>
             <name>
                 <narrative>Uzbekistan Sum</narrative>
@@ -2127,7 +2127,7 @@
                 <narrative xml:lang="pt">Bolívar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VES</code>
             <name>
                 <narrative>Bolívar Soberano</narrative>
@@ -2143,7 +2143,7 @@
                 <narrative xml:lang="pt">Dong Antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VND</code>
             <name>
                 <narrative>Dong</narrative>
@@ -2151,7 +2151,7 @@
                 <narrative xml:lang="pt">Dong</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VUV</code>
             <name>
                 <narrative>Vatu</narrative>
@@ -2159,7 +2159,7 @@
                 <narrative xml:lang="pt">Vatu</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>WST</code>
             <name>
                 <narrative>Tala</narrative>
@@ -2167,7 +2167,7 @@
                 <narrative xml:lang="pt">Tala</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XAF</code>
             <name>
                 <narrative>CFA Franc BEAC</narrative>
@@ -2231,7 +2231,7 @@
                 <narrative xml:lang="pt">Bitcoin</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XCD</code>
             <name>
                 <narrative>East Caribbean Dollar</narrative>
@@ -2239,7 +2239,7 @@
                 <narrative xml:lang="pt">Dólar leste-caribenho</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XDR</code>
             <name>
                 <narrative>SDR (Special Drawing Right)</narrative>
@@ -2271,7 +2271,7 @@
                 <narrative xml:lang="pt">Franco UIC</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XOF</code>
             <name>
                 <narrative>CFA Franc BCEAO</narrative>
@@ -2287,7 +2287,7 @@
                 <narrative xml:lang="pt">Paládio</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XPF</code>
             <name>
                 <narrative>CFP Franc</narrative>
@@ -2351,7 +2351,7 @@
                 <narrative xml:lang="pt">Dinar iemenita</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>YER</code>
             <name>
                 <narrative>Yemeni Rial</narrative>
@@ -2391,7 +2391,7 @@
                 <narrative xml:lang="pt">Rand financeiro</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZAR</code>
             <name>
                 <narrative>Rand</narrative>
@@ -2410,7 +2410,7 @@
                 <narrative>Withdrawn from ISO Country codelist. Use code ZMW.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZMW</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
@@ -2450,7 +2450,7 @@
                 <narrative xml:lang="pt">Dólar zimbabwense</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZWL</code>
             <name>
                 <narrative>Zimbabwe Dollar</narrative>
