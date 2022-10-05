@@ -2535,6 +2535,24 @@ search for basic details of companies and organizations using the company search
             <category>FI</category>
             <url>http://www.prh.fi/en/index.html</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>FI-VERO</code>
+            <name>
+                <narrative>Finnish Tax Administration</narrative>
+            </name>
+            <description>
+                <narrative>The Finnish Tax Administration (Finnish: Verohallinto, Swedish: Skatteförvaltningen) maintains the register of Finnish companies registered to pay Value Added Tax (VAT). 
+
+“A company selling goods or services in the conduct of business is usually liable to pay VAT and has to be entered in the VAT register. In some cases, for example if the company’s turnover is small, VAT registration is voluntary. In addition, some operations are exempt from VAT. A company conducting VAT-exempt operations cannot be entered in the VAT register.” [1]
+
+“VAT number is ’ALV-numero’ in Finnish and ’momsnummer’ or ‘mervärdesskattenummer’ in Swedish.”  [2]
+
+'[1] https://www.vero.fi/en/businesses-and-corporations/taxes-and-charges/vat/how-to-register-for-vat/'
+'[2] https://www.ytj.fi/en/index/vatnumber.html</narrative>
+            </description>
+            <category>FI</category>
+            <url>https://www.ytj.fi/en/index/vatnumber.html</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>FJ-COA</code>
             <name>
