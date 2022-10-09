@@ -5594,6 +5594,18 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <url>https://gov-id-finder.codeforiati.org/countries/NA/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
+            <code>NA-NAMRA</code>
+            <name>
+                <narrative>Namibia Revenue Agency </narrative>
+            </name>
+            <description>
+                <narrative>The Namibia Revenue Agency maintains the details of all businesses, non-profits and individuals who are required to submit income tax returns. All legal entities must be registered with the Revenue Agency upon incorporation. Information regarding an entity can be requested from the Revenue Agency by the registered representative of the entity, accountants or auditors.
+</narrative>
+            </description>
+            <category>NA</category>
+            <url>https://www.namra.org.na/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
             <code>NC-COA</code>
             <name>
                 <narrative>New Caledonia Chart of Accounts</narrative>
