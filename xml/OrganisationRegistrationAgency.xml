@@ -4452,6 +4452,19 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>KH</category>
             <url>https://gov-id-finder.codeforiati.org/countries/KH/</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>KH-INGO</code>
+            <name>
+                <narrative>Ministry of Foreign Affairs</narrative>
+            </name>
+            <description>
+                <narrative>A foreign NGO must register with the MOFA by entering into a Memorandum of Understanding (“MOU”) with MOFA. After the MOFA has entered into the MOU with a foreign NGO, the NGO must sign a Project Agreement with the MOFA before starting its work.  A foreign NGO may be established for a three (3) year duration which must be renewed with the MOFA before the expiration of the term.
+An organization registered as a foreign NGO by the MOFA is considered properly licensed to carry out its activities in Cambodia and no further registration is required. However, in the event a foreign organization was to carry out business activities pursuant to Article 272 of the LOCE it may remain subject to registration as in accordance with that provision.
+After obtaining MOFA or MOI approval to be established, a foreign or local NGO must also register with the CDC if it wishes to import duty free materials to serve its program. The CDC will periodically require the NGO complete several forms.</narrative>
+            </description>
+            <category>KH</category>
+            <url>https://www.mfaic.gov.kh/</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>KH-NNGO</code>
             <name>
@@ -4883,6 +4896,27 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>LU</category>
             <url>https://gov-id-finder.codeforiati.org/countries/LU/</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>LU-RCS</code>
+            <name>
+                <narrative>Luxembourg Trade and Companies Register</narrative>
+            </name>
+            <description>
+                <narrative>The Luxembourg Trade and Companies Register (Registre de commerce et des sociétés – RCS) is a public register and can be freely accessed. It contains information about traders and companies which, by law, must be disclosed and published, alongside their RCS number. This information is published on the RESA publication platform (https://www.lbr.lu/mjrcs-resa/). The RCS is managed by the Luxembourg Business Registers (LBR) (https://www.lbr.lu/).
+
+The information that is published serves to identify the trader or company, and includes particulars such as a company's articles of association, its rules of procedure, the liability of its directors and officers, and the company accounts.
+
+The information that the trader/company will be required to disclose for publication depends on the legal form of the business, its size and its sector of activity.
+
+All companies that are newly incorporated in Luxembourg must be registered with the RCS, and their articles of association must be filed with the latter in full or in extract form depending of the legal form of the business.
+
+Subsequent amendments to published information must also be published.
+
+The LBR ensures interoperability between the Luxembourg RCS and the business registers of other EU member states through the Business Registers Interconnection System.</narrative>
+            </description>
+            <category>LU</category>
+            <url>https://www.lbr.lu/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>LV-COA</code>
