@@ -927,6 +927,14 @@
             </name>
             <category>31000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>31007</code>
+            <name>
+                <narrative>Drugs for Neglected Diseases initative</narrative>
+                <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+            </name>
+            <category>32000</category>
+        </codelist-item>
         <codelist-item status="active">
             <code>32000</code>
             <name>
@@ -988,7 +996,7 @@
                 <narrative>Economic Commission for Latin America and the Caribbean</narrative>
                 <narrative xml:lang="fr">Commission économique pour l'Amérique latine et les Caraïbes</narrative>
             </name>
-            <category>41100</category>
+            <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41105</code>
@@ -996,7 +1004,7 @@
                 <narrative>Economic and Social Commission for Western Asia</narrative>
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie occidentale</narrative>
             </name>
-            <category>41100</category>
+            <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41106</code>
@@ -1004,7 +1012,7 @@
                 <narrative>Economic and Social Commission for Asia and the Pacific</narrative>
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie et le Pacifique</narrative>
             </name>
-            <category>41100</category>
+            <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41107</code>
@@ -1148,7 +1156,7 @@
                 <narrative>United Nations Office on Drugs and Crime</narrative>
                 <narrative xml:lang="fr">Office des Nations Unies contre la drogue et le crime</narrative>
             </name>
-            <category>41100</category>
+            <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41129</code>
@@ -1326,7 +1334,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-01-01">
             <code>41300</code>
             <name>
                 <narrative>Other UN (Core Contributions Reportable in Part)</narrative>
@@ -1380,7 +1388,7 @@
                 <narrative>Universal Postal Union</narrative>
                 <narrative xml:lang="fr">Union postale universelle</narrative>
             </name>
-            <category>41100</category>
+            <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41307</code>
@@ -1494,6 +1502,14 @@
             </name>
             <category>41100</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41321</code>
+            <name>
+                <narrative>World Health Organisation - Strategic Preparedness and Response Plan</narrative>
+                <narrative xml:lang="fr">Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention</narrative>
+            </name>
+            <category>41300</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41400</code>
             <name>
@@ -1507,6 +1523,22 @@
             <name>
                 <narrative>UN-Multi Partner Trust Fund Office</narrative>
                 <narrative xml:lang="fr">UN-Multi Partner Trust Fund Office</narrative>
+            </name>
+            <category>41400</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41402</code>
+            <name>
+                <narrative>Joint Sustainable Development Goals Fund</narrative>
+                <narrative xml:lang="fr">Fonds conjoint des objectifs de développement durable</narrative>
+            </name>
+            <category>41400</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41403</code>
+            <name>
+                <narrative>COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
+                <narrative xml:lang="fr">COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
             </name>
             <category>41400</category>
         </codelist-item>
@@ -1553,6 +1585,30 @@
                 <narrative xml:lang="fr"/>
             </description>
             <category>41000</category>
+        </codelist-item>
+        <codelist-item status="withdrawn" activation-date="2021-01-01">
+            <code>41700</code>
+            <name>
+                <narrative>UN entities, non-core contributions</narrative>
+                <narrative xml:lang="fr">Entités des Nations Unies, contributions autres que de base</narrative>
+            </name>
+            <category>41000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41701</code>
+            <name>
+                <narrative>International Labour Organisation - non-core</narrative>
+                <narrative xml:lang="fr">International Labour Organisation - non-core</narrative>
+            </name>
+            <category>41700</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41702</code>
+            <name>
+                <narrative>World Health Organisation - non-core</narrative>
+                <narrative xml:lang="fr">World Health Organisation - non-core</narrative>
+            </name>
+            <category>41700</category>
         </codelist-item>
         <codelist-item status="active">
             <code>42000</code>
@@ -1853,7 +1909,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46016</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only)</narrative>
+                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (ODA-eligible countries only)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)</narrative>
             </name>
             <category>46000</category>
@@ -1861,7 +1917,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46017</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations)</narrative>
+                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)</narrative>
             </name>
             <category>46000</category>
@@ -3102,6 +3158,14 @@
             </name>
             <category>47000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>47149</code>
+            <name>
+                <narrative>International Commission on Missing Persons</narrative>
+                <narrative xml:lang="fr">Commission internationale pour les personnes disparues</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
             <name>
@@ -3203,7 +3267,7 @@
             </name>
             <category>61000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2016-01-01">
+        <codelist-item status="withdrawn" activation-date="2016-01-01" withdrawal-date="2016-12-31">
             <code>61002</code>
             <name>
                 <narrative>Private exporter in provider country</narrative>
