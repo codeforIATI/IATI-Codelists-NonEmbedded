@@ -76,7 +76,7 @@
                 <narrative>Contributions in this category are pooled by the recipient multilateral institution and become an integral part of its financial assets or liabilities.</narrative>
                 <narrative xml:lang="fr">Les contributions de cette catégorie sont mises en commun par l'institution multilatérale bénéficiaire et deviennent partie intégrante de ses actifs ou passifs financiers.</narrative>
             </description>
-            <category>B02</category>
+            <category>B</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>B022</code>
@@ -88,7 +88,7 @@
                 <narrative>Contributions to global funds classified as multilateral including Financial Intermediary Funds for which the World Bank is the Trustee and which have gone through the Annex 2 process (GEF, CIFs) as well as some UN inter-agency pooled funds, e.g. CERF and the UN Peacebuilding Fund.</narrative>
                 <narrative xml:lang="fr">Contributions à des fonds mondiaux classés comme multilatéraux, y compris les fonds d'intermédiation financière dont la Banque mondiale est l'administrateur et qui sont passés par le processus de l'annexe 2 (FEM, FIC), ainsi que certains fonds communs inter-institutions des Nations unies, par exemple le CERF et le Fonds de consolidation de la paix des Nations unies.</narrative>
             </description>
-            <category>B02</category>
+            <category>B</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>B03</code>
