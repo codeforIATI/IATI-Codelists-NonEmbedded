@@ -1594,7 +1594,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01">
             <code>41701</code>
             <name>
                 <narrative>International Labour Organisation - non-core</narrative>
@@ -1602,7 +1602,7 @@
             </name>
             <category>41700</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01">
             <code>41702</code>
             <name>
                 <narrative>World Health Organisation - non-core</narrative>
@@ -1909,7 +1909,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46016</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (ODA-eligible countries only)</narrative>
+                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)</narrative>
             </name>
             <category>46000</category>
@@ -1917,7 +1917,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46017</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)</narrative>
+                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)</narrative>
             </name>
             <category>46000</category>
@@ -2330,13 +2330,6 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active">
-            <code>31007</code>
-            <name>
-                <narrative>Drugs for Neglected Diseases initative</narrative>
-                <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
-            </name>
-        </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47044</code>
             <name>
@@ -2640,27 +2633,6 @@
                 <narrative xml:lang="fr">Organisation panaméricaine de la santé</narrative>
             </name>
             <category>41100</category>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>41321</code>
-            <name>
-                <narrative>World Health Organisation - Strategic Preparedness and Response Plan</narrative>
-                <narrative xml:lang="fr">Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>41403</code>
-            <name>
-                <narrative>COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
-                <narrative xml:lang="fr">COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>41402</code>
-            <name>
-                <narrative>Joint Sustainable Development Goals Fund</narrative>
-                <narrative xml:lang="fr">Fonds conjoint des objectifs de développement durable</narrative>
-            </name>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47084</code>
@@ -3205,13 +3177,6 @@
                 <narrative xml:lang="fr"/>
             </name>
             <category>47000</category>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>47149</code>
-            <name>
-                <narrative>International Commission on Missing Persons</narrative>
-                <narrative xml:lang="fr">Commission internationale pour les personnes disparues</narrative>
-            </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>50000</code>
