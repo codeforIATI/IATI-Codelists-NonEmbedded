@@ -1447,8 +1447,8 @@
         <codelist-item>
             <code>NL</code>
             <name>
-                <narrative>Netherlands (the)</narrative>
-                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative>Netherlands (Kingdom of the)</narrative>
+                <narrative xml:lang="fr">Pays-Bas (Royaume des)</narrative>
                 <narrative xml:lang="es">Países Bajos</narrative>
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </name>
