@@ -70,7 +70,7 @@
                 <narrative xml:lang="pt">Dram arménio</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2010-10-01" status="withdrawn">
+        <codelist-item withdrawal-date="2010-10-01" status="active">
             <code>ANG</code>
             <name>
                 <narrative>Netherlands Antillean Guilder</narrative>
@@ -732,7 +732,7 @@
                 <narrative xml:lang="pt">Birr etíope</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2006-10-01" status="withdrawn">
+        <codelist-item withdrawal-date="2006-10-01" status="active">
             <code>EUR</code>
             <name>
                 <narrative>Euro</narrative>
@@ -956,7 +956,7 @@
                 <narrative xml:lang="pt">Forint</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2002-07-01" status="withdrawn">
+        <codelist-item withdrawal-date="2002-07-01" status="active">
             <code>IDR</code>
             <name>
                 <narrative>Rupiah</narrative>
@@ -1397,7 +1397,7 @@
                 <narrative xml:lang="pt">Rufiyaa</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2016-02-01" status="withdrawn">
+        <codelist-item withdrawal-date="2016-02-01" status="active">
             <code>MWK</code>
             <name>
                 <narrative>Malawi Kwacha</narrative>
@@ -1557,7 +1557,7 @@
                 <narrative xml:lang="pt">Inti</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2015-12-01" status="withdrawn">
+        <codelist-item withdrawal-date="2015-12-01" status="active">
             <code>PEN</code>
             <name>
                 <narrative>Sol</narrative>
@@ -1661,7 +1661,7 @@
                 <narrative xml:lang="pt">Leu antigo</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
+        <codelist-item withdrawal-date="2015-06-01" status="active">
             <code>RON</code>
             <name>
                 <narrative>Romanian Leu</narrative>
@@ -1733,7 +1733,7 @@
                 <narrative xml:lang="pt">Dinar sudanês</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2012-09-01" status="withdrawn">
+        <codelist-item withdrawal-date="2012-09-01" status="active">
             <code>SDG</code>
             <name>
                 <narrative>Sudanese Pound</narrative>
@@ -1878,7 +1878,7 @@
                 <narrative xml:lang="pt">Libra síria</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2018-08-01" status="withdrawn">
+        <codelist-item withdrawal-date="2018-08-01" status="active">
             <code>SZL</code>
             <name>
                 <narrative>Lilangeni</narrative>
@@ -1958,7 +1958,7 @@
                 <narrative xml:lang="pt">Lira turca antiga</narrative>
             </name>
         </codelist-item>
-        <codelist-item withdrawal-date="2009-01-01" status="withdrawn">
+        <codelist-item withdrawal-date="2009-01-01" status="active">
             <code>TRY</code>
             <name>
                 <narrative>Turkish Lira</narrative>
