@@ -180,7 +180,7 @@
             <category>113</category>
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2019-12-31">
             <code>11321</code>
             <name>
                 <narrative>Lower secondary education</narrative>
