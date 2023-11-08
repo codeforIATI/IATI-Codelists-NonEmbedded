@@ -2816,16 +2816,14 @@ The full Register of Schools in England is available at https://get-information-
                 <narrative>Government Organisation Register</narrative>
             </name>
             <description>
-                <narrative>The UK Government Organisation Register contains an identifier for every government body with a presence on the gov.uk single domain.
+                <narrative>The UK Government Organisation Register was a service provided by the Government Digital Service which retired on March 15 2021. It contained an identifier for every government body with a presence on the gov.uk single domain.
 
-This covers government departments, agencies and Arms Length Bodies (ALBs).
+This covered government departments, agencies and Arms Length Bodies (ALBs).
 
-Each organisation is assigned an alphanumeric identifier, and the register also includes website addresses, that can be mapped to entries in the GB-GOVUK identifier list. 
-
-Due to the stable identifiers given in the Government Organisation Register, it should be preferred over codes from the GB-GOVUK list. </narrative>
+Each organisation was assigned an alphanumeric identifier, and the register also included website addresses, that could be mapped to entries in the GB-GOVUK identifier list.</narrative>
             </description>
             <category>GB</category>
-            <url>https://government-organisation.register.gov.uk/records</url>
+            <url>https://github.com/openregister/registers-data-archive</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>GB-GOV</code>
@@ -4286,7 +4284,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 </narrative>
             </description>
             <category>KE</category>
-            <url>http://www.kra.go.ke/index.php/domestic-taxes/income-tax/about-pin</url>
+            <url>https://www.kra.go.ke/individual/individual-pin-registration/learn-about-pin/about-pin</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>KE-NCB</code>
@@ -5668,6 +5666,25 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>NE</category>
             <url>https://gov-id-finder.codeforiati.org/countries/NE/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>NE-DGI</code>
+            <name>
+                <narrative>Tax Directorate</narrative>
+            </name>
+            <description>
+                <narrative>All people, companies, NGOs and organisations undertaking economic or professional activity in Niger must have a Tax Identification Number (Numéro d'Identification Fiscale, or NIF).
+
+Theoretically, any natural or legal person, carrying out a professional activity, whatever its nature, is bound by the following registration requirements: 
+
+* To sign a declaration of existence to which is attached a registration form in the month of the beginning of the activity or the creation of the enterprise;
+
+* To request the assignment of a Tax Identification Number, commonly known as NIF [1].
+
+[1]: http://www.impots.gouv.ne/missions/immatriculation-et-recensement</narrative>
+            </description>
+            <category>NE</category>
+            <url>https://www.impots.gouv.ne/index.php/formalites/gestion-d-entreprise-nif/creation-d-entreprise-nif</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>NF-COA</code>
@@ -7093,26 +7110,21 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
         <codelist-item public-database="0" status="active">
             <code>SO-MPND</code>
             <name>
-                <narrative>General Register for Non-Governmental Organizations (Somaliland)</narrative>
+                <narrative>Ministry of Planning and National Development - General Register for Non-Governmental Organizations (Somaliland)</narrative>
             </name>
             <description>
-                <narrative>(1) This list covers the operations of non-governmental, independent and not-for-profit organizations; Local/National NGOs, Foreign NGOs, and International NGOs within Somaliland. It also includes the Umbrellas and Consortium of Non-governmental Organizations[1]. Registrations have to be regularly renewed.
+                <narrative>This Ministry covers the registration and operation of non-governmental, independent and not-for-profit organizations within Somaliland (Local, National and International NGOs). Registrations have to be regularly renewed. International NGOs can register or renew their certificates at https://mopnd.govsomaliland.org/articles/new-registration and local NGOs at https://mopnd.govsomaliland.org/articles/new-registration-2.
 
-Local NGOs will be assigned with an identifier after registering. International NGOs should provide a copy of their home-country registration details. 
+Local NGOs will be assigned with an identifier after registering. International NGOs should provide a copy of their home-country registration details.
 
-The list does not include any regulation for the activities of UN organizations, Professional Associations, Private Companies and Industrial and Employee Associations, and those not relating to humanitarian activities [2]. 
+The list does not include any regulation for the activities of UN organizations, Professional Associations, Private Companies, Industrial and Employee Associations, or those not relating to humanitarian activities.
 
-The General Register for Non-Governmental Organizations records and maintains all information and data relating to NGOs. The General Register has separate registration sections for National, International, Foreign, and Umbrellas NGOs [3]. 
+The General Register for Non-Governmental Organizations records and maintains all information and data relating to NGOs. It has separate registration sections for National, International, Foreign, and Umbrellas NGOs.
 
-(2) An NGO is entered into the General Register using the official name of the NGO and the date of registration, serial number and registration number of the certificate. Additional requirements also exist [4].
-
-[1]: Article2.2 and 2.3: http://slministryofplanning.org/images/NGO/ngo-law-final.pdf
-[2]: Article2.4: http://slministryofplanning.org/images/NGO/ngo-law-final.pdf
-[3]: Article 9.1: Register for Non-Governmental Organizations in http://slministryofplanning.org/images/NGO/ngo-law-final.pdf
-[4]: Article 9.7(f):  Register for Non-Governmental Organizations in http://slministryofplanning.org/images/NGO/ngo-law-final.pdf</narrative>
+An NGO is entered into the General Register using the official name of the NGO and the date of registration, serial number and registration number of the certificate.</narrative>
             </description>
             <category>SO</category>
-            <url>http://slministryofplanning.org/</url>
+            <url>https://mopnd.govsomaliland.org/article/about-mopnd/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>SR-COA</code>
@@ -7669,7 +7681,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>UG</category>
             <url>http://www.mia.go.ug/?page_id=62</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>UG-NGO</code>
             <name>
                 <narrative>National Bureau for NGOs (Uganda)</narrative>
@@ -7680,7 +7692,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 It issues certificates of registration to NGOs.</narrative>
             </description>
             <category>UG</category>
-            <url>http://www.mia.go.ug/content/registration-ngos</url>
+            <url>https://ngobureau.go.ug/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>UG-RSB</code>
@@ -7748,16 +7760,15 @@ Other EINs may be available by asking the organisation concerned, and are someti
 
 "An employer identification number (EIN), also called a tax ID number or taxpayer ID, is required for most business entities... A tax ID number is not required if you operate a sole proprietorship or an LLC with no employees, in which case you would simply use your own Social Security Number as a tax ID." [2]
 
-"In the US, corporate registration happens at the state level. The timeliness, availability, and licensing of this data varies among all 50 states. There is no federal dataset that contains all corporate registrations. It would be possible to create a unified open registry for all US corporations (even if only via aggregation from state ones) but this does not exist at this time.
+In the US, corporate registration happens at the state level. The timeliness, availability, and licensing of this data varies among all 50 states. There is no federal dataset that contains all corporate registrations.
 
-Across those states performance varies widely and in many cases data is not available in bulk, is not machine readable, is not openly licensed etc. For more detail, see the per state summary on Open Corporates." [3]
+Across the states, performance varies widely and in many cases data is not available in bulk, is not machine readable, is not openly licensed etc. For more detail, see the per state summary on Open Corporates. 
 
-"The Employer Identification Number (EIN), also known as the Federal Employer Identification Number (FEIN) or the Federal Tax Identification Number, is a unique nine-digit number assigned by the Internal Revenue Service (IRS) to business entities operating in the United States for the purposes of identification. When the number is used for identification rather than employment tax reporting, it is usually referred to as a Taxpayer Identification Number (TIN), and when used for the purposes of reporting employment taxes, it is usually referred to as an EIN. [4] 
+"The Employer Identification Number (EIN), also known as the Federal Employer Identification Number (FEIN) or the Federal Tax Identification Number, is a unique nine-digit number assigned by the Internal Revenue Service (IRS) to business entities operating in the United States for the purposes of identification. When the number is used for identification rather than employment tax reporting, it is usually referred to as a Taxpayer Identification Number (TIN), and when used for the purposes of reporting employment taxes, it is usually referred to as an EIN." [3] 
 
 [1] https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers-eins
 [2] http://tax.findlaw.com/federal-taxes/is-a-tax-id-required-for-my-business-.html
-[3] https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers-eins
-[4] https://en.wikipedia.org/wiki/Employer_Identification_Number</narrative>
+[3] https://en.wikipedia.org/wiki/Employer_Identification_Number</narrative>
             </description>
             <category>US</category>
             <url>https://apps.irs.gov/app/eos/</url>
