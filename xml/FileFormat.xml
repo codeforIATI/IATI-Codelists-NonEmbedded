@@ -438,7 +438,7 @@
             <code>application/fits</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>application/font-sfnt</code>
             <category>application</category>
         </codelist-item>
@@ -446,7 +446,7 @@
             <code>application/font-tdpfr</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>application/font-woff</code>
             <category>application</category>
         </codelist-item>
@@ -2310,7 +2310,7 @@
             <code>application/vnd.genomatix.tuxedo</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>application/vnd.geo+json</code>
             <category>application</category>
         </codelist-item>
