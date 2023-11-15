@@ -1440,6 +1440,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <url>https://gov-id-finder.codeforiati.org/countries/CD/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
+            <code>CD-MJDH</code>
+            <name>
+                <narrative>Ministry of Justice and Human Rights</narrative>
+            </name>
+            <description>
+                <narrative>NGOs and associations apply to the Ministry of Justice and Human Rights (Le Ministre de la Justice et Droits Humain) and are issued with a certificate of registration. The Official Journal of the Democratic Republic of the Congo is the government gazette of the country. It publishes major legal official information including a bulletin of acts of companies, associations and political parties registered with the Ministry of Justice and Human Rights. This is referred to as the second part (Deuxieme parties) and is published on the 1st and on the 15th of each month. The ministerial decree number, under which the organisation is registered, can be used as an identifier. This appears both on the organisation's certificate and in the gazette.</narrative>
+            </description>
+            <category>CD</category>
+            <url>http://droits-humains.gouv.cd/dh_ong_liste.html</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
             <code>CF-COA</code>
             <name>
                 <narrative>Central African Republic (the) Chart of Accounts</narrative>
@@ -6363,6 +6374,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>PS</category>
             <url>http://www.moi.pna.ps/NGOs/List</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>PS-TIN</code>
+            <name>
+                <narrative>Tax Identifier Number, Palestine</narrative>
+            </name>
+            <description>
+                <narrative>The Palestinian National Authority's Ministry of Finance issues a certificate with taxpayer registration data (بيانات تسجيل دافعي الضرائب). The number (الرقم) is the Tax Identification Number for the given organisation.</narrative>
+            </description>
+            <category>PS</category>
+            <url>http://www.pmof.ps/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>PT-COA</code>
