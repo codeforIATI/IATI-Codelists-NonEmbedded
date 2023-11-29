@@ -8271,6 +8271,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>YE</category>
             <url>https://gov-id-finder.codeforiati.org/countries/YE/</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>YE-CR</code>
+            <name>
+                <narrative>Commercial Registry, Yemen</narrative>
+            </name>
+            <description>
+                <narrative>The Yemen Ministry of Industry and Trade manages the commercial registry of trade names for corporations and sole traders.</narrative>
+            </description>
+            <category>YE</category>
+            <url>https://moit-ye.com/</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>YE-MSAL</code>
             <name>
