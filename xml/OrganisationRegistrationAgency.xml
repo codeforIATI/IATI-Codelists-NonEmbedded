@@ -2407,15 +2407,15 @@ EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/2
         <codelist-item public-database="1" status="active">
             <code>ES-MDJ</code>
             <name>
-                <narrative>Ministerio de Justicia </narrative>
+                <narrative>Ministry of Justice, Spain</narrative>
             </name>
             <description>
                 <narrative>The Ministry of Justice keeps a broad array of records, covering organisations, events, and individuals. Some of these records (such as organisations) are public and searchable, whilst others (civil registration) are not.
 
-This list covers the following types of organisations (roughly translated): "Property and Mercantile", "Mediators and Mediation Institutions", "Foundations Under the Jurisdiction of the State", and "Religious Entities".</narrative>
+This list covers the following types of organisations (roughly translated): "Property and Mercantile", "Mediators and Mediation Institutions", and "Foundations Under the Jurisdiction of the State".</narrative>
             </description>
             <category>ES</category>
-            <url>http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros</url>
+            <url>https://www.mjusticia.gob.es/ca/ciudadania/registros</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>ES-NIF</code>
@@ -2945,12 +2945,11 @@ It uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_316
 
 It contains:
 
-* details of societies’ registered offices and contact information
-the services they offer
+* details of societies’ registered offices, contact information and services
 * public documents such as yearly returns and accounts</narrative>
             </description>
             <category>GB</category>
-            <url>https://mutuals.fsa.gov.uk/</url>
+            <url>https://mutuals.fca.org.uk/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>GB-NHS</code>
@@ -4057,6 +4056,23 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>IS</category>
             <url>https://gov-id-finder.codeforiati.org/countries/IS/</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>IS-KEN</code>
+            <name>
+                <narrative>Icelandic Social Security Number</narrative>
+            </name>
+            <description>
+                <narrative>**Identification number - kennitala**. 
+In Iceland, persons and enterprises are issued a unique identification number which is recorded in the national register and register of enterprises.
+
+Individuals are identified with the ID numbers in the national registry system. There are two types of personal ID number registered in the national registry i.e. system ID No. and personal ID No.  
+Personal ID numbers are issued at birth to all children born in Iceland and Icelandic citizens born abroad. Personal ID numbers are also assigned to all individuals who register their domicile in Iceland.
+A system ID number is only issued to individuals who intend to stay less than 3-6 months in Iceland or do not intend to stay in the country at all. 
+</narrative>
+            </description>
+            <category>IS</category>
+            <url>https://www.skra.is/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>IT-CF</code>
@@ -6151,7 +6167,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>PH</category>
             <url>https://gov-id-finder.codeforiati.org/countries/PH/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>PH-SEC</code>
             <name>
                 <narrative>Securities and Exchange Commission (Philippines)</narrative>
