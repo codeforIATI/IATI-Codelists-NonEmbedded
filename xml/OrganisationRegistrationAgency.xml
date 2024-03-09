@@ -2778,6 +2778,21 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <url>https://gov-id-finder.codeforiati.org/countries/GB/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
+            <code>GB-COE</code>
+            <name>
+                <narrative>Church of England Church Codes</narrative>
+            </name>
+            <description>
+                <narrative>Church Codes are a unique identification number supplied to each church building by the Church of England Central Services, which is part of the administrative bodies of the National Church Institutions that work together to support the mission and ministries of the Church of England. This code provides a unique number for the property assets of the Church of England.
+
+The codes are used to represent the church as an entity as well as everything connected to it such as financial and congregational records.
+
+The churches are owned locally, held in trust by the incumbent of the church (priest) and the management is run by a committee, a Parochial Church Council (PCC). These organisations are often not registered for a GB-CHC number due their income being less than £100,000 number despite being otherwise regulated by the Charity Commission. They are also excluded from the UK Register of Trusts. For this reason, these church codes may be used to identified PCCs.</narrative>
+            </description>
+            <category>GB</category>
+            <url>https://facultyonline.churchofengland.org/churches</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
             <code>GB-COH</code>
             <name>
                 <narrative>Companies House</narrative>
@@ -5129,6 +5144,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>MG</category>
             <url>https://gov-id-finder.codeforiati.org/countries/MG/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>MG-NIF</code>
+            <name>
+                <narrative>Directorate General of Taxes</narrative>
+            </name>
+            <description>
+                <narrative>Madagascar's General tax office (DGI) are responsible for issuing 'Numéro d'Identification Fiscale' (NIF) identification numbers.</narrative>
+            </description>
+            <category>MG</category>
+            <url>https://www.impots.mg/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>MH-COA</code>
