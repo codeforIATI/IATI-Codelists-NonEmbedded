@@ -1795,7 +1795,7 @@
                 <narrative xml:lang="pt">Coroa eslovaca</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>SLL</code>
             <name>
                 <narrative>Leone</narrative>
