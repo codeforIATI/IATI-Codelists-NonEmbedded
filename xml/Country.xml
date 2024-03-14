@@ -14,7 +14,7 @@
         </category>
     </metadata>
     <codelist-items>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AF</code>
             <name>
                 <narrative>Afghanistan</narrative>
@@ -23,7 +23,7 @@
                 <narrative xml:lang="pt">Afeganistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AX</code>
             <name>
                 <narrative>Åland Islands</narrative>
@@ -32,7 +32,7 @@
                 <narrative xml:lang="pt">Ilhas Åland</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AL</code>
             <name>
                 <narrative>Albania</narrative>
@@ -41,7 +41,7 @@
                 <narrative xml:lang="pt">Albânia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DZ</code>
             <name>
                 <narrative>Algeria</narrative>
@@ -50,7 +50,7 @@
                 <narrative xml:lang="pt">Argélia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AS</code>
             <name>
                 <narrative>American Samoa</narrative>
@@ -59,7 +59,7 @@
                 <narrative xml:lang="pt">Samoa Americana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AD</code>
             <name>
                 <narrative>Andorra</narrative>
@@ -68,7 +68,7 @@
                 <narrative xml:lang="pt">Andorra</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AO</code>
             <name>
                 <narrative>Angola</narrative>
@@ -77,7 +77,7 @@
                 <narrative xml:lang="pt">Angola</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AI</code>
             <name>
                 <narrative>Anguilla</narrative>
@@ -86,7 +86,7 @@
                 <narrative xml:lang="pt">Anguila</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AQ</code>
             <name>
                 <narrative>Antarctica</narrative>
@@ -95,7 +95,7 @@
                 <narrative xml:lang="pt">Antártida</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AG</code>
             <name>
                 <narrative>Antigua and Barbuda</narrative>
@@ -104,7 +104,7 @@
                 <narrative xml:lang="pt">Antígua e Barbuda</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AR</code>
             <name>
                 <narrative>Argentina</narrative>
@@ -113,7 +113,7 @@
                 <narrative xml:lang="pt">Argentina</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AM</code>
             <name>
                 <narrative>Armenia</narrative>
@@ -122,7 +122,7 @@
                 <narrative xml:lang="pt">Arménia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AW</code>
             <name>
                 <narrative>Aruba</narrative>
@@ -131,7 +131,7 @@
                 <narrative xml:lang="pt">Aruba</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AU</code>
             <name>
                 <narrative>Australia</narrative>
@@ -140,7 +140,7 @@
                 <narrative xml:lang="pt">Austrália</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AT</code>
             <name>
                 <narrative>Austria</narrative>
@@ -149,7 +149,7 @@
                 <narrative xml:lang="pt">Áustria</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AZ</code>
             <name>
                 <narrative>Azerbaijan</narrative>
@@ -158,7 +158,7 @@
                 <narrative xml:lang="pt">Azerbaijão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BS</code>
             <name>
                 <narrative>Bahamas (the)</narrative>
@@ -167,7 +167,7 @@
                 <narrative xml:lang="pt">Bahamas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BH</code>
             <name>
                 <narrative>Bahrain</narrative>
@@ -176,7 +176,7 @@
                 <narrative xml:lang="pt">Barém</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BD</code>
             <name>
                 <narrative>Bangladesh</narrative>
@@ -185,7 +185,7 @@
                 <narrative xml:lang="pt">Bangladesh</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BB</code>
             <name>
                 <narrative>Barbados</narrative>
@@ -194,7 +194,7 @@
                 <narrative xml:lang="pt">Barbados</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BY</code>
             <name>
                 <narrative>Belarus</narrative>
@@ -203,7 +203,7 @@
                 <narrative xml:lang="pt">Bielorrússia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BE</code>
             <name>
                 <narrative>Belgium</narrative>
@@ -212,7 +212,7 @@
                 <narrative xml:lang="pt">Bélgica</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BZ</code>
             <name>
                 <narrative>Belize</narrative>
@@ -221,7 +221,7 @@
                 <narrative xml:lang="pt">Belize</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BJ</code>
             <name>
                 <narrative>Benin</narrative>
@@ -230,7 +230,7 @@
                 <narrative xml:lang="pt">Benim</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BM</code>
             <name>
                 <narrative>Bermuda</narrative>
@@ -239,7 +239,7 @@
                 <narrative xml:lang="pt">Bermudas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BT</code>
             <name>
                 <narrative>Bhutan</narrative>
@@ -248,7 +248,7 @@
                 <narrative xml:lang="pt">Butão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BO</code>
             <name>
                 <narrative>Bolivia (Plurinational State of)</narrative>
@@ -257,7 +257,7 @@
                 <narrative xml:lang="pt">Bolívia (Estado Plurinacional da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BQ</code>
             <name>
                 <narrative>Bonaire, Sint Eustatius and Saba</narrative>
@@ -266,7 +266,7 @@
                 <narrative xml:lang="pt">Bonaire, Santo Eustáquio e Saba</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BA</code>
             <name>
                 <narrative>Bosnia and Herzegovina</narrative>
@@ -275,7 +275,7 @@
                 <narrative xml:lang="pt">Bósnia e Herzegovina</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BW</code>
             <name>
                 <narrative>Botswana</narrative>
@@ -284,7 +284,7 @@
                 <narrative xml:lang="pt">Botsuana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BV</code>
             <name>
                 <narrative>Bouvet Island</narrative>
@@ -293,7 +293,7 @@
                 <narrative xml:lang="pt">Ilha Bouvet</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BR</code>
             <name>
                 <narrative>Brazil</narrative>
@@ -302,7 +302,7 @@
                 <narrative xml:lang="pt">Brasil</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IO</code>
             <name>
                 <narrative>British Indian Ocean Territory (the)</narrative>
@@ -311,7 +311,7 @@
                 <narrative xml:lang="pt">Território Britânico do Oceano Índico</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BN</code>
             <name>
                 <narrative>Brunei Darussalam</narrative>
@@ -320,7 +320,7 @@
                 <narrative xml:lang="pt">Brunei Darussalam</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BG</code>
             <name>
                 <narrative>Bulgaria</narrative>
@@ -329,7 +329,7 @@
                 <narrative xml:lang="pt">Bulgária</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BF</code>
             <name>
                 <narrative>Burkina Faso</narrative>
@@ -347,7 +347,7 @@
                 <narrative xml:lang="pt">Burma</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BI</code>
             <name>
                 <narrative>Burundi</narrative>
@@ -356,7 +356,7 @@
                 <narrative xml:lang="pt">Burundi</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KH</code>
             <name>
                 <narrative>Cambodia</narrative>
@@ -365,7 +365,7 @@
                 <narrative xml:lang="pt">Camboja</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CM</code>
             <name>
                 <narrative>Cameroon</narrative>
@@ -374,7 +374,7 @@
                 <narrative xml:lang="pt">Camarões</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CA</code>
             <name>
                 <narrative>Canada</narrative>
@@ -383,7 +383,7 @@
                 <narrative xml:lang="pt">Canadá</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CV</code>
             <name>
                 <narrative>Cabo Verde</narrative>
@@ -392,7 +392,7 @@
                 <narrative xml:lang="pt">Cabo Verde</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KY</code>
             <name>
                 <narrative>Cayman Islands (the)</narrative>
@@ -401,7 +401,7 @@
                 <narrative xml:lang="pt">Ilhas Caimã</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CF</code>
             <name>
                 <narrative>Central African Republic (the)</narrative>
@@ -410,7 +410,7 @@
                 <narrative xml:lang="pt">República Centro-Africana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TD</code>
             <name>
                 <narrative>Chad</narrative>
@@ -419,7 +419,7 @@
                 <narrative xml:lang="pt">Chade</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CL</code>
             <name>
                 <narrative>Chile</narrative>
@@ -428,7 +428,7 @@
                 <narrative xml:lang="pt">Chile</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CN</code>
             <name>
                 <narrative>China</narrative>
@@ -437,7 +437,7 @@
                 <narrative xml:lang="pt">China</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CX</code>
             <name>
                 <narrative>Christmas Island</narrative>
@@ -446,7 +446,7 @@
                 <narrative xml:lang="pt">Ilha do Natal</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CC</code>
             <name>
                 <narrative>Cocos (Keeling) Islands (the)</narrative>
@@ -455,7 +455,7 @@
                 <narrative xml:lang="pt">Ilhas Cocos (Keeling)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CO</code>
             <name>
                 <narrative>Colombia</narrative>
@@ -464,7 +464,7 @@
                 <narrative xml:lang="pt">Colômbia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KM</code>
             <name>
                 <narrative>Comoros (the)</narrative>
@@ -473,7 +473,7 @@
                 <narrative xml:lang="pt">Comores</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CG</code>
             <name>
                 <narrative>Congo (the)</narrative>
@@ -482,7 +482,7 @@
                 <narrative xml:lang="pt">Congo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CD</code>
             <name>
                 <narrative>Congo (the Democratic Republic of the)</narrative>
@@ -491,7 +491,7 @@
                 <narrative xml:lang="pt">Congo (República Democrática do)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CK</code>
             <name>
                 <narrative>Cook Islands (the)</narrative>
@@ -500,7 +500,7 @@
                 <narrative xml:lang="pt">Ilhas Cook</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CR</code>
             <name>
                 <narrative>Costa Rica</narrative>
@@ -509,7 +509,7 @@
                 <narrative xml:lang="pt">Costa Rica</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CI</code>
             <name>
                 <narrative>Côte d'Ivoire</narrative>
@@ -518,7 +518,7 @@
                 <narrative xml:lang="pt">Côte d'Ivoire</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HR</code>
             <name>
                 <narrative>Croatia</narrative>
@@ -527,7 +527,7 @@
                 <narrative xml:lang="pt">Croácia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CU</code>
             <name>
                 <narrative>Cuba</narrative>
@@ -536,7 +536,7 @@
                 <narrative xml:lang="pt">Cuba</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CW</code>
             <name>
                 <narrative>Curaçao</narrative>
@@ -545,7 +545,7 @@
                 <narrative xml:lang="pt">Curaçau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CY</code>
             <name>
                 <narrative>Cyprus</narrative>
@@ -554,7 +554,7 @@
                 <narrative xml:lang="pt">Chipre</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CZ</code>
             <name>
                 <narrative>Czechia</narrative>
@@ -563,7 +563,7 @@
                 <narrative xml:lang="pt">Chéquia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DK</code>
             <name>
                 <narrative>Denmark</narrative>
@@ -572,7 +572,7 @@
                 <narrative xml:lang="pt">Dinamarca</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DJ</code>
             <name>
                 <narrative>Djibouti</narrative>
@@ -581,7 +581,7 @@
                 <narrative xml:lang="pt">Djibouti</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DM</code>
             <name>
                 <narrative>Dominica</narrative>
@@ -590,7 +590,7 @@
                 <narrative xml:lang="pt">Dominica</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DO</code>
             <name>
                 <narrative>Dominican Republic (the)</narrative>
@@ -608,7 +608,7 @@
                 <narrative xml:lang="pt">Timor-Leste</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>EC</code>
             <name>
                 <narrative>Ecuador</narrative>
@@ -617,7 +617,7 @@
                 <narrative xml:lang="pt">Equador</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>EG</code>
             <name>
                 <narrative>Egypt</narrative>
@@ -626,7 +626,7 @@
                 <narrative xml:lang="pt">Egito</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SV</code>
             <name>
                 <narrative>El Salvador</narrative>
@@ -635,7 +635,7 @@
                 <narrative xml:lang="pt">El Salvador</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GQ</code>
             <name>
                 <narrative>Equatorial Guinea</narrative>
@@ -644,7 +644,7 @@
                 <narrative xml:lang="pt">Guiné Equatorial</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ER</code>
             <name>
                 <narrative>Eritrea</narrative>
@@ -653,7 +653,7 @@
                 <narrative xml:lang="pt">Eritreia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>EE</code>
             <name>
                 <narrative>Estonia</narrative>
@@ -662,7 +662,7 @@
                 <narrative xml:lang="pt">Estónia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ET</code>
             <name>
                 <narrative>Ethiopia</narrative>
@@ -671,7 +671,7 @@
                 <narrative xml:lang="pt">Etiópia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FK</code>
             <name>
                 <narrative>Falkland Islands (the) [Malvinas]</narrative>
@@ -680,7 +680,7 @@
                 <narrative xml:lang="pt">Ilhas Falkland (Maldivas)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FO</code>
             <name>
                 <narrative>Faroe Islands (the)</narrative>
@@ -689,7 +689,7 @@
                 <narrative xml:lang="pt">Ilhas Faroé</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FJ</code>
             <name>
                 <narrative>Fiji</narrative>
@@ -698,7 +698,7 @@
                 <narrative xml:lang="pt">Fiji</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FI</code>
             <name>
                 <narrative>Finland</narrative>
@@ -707,7 +707,7 @@
                 <narrative xml:lang="pt">Finlândia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FR</code>
             <name>
                 <narrative>France</narrative>
@@ -716,7 +716,7 @@
                 <narrative xml:lang="pt">França</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GF</code>
             <name>
                 <narrative>French Guiana</narrative>
@@ -725,7 +725,7 @@
                 <narrative xml:lang="pt">Guiana Francesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PF</code>
             <name>
                 <narrative>French Polynesia</narrative>
@@ -734,7 +734,7 @@
                 <narrative xml:lang="pt">Polinésia Francesa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TF</code>
             <name>
                 <narrative>French Southern Territories (the)</narrative>
@@ -743,7 +743,7 @@
                 <narrative xml:lang="pt">Territórios Austrais Franceses</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GA</code>
             <name>
                 <narrative>Gabon</narrative>
@@ -752,7 +752,7 @@
                 <narrative xml:lang="pt">Gabão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GM</code>
             <name>
                 <narrative>Gambia (the)</narrative>
@@ -761,7 +761,7 @@
                 <narrative xml:lang="pt">Gâmbia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GE</code>
             <name>
                 <narrative>Georgia</narrative>
@@ -770,7 +770,7 @@
                 <narrative xml:lang="pt">Geórgia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>DE</code>
             <name>
                 <narrative>Germany</narrative>
@@ -779,7 +779,7 @@
                 <narrative xml:lang="pt">Alemanha</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GH</code>
             <name>
                 <narrative>Ghana</narrative>
@@ -788,7 +788,7 @@
                 <narrative xml:lang="pt">Gana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GI</code>
             <name>
                 <narrative>Gibraltar</narrative>
@@ -797,7 +797,7 @@
                 <narrative xml:lang="pt">Gibraltar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GR</code>
             <name>
                 <narrative>Greece</narrative>
@@ -806,7 +806,7 @@
                 <narrative xml:lang="pt">Grécia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GL</code>
             <name>
                 <narrative>Greenland</narrative>
@@ -815,7 +815,7 @@
                 <narrative xml:lang="pt">Groenlândia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GD</code>
             <name>
                 <narrative>Grenada</narrative>
@@ -824,7 +824,7 @@
                 <narrative xml:lang="pt">Granada</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GP</code>
             <name>
                 <narrative>Guadeloupe</narrative>
@@ -833,7 +833,7 @@
                 <narrative xml:lang="pt">Guadalupe</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GU</code>
             <name>
                 <narrative>Guam</narrative>
@@ -842,7 +842,7 @@
                 <narrative xml:lang="pt">Guam</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GT</code>
             <name>
                 <narrative>Guatemala</narrative>
@@ -851,7 +851,7 @@
                 <narrative xml:lang="pt">Guatemala</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GG</code>
             <name>
                 <narrative>Guernsey</narrative>
@@ -860,7 +860,7 @@
                 <narrative xml:lang="pt">Guernsey</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GN</code>
             <name>
                 <narrative>Guinea</narrative>
@@ -869,7 +869,7 @@
                 <narrative xml:lang="pt">Guiné</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GW</code>
             <name>
                 <narrative>Guinea-Bissau</narrative>
@@ -878,7 +878,7 @@
                 <narrative xml:lang="pt">Guiné-Bissau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GY</code>
             <name>
                 <narrative>Guyana</narrative>
@@ -887,7 +887,7 @@
                 <narrative xml:lang="pt">Guiana</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HT</code>
             <name>
                 <narrative>Haiti</narrative>
@@ -896,7 +896,7 @@
                 <narrative xml:lang="pt">Haiti</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HM</code>
             <name>
                 <narrative>Heard Island and McDonald Islands</narrative>
@@ -905,7 +905,7 @@
                 <narrative xml:lang="pt">Ilhas Heard e McDonald</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VA</code>
             <name>
                 <narrative>Holy See (the)</narrative>
@@ -914,7 +914,7 @@
                 <narrative xml:lang="pt">Santa Sé</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HN</code>
             <name>
                 <narrative>Honduras</narrative>
@@ -923,7 +923,7 @@
                 <narrative xml:lang="pt">Honduras</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HK</code>
             <name>
                 <narrative>Hong Kong</narrative>
@@ -932,7 +932,7 @@
                 <narrative xml:lang="pt">Hong Kong</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>HU</code>
             <name>
                 <narrative>Hungary</narrative>
@@ -941,7 +941,7 @@
                 <narrative xml:lang="pt">Hungria</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IS</code>
             <name>
                 <narrative>Iceland</narrative>
@@ -950,7 +950,7 @@
                 <narrative xml:lang="pt">Islândia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IN</code>
             <name>
                 <narrative>India</narrative>
@@ -959,7 +959,7 @@
                 <narrative xml:lang="pt">Índia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ID</code>
             <name>
                 <narrative>Indonesia</narrative>
@@ -968,7 +968,7 @@
                 <narrative xml:lang="pt">Indonésia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IR</code>
             <name>
                 <narrative>Iran (Islamic Republic of)</narrative>
@@ -977,7 +977,7 @@
                 <narrative xml:lang="pt">Irã (República Islâmica do)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IQ</code>
             <name>
                 <narrative>Iraq</narrative>
@@ -986,7 +986,7 @@
                 <narrative xml:lang="pt">Iraque</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IE</code>
             <name>
                 <narrative>Ireland</narrative>
@@ -995,7 +995,7 @@
                 <narrative xml:lang="pt">Irlanda</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IM</code>
             <name>
                 <narrative>Isle of Man</narrative>
@@ -1004,7 +1004,7 @@
                 <narrative xml:lang="pt">Ilha de Man</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IL</code>
             <name>
                 <narrative>Israel</narrative>
@@ -1013,7 +1013,7 @@
                 <narrative xml:lang="pt">Israel</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>IT</code>
             <name>
                 <narrative>Italy</narrative>
@@ -1022,7 +1022,7 @@
                 <narrative xml:lang="pt">Itália</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JM</code>
             <name>
                 <narrative>Jamaica</narrative>
@@ -1031,7 +1031,7 @@
                 <narrative xml:lang="pt">Jamaica</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JP</code>
             <name>
                 <narrative>Japan</narrative>
@@ -1040,7 +1040,7 @@
                 <narrative xml:lang="pt">Japão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JE</code>
             <name>
                 <narrative>Jersey</narrative>
@@ -1049,7 +1049,7 @@
                 <narrative xml:lang="pt">Jersey</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>JO</code>
             <name>
                 <narrative>Jordan</narrative>
@@ -1058,7 +1058,7 @@
                 <narrative xml:lang="pt">Jordânia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KZ</code>
             <name>
                 <narrative>Kazakhstan</narrative>
@@ -1067,7 +1067,7 @@
                 <narrative xml:lang="pt">Cazaquistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KE</code>
             <name>
                 <narrative>Kenya</narrative>
@@ -1076,7 +1076,7 @@
                 <narrative xml:lang="pt">Quénia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KI</code>
             <name>
                 <narrative>Kiribati</narrative>
@@ -1085,7 +1085,7 @@
                 <narrative xml:lang="pt">Quiribati</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KP</code>
             <name>
                 <narrative>Korea (the Democratic People's Republic of)</narrative>
@@ -1094,7 +1094,7 @@
                 <narrative xml:lang="pt">Coreia (República Popular Democrática da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KR</code>
             <name>
                 <narrative>Korea (the Republic of)</narrative>
@@ -1103,7 +1103,7 @@
                 <narrative xml:lang="pt">Coreia (República da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>XK</code>
             <name>
                 <narrative>Kosovo</narrative>
@@ -1111,7 +1111,7 @@
                 <narrative xml:lang="pt">Kosovo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KW</code>
             <name>
                 <narrative>Kuwait</narrative>
@@ -1120,7 +1120,7 @@
                 <narrative xml:lang="pt">Kuwait</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KG</code>
             <name>
                 <narrative>Kyrgyzstan</narrative>
@@ -1129,7 +1129,7 @@
                 <narrative xml:lang="pt">Quirguistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LA</code>
             <name>
                 <narrative>Lao People's Democratic Republic (the)</narrative>
@@ -1138,7 +1138,7 @@
                 <narrative xml:lang="pt">Laos, República Democrática Popular do</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LV</code>
             <name>
                 <narrative>Latvia</narrative>
@@ -1147,7 +1147,7 @@
                 <narrative xml:lang="pt">Letónia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LB</code>
             <name>
                 <narrative>Lebanon</narrative>
@@ -1156,7 +1156,7 @@
                 <narrative xml:lang="pt">Líbano</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LS</code>
             <name>
                 <narrative>Lesotho</narrative>
@@ -1165,7 +1165,7 @@
                 <narrative xml:lang="pt">Lesoto</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LR</code>
             <name>
                 <narrative>Liberia</narrative>
@@ -1174,7 +1174,7 @@
                 <narrative xml:lang="pt">Libéria</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LY</code>
             <name>
                 <narrative>Libya</narrative>
@@ -1183,7 +1183,7 @@
                 <narrative xml:lang="pt">Líbia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LI</code>
             <name>
                 <narrative>Liechtenstein</narrative>
@@ -1192,7 +1192,7 @@
                 <narrative xml:lang="pt">Liechtenstein</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LT</code>
             <name>
                 <narrative>Lithuania</narrative>
@@ -1201,7 +1201,7 @@
                 <narrative xml:lang="pt">Lituânia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LU</code>
             <name>
                 <narrative>Luxembourg</narrative>
@@ -1210,7 +1210,7 @@
                 <narrative xml:lang="pt">Luxemburgo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MO</code>
             <name>
                 <narrative>Macao</narrative>
@@ -1219,7 +1219,7 @@
                 <narrative xml:lang="pt">Macau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MK</code>
             <name>
                 <narrative>North Macedonia</narrative>
@@ -1228,7 +1228,7 @@
                 <narrative xml:lang="pt">Macedónia do Norte</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MG</code>
             <name>
                 <narrative>Madagascar</narrative>
@@ -1237,7 +1237,7 @@
                 <narrative xml:lang="pt">Madagáscar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MW</code>
             <name>
                 <narrative>Malawi</narrative>
@@ -1246,7 +1246,7 @@
                 <narrative xml:lang="pt">Malawi</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MY</code>
             <name>
                 <narrative>Malaysia</narrative>
@@ -1255,7 +1255,7 @@
                 <narrative xml:lang="pt">Malásia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MV</code>
             <name>
                 <narrative>Maldives</narrative>
@@ -1264,7 +1264,7 @@
                 <narrative xml:lang="pt">Maldivas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ML</code>
             <name>
                 <narrative>Mali</narrative>
@@ -1273,7 +1273,7 @@
                 <narrative xml:lang="pt">Mali</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MT</code>
             <name>
                 <narrative>Malta</narrative>
@@ -1282,7 +1282,7 @@
                 <narrative xml:lang="pt">Malta</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MH</code>
             <name>
                 <narrative>Marshall Islands (the)</narrative>
@@ -1291,7 +1291,7 @@
                 <narrative xml:lang="pt">Ilhas Marshall</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MQ</code>
             <name>
                 <narrative>Martinique</narrative>
@@ -1300,7 +1300,7 @@
                 <narrative xml:lang="pt">Martinica</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MR</code>
             <name>
                 <narrative>Mauritania</narrative>
@@ -1309,7 +1309,7 @@
                 <narrative xml:lang="pt">Mauritânia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MU</code>
             <name>
                 <narrative>Mauritius</narrative>
@@ -1318,7 +1318,7 @@
                 <narrative xml:lang="pt">Maurícia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>YT</code>
             <name>
                 <narrative>Mayotte</narrative>
@@ -1327,7 +1327,7 @@
                 <narrative xml:lang="pt">Maiote</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MX</code>
             <name>
                 <narrative>Mexico</narrative>
@@ -1336,7 +1336,7 @@
                 <narrative xml:lang="pt">México</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>FM</code>
             <name>
                 <narrative>Micronesia (Federated States of)</narrative>
@@ -1345,7 +1345,7 @@
                 <narrative xml:lang="pt">Micronésia (Estados Federados da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MD</code>
             <name>
                 <narrative>Moldova (the Republic of)</narrative>
@@ -1354,7 +1354,7 @@
                 <narrative xml:lang="pt">Moldávia (República da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MC</code>
             <name>
                 <narrative>Monaco</narrative>
@@ -1363,7 +1363,7 @@
                 <narrative xml:lang="pt">Mónaco</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MN</code>
             <name>
                 <narrative>Mongolia</narrative>
@@ -1372,7 +1372,7 @@
                 <narrative xml:lang="pt">Mongólia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ME</code>
             <name>
                 <narrative>Montenegro</narrative>
@@ -1381,7 +1381,7 @@
                 <narrative xml:lang="pt">Montenegro</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MS</code>
             <name>
                 <narrative>Montserrat</narrative>
@@ -1390,7 +1390,7 @@
                 <narrative xml:lang="pt">Monserrate</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MA</code>
             <name>
                 <narrative>Morocco</narrative>
@@ -1399,7 +1399,7 @@
                 <narrative xml:lang="pt">Marrocos</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MZ</code>
             <name>
                 <narrative>Mozambique</narrative>
@@ -1408,7 +1408,7 @@
                 <narrative xml:lang="pt">Moçambique</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MM</code>
             <name>
                 <narrative>Myanmar</narrative>
@@ -1417,7 +1417,7 @@
                 <narrative xml:lang="pt">Myanmar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NA</code>
             <name>
                 <narrative>Namibia</narrative>
@@ -1426,7 +1426,7 @@
                 <narrative xml:lang="pt">Namíbia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NR</code>
             <name>
                 <narrative>Nauru</narrative>
@@ -1435,7 +1435,7 @@
                 <narrative xml:lang="pt">Nauru</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NP</code>
             <name>
                 <narrative>Nepal</narrative>
@@ -1444,7 +1444,7 @@
                 <narrative xml:lang="pt">Nepal</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NL</code>
             <name>
                 <narrative>Netherlands (Kingdom of the)</narrative>
@@ -1471,7 +1471,7 @@
                 <narrative xml:lang="pt">Zona Neutra</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NC</code>
             <name>
                 <narrative>New Caledonia</narrative>
@@ -1480,7 +1480,7 @@
                 <narrative xml:lang="pt">Nova Caledónia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NZ</code>
             <name>
                 <narrative>New Zealand</narrative>
@@ -1489,7 +1489,7 @@
                 <narrative xml:lang="pt">Nova Zelândia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NI</code>
             <name>
                 <narrative>Nicaragua</narrative>
@@ -1498,7 +1498,7 @@
                 <narrative xml:lang="pt">Nicarágua</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NE</code>
             <name>
                 <narrative>Niger (the)</narrative>
@@ -1507,7 +1507,7 @@
                 <narrative xml:lang="pt">Níger</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NG</code>
             <name>
                 <narrative>Nigeria</narrative>
@@ -1516,7 +1516,7 @@
                 <narrative xml:lang="pt">Nigéria</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NU</code>
             <name>
                 <narrative>Niue</narrative>
@@ -1525,7 +1525,7 @@
                 <narrative xml:lang="pt">Niue</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NF</code>
             <name>
                 <narrative>Norfolk Island</narrative>
@@ -1534,7 +1534,7 @@
                 <narrative xml:lang="pt">Ilha Norfolk</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MP</code>
             <name>
                 <narrative>Northern Mariana Islands (the)</narrative>
@@ -1543,7 +1543,7 @@
                 <narrative xml:lang="pt">Ilhas Marianas do Norte</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>NO</code>
             <name>
                 <narrative>Norway</narrative>
@@ -1552,7 +1552,7 @@
                 <narrative xml:lang="pt">Noruega</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>OM</code>
             <name>
                 <narrative>Oman</narrative>
@@ -1561,7 +1561,7 @@
                 <narrative xml:lang="pt">Omã</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PK</code>
             <name>
                 <narrative>Pakistan</narrative>
@@ -1570,7 +1570,7 @@
                 <narrative xml:lang="pt">Paquistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PW</code>
             <name>
                 <narrative>Palau</narrative>
@@ -1579,7 +1579,7 @@
                 <narrative xml:lang="pt">Palau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PS</code>
             <name>
                 <narrative>Palestine, State of</narrative>
@@ -1588,7 +1588,7 @@
                 <narrative xml:lang="pt">Palestina, Estado da</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PA</code>
             <name>
                 <narrative>Panama</narrative>
@@ -1597,7 +1597,7 @@
                 <narrative xml:lang="pt">Panamá</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PG</code>
             <name>
                 <narrative>Papua New Guinea</narrative>
@@ -1606,7 +1606,7 @@
                 <narrative xml:lang="pt">Papua-Nova Guiné</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PY</code>
             <name>
                 <narrative>Paraguay</narrative>
@@ -1615,7 +1615,7 @@
                 <narrative xml:lang="pt">Paraguai</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PE</code>
             <name>
                 <narrative>Peru</narrative>
@@ -1624,7 +1624,7 @@
                 <narrative xml:lang="pt">Peru</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PH</code>
             <name>
                 <narrative>Philippines (the)</narrative>
@@ -1633,7 +1633,7 @@
                 <narrative xml:lang="pt">Filipinas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PN</code>
             <name>
                 <narrative>Pitcairn</narrative>
@@ -1642,7 +1642,7 @@
                 <narrative xml:lang="pt">Pitcairn</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PL</code>
             <name>
                 <narrative>Poland</narrative>
@@ -1651,7 +1651,7 @@
                 <narrative xml:lang="pt">Polónia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PT</code>
             <name>
                 <narrative>Portugal</narrative>
@@ -1660,7 +1660,7 @@
                 <narrative xml:lang="pt">Portugal</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PR</code>
             <name>
                 <narrative>Puerto Rico</narrative>
@@ -1669,7 +1669,7 @@
                 <narrative xml:lang="pt">Porto Rico</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>QA</code>
             <name>
                 <narrative>Qatar</narrative>
@@ -1678,7 +1678,7 @@
                 <narrative xml:lang="pt">Catar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RE</code>
             <name>
                 <narrative>Réunion</narrative>
@@ -1687,7 +1687,7 @@
                 <narrative xml:lang="pt">Reunião</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RO</code>
             <name>
                 <narrative>Romania</narrative>
@@ -1696,7 +1696,7 @@
                 <narrative xml:lang="pt">Roménia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RU</code>
             <name>
                 <narrative>Russian Federation (the)</narrative>
@@ -1705,7 +1705,7 @@
                 <narrative xml:lang="pt">Federação Russa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RW</code>
             <name>
                 <narrative>Rwanda</narrative>
@@ -1714,7 +1714,7 @@
                 <narrative xml:lang="pt">Ruanda</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>BL</code>
             <name>
                 <narrative>Saint Barthélemy</narrative>
@@ -1723,7 +1723,7 @@
                 <narrative xml:lang="pt">São Bartolomeu</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SH</code>
             <name>
                 <narrative>Saint Helena, Ascension and Tristan da Cunha</narrative>
@@ -1732,7 +1732,7 @@
                 <narrative xml:lang="pt">Santa Helena, Ascensão e Tristão da Cunha</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>KN</code>
             <name>
                 <narrative>Saint Kitts and Nevis</narrative>
@@ -1741,7 +1741,7 @@
                 <narrative xml:lang="pt">São Cristóvão e Nevis</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LC</code>
             <name>
                 <narrative>Saint Lucia</narrative>
@@ -1750,7 +1750,7 @@
                 <narrative xml:lang="pt">Santa Lúcia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>MF</code>
             <name>
                 <narrative>Saint Martin (French part)</narrative>
@@ -1759,7 +1759,7 @@
                 <narrative xml:lang="pt">Saint Martin (parte francesa)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>PM</code>
             <name>
                 <narrative>Saint Pierre and Miquelon</narrative>
@@ -1768,7 +1768,7 @@
                 <narrative xml:lang="pt">São Pedro e Miquelão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VC</code>
             <name>
                 <narrative>Saint Vincent and the Grenadines</narrative>
@@ -1777,7 +1777,7 @@
                 <narrative xml:lang="pt">São Vicente e Granadinas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>WS</code>
             <name>
                 <narrative>Samoa</narrative>
@@ -1786,7 +1786,7 @@
                 <narrative xml:lang="pt">Samoa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SM</code>
             <name>
                 <narrative>San Marino</narrative>
@@ -1795,7 +1795,7 @@
                 <narrative xml:lang="pt">São Marinho</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ST</code>
             <name>
                 <narrative>Sao Tome and Principe</narrative>
@@ -1804,7 +1804,7 @@
                 <narrative xml:lang="pt">São Tomé e Príncipe</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SA</code>
             <name>
                 <narrative>Saudi Arabia</narrative>
@@ -1813,7 +1813,7 @@
                 <narrative xml:lang="pt">Arábia Saudita</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SN</code>
             <name>
                 <narrative>Senegal</narrative>
@@ -1822,7 +1822,7 @@
                 <narrative xml:lang="pt">Senegal</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>RS</code>
             <name>
                 <narrative>Serbia</narrative>
@@ -1831,7 +1831,7 @@
                 <narrative xml:lang="pt">Sérvia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SC</code>
             <name>
                 <narrative>Seychelles</narrative>
@@ -1840,7 +1840,7 @@
                 <narrative xml:lang="pt">Seicheles</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SL</code>
             <name>
                 <narrative>Sierra Leone</narrative>
@@ -1849,7 +1849,7 @@
                 <narrative xml:lang="pt">Serra Leoa</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SG</code>
             <name>
                 <narrative>Singapore</narrative>
@@ -1858,7 +1858,7 @@
                 <narrative xml:lang="pt">Singapura</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SX</code>
             <name>
                 <narrative>Sint Maarten (Dutch part)</narrative>
@@ -1867,7 +1867,7 @@
                 <narrative xml:lang="pt">Sint Maarten (parte neerlandesa)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SK</code>
             <name>
                 <narrative>Slovakia</narrative>
@@ -1876,7 +1876,7 @@
                 <narrative xml:lang="pt">Eslováquia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SI</code>
             <name>
                 <narrative>Slovenia</narrative>
@@ -1885,7 +1885,7 @@
                 <narrative xml:lang="pt">Eslovénia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SB</code>
             <name>
                 <narrative>Solomon Islands</narrative>
@@ -1894,7 +1894,7 @@
                 <narrative xml:lang="pt">Ilhas Salomão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SO</code>
             <name>
                 <narrative>Somalia</narrative>
@@ -1903,7 +1903,7 @@
                 <narrative xml:lang="pt">Somália</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZA</code>
             <name>
                 <narrative>South Africa</narrative>
@@ -1912,7 +1912,7 @@
                 <narrative xml:lang="pt">África do Sul</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GS</code>
             <name>
                 <narrative>South Georgia and the South Sandwich Islands</narrative>
@@ -1921,7 +1921,7 @@
                 <narrative xml:lang="pt">Ilhas Geórgia do Sul e Sandwich do Sul</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SS</code>
             <name>
                 <narrative>South Sudan</narrative>
@@ -1930,7 +1930,7 @@
                 <narrative xml:lang="pt">Sudão do Sul</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ES</code>
             <name>
                 <narrative>Spain</narrative>
@@ -1939,7 +1939,7 @@
                 <narrative xml:lang="pt">Espanha</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>LK</code>
             <name>
                 <narrative>Sri Lanka</narrative>
@@ -1948,7 +1948,7 @@
                 <narrative xml:lang="pt">Sri Lanka</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SD</code>
             <name>
                 <narrative>Sudan (the)</narrative>
@@ -1957,7 +1957,7 @@
                 <narrative xml:lang="pt">Sudão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SR</code>
             <name>
                 <narrative>Suriname</narrative>
@@ -1966,7 +1966,7 @@
                 <narrative xml:lang="pt">Suriname</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SJ</code>
             <name>
                 <narrative>Svalbard and Jan Mayen</narrative>
@@ -1975,7 +1975,7 @@
                 <narrative xml:lang="pt">Svalbard e Jan Mayen</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SZ</code>
             <name>
                 <narrative>Eswatini</narrative>
@@ -1993,7 +1993,7 @@
                 <narrative xml:lang="pt">Sérvia e Montenegro</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SE</code>
             <name>
                 <narrative>Sweden</narrative>
@@ -2002,7 +2002,7 @@
                 <narrative xml:lang="pt">Suécia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>CH</code>
             <name>
                 <narrative>Switzerland</narrative>
@@ -2011,7 +2011,7 @@
                 <narrative xml:lang="pt">Suíça</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>SY</code>
             <name>
                 <narrative>Syrian Arab Republic (the)</narrative>
@@ -2020,7 +2020,7 @@
                 <narrative xml:lang="pt">Síria, República Árabe</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TW</code>
             <name>
                 <narrative>Taiwan (Province of China)</narrative>
@@ -2029,7 +2029,7 @@
                 <narrative xml:lang="pt">Taiwan (Província da China)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TJ</code>
             <name>
                 <narrative>Tajikistan</narrative>
@@ -2038,7 +2038,7 @@
                 <narrative xml:lang="pt">Tajiquistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TZ</code>
             <name>
                 <narrative>Tanzania, the United Republic of</narrative>
@@ -2047,7 +2047,7 @@
                 <narrative xml:lang="pt">Tanzânia, República Unida da</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TH</code>
             <name>
                 <narrative>Thailand</narrative>
@@ -2056,7 +2056,7 @@
                 <narrative xml:lang="pt">Tailândia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TL</code>
             <name>
                 <narrative>Timor-Leste</narrative>
@@ -2065,7 +2065,7 @@
                 <narrative xml:lang="pt">Timor-Leste</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TG</code>
             <name>
                 <narrative>Togo</narrative>
@@ -2074,7 +2074,7 @@
                 <narrative xml:lang="pt">Togo</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TK</code>
             <name>
                 <narrative>Tokelau</narrative>
@@ -2083,7 +2083,7 @@
                 <narrative xml:lang="pt">Toquelau</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TO</code>
             <name>
                 <narrative>Tonga</narrative>
@@ -2092,7 +2092,7 @@
                 <narrative xml:lang="pt">Tonga</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TT</code>
             <name>
                 <narrative>Trinidad and Tobago</narrative>
@@ -2101,7 +2101,7 @@
                 <narrative xml:lang="pt">Trindade e Tobago</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TN</code>
             <name>
                 <narrative>Tunisia</narrative>
@@ -2110,7 +2110,7 @@
                 <narrative xml:lang="pt">Tunísia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TR</code>
             <name>
                 <narrative>Türkiye</narrative>
@@ -2119,7 +2119,7 @@
                 <narrative xml:lang="pt">Turquia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TM</code>
             <name>
                 <narrative>Turkmenistan</narrative>
@@ -2128,7 +2128,7 @@
                 <narrative xml:lang="pt">Turquemenistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TC</code>
             <name>
                 <narrative>Turks and Caicos Islands (the)</narrative>
@@ -2137,7 +2137,7 @@
                 <narrative xml:lang="pt">Ilhas Turcas e Caicos</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>TV</code>
             <name>
                 <narrative>Tuvalu</narrative>
@@ -2146,7 +2146,7 @@
                 <narrative xml:lang="pt">Tuvalu</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UG</code>
             <name>
                 <narrative>Uganda</narrative>
@@ -2155,7 +2155,7 @@
                 <narrative xml:lang="pt">Uganda</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UA</code>
             <name>
                 <narrative>Ukraine</narrative>
@@ -2164,7 +2164,7 @@
                 <narrative xml:lang="pt">Ucrânia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>AE</code>
             <name>
                 <narrative>United Arab Emirates (the)</narrative>
@@ -2173,7 +2173,7 @@
                 <narrative xml:lang="pt">Emirados Árabes Unidos</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>GB</code>
             <name>
                 <narrative>United Kingdom of Great Britain and Northern Ireland (the)</narrative>
@@ -2182,7 +2182,7 @@
                 <narrative xml:lang="pt">Reino Unido da Grã-Bretanha e da Irlanda do Norte</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>US</code>
             <name>
                 <narrative>United States of America (the)</narrative>
@@ -2191,7 +2191,7 @@
                 <narrative xml:lang="pt">Estados Unidos da América</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UM</code>
             <name>
                 <narrative>United States Minor Outlying Islands (the)</narrative>
@@ -2200,7 +2200,7 @@
                 <narrative xml:lang="pt">Ilhas menores distantes dos Estados Unidos</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UY</code>
             <name>
                 <narrative>Uruguay</narrative>
@@ -2209,7 +2209,7 @@
                 <narrative xml:lang="pt">Uruguai</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>UZ</code>
             <name>
                 <narrative>Uzbekistan</narrative>
@@ -2218,7 +2218,7 @@
                 <narrative xml:lang="pt">Uzbequistão</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VU</code>
             <name>
                 <narrative>Vanuatu</narrative>
@@ -2227,7 +2227,7 @@
                 <narrative xml:lang="pt">Vanuatu</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VE</code>
             <name>
                 <narrative>Venezuela (Bolivarian Republic of)</narrative>
@@ -2236,7 +2236,7 @@
                 <narrative xml:lang="pt">Venezuela (República Bolivariana da)</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VN</code>
             <name>
                 <narrative>Viet Nam</narrative>
@@ -2245,7 +2245,7 @@
                 <narrative xml:lang="pt">Vietname</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VG</code>
             <name>
                 <narrative>Virgin Islands (British)</narrative>
@@ -2254,7 +2254,7 @@
                 <narrative xml:lang="pt">Ilhas Virgens Britânicas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>VI</code>
             <name>
                 <narrative>Virgin Islands (U.S.)</narrative>
@@ -2263,7 +2263,7 @@
                 <narrative xml:lang="pt">Ilhas Virgens Americanas</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>WF</code>
             <name>
                 <narrative>Wallis and Futuna</narrative>
@@ -2272,7 +2272,7 @@
                 <narrative xml:lang="pt">Wallis e Futuna</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>EH</code>
             <name>
                 <narrative>Western Sahara</narrative>
@@ -2281,7 +2281,7 @@
                 <narrative xml:lang="pt">Sahara Ocidental</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>YE</code>
             <name>
                 <narrative>Yemen</narrative>
@@ -2308,7 +2308,7 @@
                 <narrative xml:lang="pt">Zaire</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZM</code>
             <name>
                 <narrative>Zambia</narrative>
@@ -2317,7 +2317,7 @@
                 <narrative xml:lang="pt">Zâmbia</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>ZW</code>
             <name>
                 <narrative>Zimbabwe</narrative>
