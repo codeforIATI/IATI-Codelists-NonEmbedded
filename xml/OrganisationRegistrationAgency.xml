@@ -684,17 +684,17 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
         <codelist-item public-database="1" status="active">
             <code>BD-ROC</code>
             <name>
-                <narrative>Bangladesh Office of the Register of Joint Stock Companies and Firms </narrative>
+                <narrative>Bangladesh Office of the Registrar of Joint Stock Companies and Firms </narrative>
             </name>
             <description>
-                <narrative>The Register of Joint Stock Companies is the institution responsible for registering and preserving documentation of the following types of organizations:
+                <narrative>The Registrar of Joint Stock Companies and Firms (RJSC) is the institution responsible for registering and preserving documentation of the following types of organizations:
 
 (A) Public companies
 (B) Private companies
 (C) Foreign companies
-(D) Trade Organization (Trade Organization)
-(E) Society (association), and
-(F) Partnership firm (partnership business)
+(D) Trade Organizations
+(E) Societies, and
+(F) Partnership firms
 
 RJSC registers various organizations and ensures that they operate according to the rules of applicable law. Applicable laws include:
 
@@ -703,7 +703,7 @@ RJSC registers various organizations and ensures that they operate according to 
 (C) Partnership Deed: Partnership Act, 1932.</narrative>
             </description>
             <category>BD</category>
-            <url>http://www.roc.gov.bd/</url>
+            <url>https://roc.gov.bd/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>BE-BCE_KBO</code>
@@ -858,7 +858,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>BI</category>
             <url>https://www.obr.bi/index.php/en/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>BJ-COA</code>
             <name>
                 <narrative>Benin Chart of Accounts</narrative>
@@ -1114,7 +1114,7 @@ Both domestic and foreign companies may be registered with the Registrar of Comp
             <category>BW</category>
             <url>http://www.cipa.co.bw/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>BW-COA</code>
             <name>
                 <narrative>Botswana Chart of Accounts</narrative>
@@ -1465,7 +1465,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>CF</category>
             <url>https://gov-id-finder.codeforiati.org/countries/CF/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>CG-COA</code>
             <name>
                 <narrative>Congo (the) Chart of Accounts</narrative>
@@ -3359,7 +3359,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>GP</category>
             <url>https://gov-id-finder.codeforiati.org/countries/GP/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>GQ-COA</code>
             <name>
                 <narrative>Equatorial Guinea Chart of Accounts</narrative>
@@ -3689,10 +3689,10 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>ID</category>
             <url>https://gov-id-finder.codeforiati.org/countries/ID/</url>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
+        <codelist-item public-database="0" status="active">
             <code>ID-DJP</code>
             <name>
-                <narrative>Director General of Taxes</narrative>
+                <narrative>Indonesian Directorate General of Taxes</narrative>
             </name>
             <description>
                 <narrative>The Directorate General of Taxes is Indonesia's tax office.
@@ -3700,7 +3700,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
 The Tax Identification Number (TIN) is known in Indonesia as Nomor Pokok Wajib Pajak (NPWP) and is issued by the Directorate General of Taxes to individuals and entities. </narrative>
             </description>
             <category>ID</category>
-            <url>http://ceknpwp.com/</url>
+            <url>https://pajak.go.id/en/overview</url>
         </codelist-item>
         <codelist-item public-database="0" status="withdrawn">
             <code>ID-KDN</code>
@@ -4382,7 +4382,7 @@ For Kenya's NGO registry list, users should look to KE-NCB. Please note there is
             <category>KE</category>
             <url>http://www.attorney-general.go.ke/</url>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
+        <codelist-item public-database="0" status="active">
             <code>KG-COA</code>
             <name>
                 <narrative>Kyrgyzstan Chart of Accounts</narrative>
@@ -4477,7 +4477,7 @@ This list references the Taxpayer Identification Numbers (TIN) scheme. </narrati
             <category>KG</category>
             <url>http://register.minjust.gov.kg/register/SearchAction.seam</url>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
+        <codelist-item public-database="0" status="active">
             <code>KH-COA</code>
             <name>
                 <narrative>Cambodia Chart of Accounts</narrative>
@@ -5010,7 +5010,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>LY</category>
             <url>https://gov-id-finder.codeforiati.org/countries/LY/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>MA-COA</code>
             <name>
                 <narrative>Morocco Chart of Accounts</narrative>
@@ -5663,7 +5663,7 @@ Both individuals and corporate entities are assigned an NUIT. </narrative>
             <category>MZ</category>
             <url>http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>NA-COA</code>
             <name>
                 <narrative>Namibia Chart of Accounts</narrative>
@@ -5788,7 +5788,7 @@ The Contractor and Service Provider Database System is a government vendor regis
             <category>NG</category>
             <url>http://new.cac.gov.ng/home/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>NG-COA</code>
             <name>
                 <narrative>Nigeria Chart of Accounts</narrative>
@@ -5839,7 +5839,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
         <codelist-item public-database="0" status="active">
             <code>NL-COA</code>
             <name>
-                <narrative>Netherlands (the) Chart of Accounts</narrative>
+                <narrative>Netherlands (Kingdom of the) Chart of Accounts</narrative>
             </name>
             <description>
                 <narrative>A government's budget (or 'Chart of Accounts') often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers.
@@ -6178,7 +6178,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>PG</category>
             <url>https://gov-id-finder.codeforiati.org/countries/PG/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>PH-COA</code>
             <name>
                 <narrative>Philippines (the) Chart of Accounts</narrative>
@@ -7302,7 +7302,20 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>SY</category>
             <url>https://gov-id-finder.codeforiati.org/countries/SY/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
+            <code>SZ-CIT</code>
+            <name>
+                <narrative>Ministry of Commerce, Industry and Trade, Eswatini</narrative>
+            </name>
+            <description>
+                <narrative>Companies and non-governmental organisations (NGOs) are registered with the Government of Eswatini (Swaziland)'s Ministry of Commerce, Industry and Trade. They receive a registration ID, which does not change over time.
+
+A full list of services that the Ministry provides can be found at https://www.gov.sz/index.php/services-sp-831484471, and specific information on company registration here: https://www.gov.sz/index.php/departments-sp-1596706154?id=522. </narrative>
+            </description>
+            <category>SZ</category>
+            <url>https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
             <code>SZ-COA</code>
             <name>
                 <narrative>Eswatini Chart of Accounts</narrative>
@@ -7414,7 +7427,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>TH</category>
             <url>https://www.rd.go.th/publish/272.0.html</url>
         </codelist-item>
-        <codelist-item public-database="1" status="active">
+        <codelist-item public-database="0" status="active">
             <code>TJ-COA</code>
             <name>
                 <narrative>Tajikistan Chart of Accounts</narrative>
@@ -7519,7 +7532,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
         <codelist-item public-database="0" status="active">
             <code>TR-COA</code>
             <name>
-                <narrative>Turkey Chart of Accounts</narrative>
+                <narrative>Türkiye Chart of Accounts</narrative>
             </name>
             <description>
                 <narrative>A government's budget (or 'Chart of Accounts') often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers.
@@ -8325,6 +8338,21 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <url>https://moit-ye.com/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
+            <code>YE-MOPIC</code>
+            <name>
+                <narrative>Yemen Ministry of Planning and International Cooperation</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Planning and International Cooperation registers foreign non-profit and non-governmental organisations with a physical location and address in Yemen.
+
+Organisations are granted a registration number that is provided on a certificate granting or renewing the license. 
+
+This registration is renewed every two years but the number does not change. Registered organisations must re-register upon changing their name, logo, or nature of their activities. </narrative>
+            </description>
+            <category>YE</category>
+            <url>https://mopic-yemen.org/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
             <code>YE-MSAL</code>
             <name>
                 <narrative>Ministry of Social Affairs and Labour</narrative>
@@ -8388,7 +8416,7 @@ The South African Revenue Service (SARS) is South Africa’s tax collecting auth
             <category>ZA</category>
             <url>https://www.sars.gov.za/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>ZA-COA</code>
             <name>
                 <narrative>South Africa Chart of Accounts</narrative>
