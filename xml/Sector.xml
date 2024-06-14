@@ -1727,11 +1727,11 @@
                 <narrative xml:lang="es">Actividades recreativas y deporte</narrative>
                 <narrative xml:lang="pt">Lazer e esporte</narrative>
             </name>
-            <category>160</category>
             <description>
                 <narrative>Development-oriented social and cultural programmes that contribute to promote inclusion and empowerment of nationals of developing countries. This includes the provision of materials (e.g. books, sport equipment), educational services (e.g. language courses), recreational facilities and equipment, as well as the organisation of tournaments and sporting events taking place in developing countries with participation of their nationals.</narrative>
                 <narrative xml:lang="fr">Programmes sociaux et culturels axés sur le développement qui contribuent à promouvoir l’inclusion et l’autonomisation des ressortissants des pays en développement. Cela comprend la fourniture de matériel (par exemple livres, équipements sportifs), de services éducatifs (par exemple cours de langue), d'installations et d'équipements de loisirs, ainsi que l'organisation de tournois et d'événements sportifs ayant lieu dans les pays en développement avec la participation de leurs ressortissants.</narrative>
             </description>
+            <category>160</category>
         </codelist-item>
         <codelist-item status="active">
             <code>16066</code>
@@ -1741,11 +1741,11 @@
                 <narrative xml:lang="es">Cultura</narrative>
                 <narrative xml:lang="pt">Cultura</narrative>
             </name>
-            <category>160</category>
             <description>
                 <narrative>Programmes to strengthen the cultural sector (cinema, music, dance, painting, literature, etc.) of developing countries; measures to promote or protect the diversity of cultural expressions. This includes support to cultural industries, construction and reparation of facilities; capacity-building for artists and other persons working in the cultural sector; activities to support the production or the dissemination of artistic works of developing country nationals (e.g. artistic or musical events). Preservation of tangible (artefacts, monuments, sites, museums) and intangible (arts, social practices, knowledge and skills, shared values, traditions, performances) cultural heritage that has a diversity of values including symbolic, historic, artistic, aesthetic, ethnological or anthropological, scientific and social significance. Use code 99820 – promotion of development awareness for activities in the field of culture in the donor country that are designed to increase public support and awareness of development co-operation efforts in the donor country.</narrative>
                 <narrative xml:lang="fr">Programmes de renforcement du secteur culturel (cinéma, musique, danse, peinture, littérature, etc.) des pays en développement ; mesures visant à promouvoir ou à protéger la diversité des expressions culturelles. Cela comprend le soutien aux industries culturelles, à la construction et à la réparation des installations ; le renforcement des capacités des artistes et autres personnes travaillant dans le secteur culturel ; activités visant à soutenir la production ou la diffusion d’œuvres artistiques de ressortissants de pays en développement (par exemple événements artistiques ou musicaux). Préservation du patrimoine culturel matériel (objets, monuments, sites, musées) et immatériel (arts, pratiques sociales, connaissances et compétences, valeurs partagées, traditions, performances) qui a une diversité de valeurs, notamment symboliques, historiques, artistiques, esthétiques, ethnologiques ou une signification anthropologique, scientifique et sociale. Utilisez le code 99820 – promotion de la sensibilisation au développement pour les activités dans le domaine de la culture dans le pays donateur qui sont conçues pour accroître le soutien du public et la sensibilisation aux efforts de coopération au développement dans le pays donateur.</narrative>
             </description>
+            <category>160</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>16070</code>
