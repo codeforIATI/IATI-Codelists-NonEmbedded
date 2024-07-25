@@ -2418,6 +2418,12 @@
                 <narrative xml:lang="pt">Kwacha zambiano</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>ZWG</code>
+            <name>
+                <narrative>Zimbabwe Gold</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="1999-06-01">
             <code>ZRN</code>
             <name>
