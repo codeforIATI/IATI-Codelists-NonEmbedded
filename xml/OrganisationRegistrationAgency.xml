@@ -7850,6 +7850,20 @@ Across the states, performance varies widely and in many cases data is not avail
             <category>US</category>
             <url>https://apps.irs.gov/app/eos/</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>US-SAM</code>
+            <name>
+                <narrative>System for Award Management (SAM) Unique Entity ID, USA</narrative>
+            </name>
+            <description>
+                <narrative>The System for Award Management (SAM) of U.S. General Services Administration (GSA). The System for Award Management website (SAM.gov) is an official website of the U.S. Government that allows users to register to do business with the U.S. Government.
+SAM.gov issues entities with a Unique Entity ID (UEI) which is used across the federal government when they apply for federal awards as a prime awardee. Previously a D-U-N-S Number was used.
+Entities must re-register annually. If registration lapses it is still possible to re-register. In all cases the UEI is persistent and is retained by the entity. 
+To apply for federal funds, and to use other functionality such as full search, requires a login through the US government's Login.gov service. https://www.login.gov/policy/rules-of-use/ states that The Login.gov service is operated within the United States, but is accessible globally for public use.</narrative>
+            </description>
+            <category>US</category>
+            <url>https://sam.gov/content/entity-registration</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>US-USAGOV</code>
             <name>
