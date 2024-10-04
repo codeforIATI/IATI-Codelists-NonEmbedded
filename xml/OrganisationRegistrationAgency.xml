@@ -5664,6 +5664,17 @@ Both individuals and corporate entities are assigned an NUIT. </narrative>
             <url>http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
+            <code>NA-BIPA</code>
+            <name>
+                <narrative>Business and Intellectual Property Authority, Republic of Namibia</narrative>
+            </name>
+            <description>
+                <narrative>Namibia's Business and Intellectual Property Authority (BIPA) is the focal point for the registration of business and industrial property, and is responsible for the administration and protection of business and intellectual property. It registers domestic enterprises, non-governmental organisations, and foreign companies, issuing Business Registration Numbers and - in the case of foreign enterprises -  Foreign Registration Numbers. BIPA is established as a juristic person in terms of section 3 of the BIPA Act, 2016 (Act No.8 of 2016) and is a Public Enterprise as defined in the Public Enterprises Governance Act, 2019 (Act No.1 of 2019) of Republic of Namibia.</narrative>
+            </description>
+            <category>NA</category>
+            <url>https://www.bipa.na/business-registration/</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
             <code>NA-COA</code>
             <name>
                 <narrative>Namibia Chart of Accounts</narrative>
