@@ -514,7 +514,7 @@ Consider using the Business Register number with the prefix AT-FB (see list AT-F
             <category>AT</category>
             <url>https://www.bmi.gv.at/609/zvr.aspx</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>AU-ABN</code>
             <name>
                 <narrative>Australian Business Register</narrative>
@@ -524,25 +524,31 @@ Consider using the Business Register number with the prefix AT-FB (see list AT-F
 
 "ABN registration details become part of the Australian Business Register (ABR)"
 
-Each ABN should equate to a single 'business structure', although that structure may be used to carry out a range of business activities.  A range of kinds of entity are issued ABNs, including individuals, corporations, partnerships, unincorporated associations, trusts and superannuation funds. Entities must be carrying on a business in or connection to Australia to receive an ABN.</narrative>
+Each ABN should equate to a single 'business structure', although that structure may be used to carry out a range of business activities.  A range of kinds of entity are issued ABNs, including individuals, corporations, partnerships, unincorporated associations, trusts and superannuation funds. Entities must be carrying on a business in or connection to Australia to receive an ABN.
+
+Charities are issued ABNs when they are formed. See: https://www.acnc.gov.au/charity/charities.</narrative>
             </description>
             <category>AU</category>
-            <url>http://abr.business.gov.au/</url>
+            <url>https://abr.business.gov.au/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="0" status="withdrawn">
             <code>AU-ACNC</code>
             <name>
                 <narrative>Australian Charities and Not-for-profits Commission</narrative>
             </name>
             <description>
-                <narrative>"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO)."
+                <narrative>This list and prefix is deprecated in favour of https://org-id.guide/list/AU-ABN, since all charities are registered under their ABN.
+
+Deprecated description:
+
+"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO)."
 
 Charity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. 
 
 [1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx</narrative>
             </description>
             <category>AU</category>
-            <url>http://www.acnc.gov.au/ACNC/</url>
+            <url>https://www.acnc.gov.au/charity/charities</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>AU-COA</code>
@@ -660,7 +666,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>BD</category>
             <url>https://gov-id-finder.codeforiati.org/countries/BD/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>BD-NAB</code>
             <name>
                 <narrative>Bangladesh NGO Affairs Bureau </narrative>
@@ -5873,28 +5879,24 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>NL</category>
             <url>https://gov-id-finder.codeforiati.org/countries/NL/</url>
         </codelist-item>
-        <codelist-item public-database="0" status="active">
+        <codelist-item public-database="1" status="active">
             <code>NL-KVK</code>
             <name>
                 <narrative>Chamber of Commerce (Netherlands)</narrative>
             </name>
             <description>
-                <narrative>All companies and entities (including most NGOs) in the Netherlands must enrol with the Commercial Register, which is hosted by the Dutch Chamber of Commerce. Each entity receives a Chamber of Commerce number upon registration, which is the appropriate identifier Dutch companies and NPOs.
+                <narrative>All companies and entities (including most NGOs) in the Netherlands must enrol with the Commercial Register, which is hosted by the Dutch Chamber of Commerce. Each entity receives a Chamber of Commerce (KVK) number upon registration.
 
-Basic company information is available for free, detailed info can be downloaded for a fee.
+Basic company information is available for free and more detailed information, such as a Business Register extract or financial statements, can be downloaded for a fee. [1]
 
-"All companies and entities in the Netherlands must enroll in the Commercial Register. By law, you have a business if you provide common goods or services to others with the intent to make a profit." [1] 
+According to the Chamber of Commerce, you have a business when you supply goods or services, you demand more than symbolic payment for these, and you take part in regular commercial transactions [2]. NGOs must register as a foundation [3].
 
-"Recipient companies can consult www.kvk.nl/waadi to check if agencies are registered on the Chamber of Commerce website. They can do this simply by entering their Chamber or Commerce number, which is assigned to all companies and legal entities upon registration in the Business Register." [2] 
-
-"The major forms of Dutch non-profit organization are the associations, the foundations and the churches... Associations registered in The Netherlands are unions between two or more individuals, physical persons or corporate bodies that pursue certain goals stated in the Articles of Association and that cannot divide profit among its members... There are two types of associations that can be set up in the Netherlands: with complete authority under the law (in this case the articles of associations are drawn by a civil notary and it’s mandatory in this case that the association is registered at the Dutch Chamber of Commerce trade register) and with limited authority under the law (when the articles are not drawn up by a notary and the registration is not mandatory)." [3] 
-
-[1] https://www.kvk.nl/inschrijven-en-wijzigen/inschrijven/?block=420250
-[2] https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/registering-with-the-chamber-of-commerce/hiring-or-provision-of-workers-in-the-netherlands/
-[3] http://www.bridgewest.eu/article/register-non-profit-organization-netherlands</narrative>
+[1] https://www.kvk.nl/en/about-the-business-register/what-information-does-the-dutch-business-register-contain
+[2] https://www.kvk.nl/en/starting/when-do-you-have-a-business
+[3] https://business.gov.nl/starting-your-business/choosing-a-business-structure/what-is-an-ngo-and-how-do-you-start-one</narrative>
             </description>
             <category>NL</category>
-            <url>https://www.kvk.nl/zoeken/handelsregister/</url>
+            <url>https://www.kvk.nl/zoeken/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>NL-OWMS</code>
