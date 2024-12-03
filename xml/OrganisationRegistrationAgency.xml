@@ -436,7 +436,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <description>
                 <narrative>Any citizen or company starting an economic activity in Argentina must register with the AFIP (Federal Administration of Public Revenues) and receive a Unique Tax Identification Code (CUIT). 
 
-This is an 11 digit number, consisting two digits, hyphen, nine digits, and a one digit checksum. 
+This is an 11 digit number, consisting two digits, hyphen, eight digits, and a one digit checksum. 
 </narrative>
             </description>
             <category>AR</category>
