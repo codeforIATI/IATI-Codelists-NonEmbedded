@@ -436,7 +436,7 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <description>
                 <narrative>Any citizen or company starting an economic activity in Argentina must register with the AFIP (Federal Administration of Public Revenues) and receive a Unique Tax Identification Code (CUIT). 
 
-This is an 11 digit number, consisting two digits, hyphen, nine digits, and a one digit checksum. 
+This is an 11 digit number, consisting two digits, hyphen, eight digits, and a one digit checksum. 
 </narrative>
             </description>
             <category>AR</category>
@@ -8233,10 +8233,12 @@ Data available on the following countries/regions - Brazil, European Union, Germ
             <description>
                 <narrative>The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a "research organization" is "any organization that conducts, produces, manages, or touches research".
 
-The list is seeded from GRID, but with a long-term intention to diverge from this.</narrative>
+The ROR list became independent from the Global Research Identifier Database (GRID) in 2021 and should be used in preference as GRID identifiers are no longer being maintained.[1]
+
+[1] https://www.grid.ac/</narrative>
             </description>
             <category>XI</category>
-            <url>https://ror.community/</url>
+            <url>https://ror.org/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>XI-WIKIDATA</code>
