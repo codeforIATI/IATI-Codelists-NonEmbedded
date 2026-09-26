@@ -240,7 +240,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="withdrawn" activation-date="2010-01-01">
             <code>21017</code>
             <name>
                 <narrative>International Centre for Trade and Sustainable Development</narrative>
@@ -604,7 +604,7 @@
             <code>21063</code>
             <name>
                 <narrative>Conservation International</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Conservation International</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -620,7 +620,7 @@
             <code>21501</code>
             <name>
                 <narrative>OXFAM International</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">OXFAM International</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -628,7 +628,7 @@
             <code>21502</code>
             <name>
                 <narrative>World Vision</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">World Vision</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -643,8 +643,8 @@
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21504</code>
             <name>
-                <narrative>International Relief and Development</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative>Blumont</narrative>
+                <narrative xml:lang="fr">Blumont</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -652,7 +652,7 @@
             <code>21505</code>
             <name>
                 <narrative>Save the Children</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Save the Children</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -660,7 +660,7 @@
             <code>21506</code>
             <name>
                 <narrative>International Rescue Committee</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">International Rescue Committee</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -676,7 +676,6 @@
             <code>21508</code>
             <name>
                 <narrative>Sustainable Energy for All</narrative>
-                <narrative xml:lang="fr">Sustainable Energy for All</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -692,7 +691,7 @@
             <code>22501</code>
             <name>
                 <narrative>OXFAM - provider country office</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">OXFAM - bureau du pays donneur</narrative>
             </name>
             <category>22000</category>
         </codelist-item>
@@ -700,7 +699,7 @@
             <code>22502</code>
             <name>
                 <narrative>Save the Children - donor country office</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Save the Children - bureau du pays donneur</narrative>
             </name>
             <category>22000</category>
         </codelist-item>
@@ -931,7 +930,7 @@
             <code>31006</code>
             <name>
                 <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
-                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
+                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation aux épidémies</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -1105,7 +1104,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41121</code>
             <name>
-                <narrative>United Nations Office of the United Nations High Commissioner for Refugees</narrative>
+                <narrative>United Nations Office of the High Commissioner for Refugees</narrative>
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
             <category>41100</category>
@@ -1570,7 +1569,7 @@
             <code>41501</code>
             <name>
                 <narrative>United Nations Reducing Emissions from Deforestation and Forest Degradation</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Réduction des émissions liées à la déforestation et à la dégradation des forêts</narrative>
             </name>
             <category>41400</category>
         </codelist-item>
@@ -1586,7 +1585,7 @@
             <code>41503</code>
             <name>
                 <narrative>UN-led Country-based Pooled Funds</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Fonds communs nationaux dirigés par les Nations unies</narrative>
             </name>
             <category>41400</category>
         </codelist-item>
@@ -1610,7 +1609,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01">
             <code>41701</code>
             <name>
                 <narrative>International Labour Organisation - non-core</narrative>
@@ -1618,7 +1617,7 @@
             </name>
             <category>41700</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01">
             <code>41702</code>
             <name>
                 <narrative>World Health Organisation - non-core</narrative>
@@ -1821,8 +1820,8 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>45003</code>
             <name>
-                <narrative>World Trade Organisation - Doha Development Agenda Global Trust Fund</narrative>
-                <narrative xml:lang="fr">Organisation mondiale du commerce - Fonds global d'affectation spéciale pour le Programme de Doha pour le développement</narrative>
+                <narrative>World Trade Organisation Global Trust Fund</narrative>
+                <narrative xml:lang="fr">Organisation mondiale du commerce - Fonds global d'affectation spéciale</narrative>
             </name>
             <category>41100</category>
         </codelist-item>
@@ -1925,7 +1924,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46016</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (ODA-eligible countries only)</narrative>
+                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)</narrative>
             </name>
             <category>46000</category>
@@ -1933,7 +1932,7 @@
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46017</code>
             <name>
-                <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)</narrative>
+                <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)</narrative>
             </name>
             <category>46000</category>
@@ -2290,6 +2289,13 @@
             </name>
             <category>21000</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>21509</code>
+            <name>
+                <narrative>AmplifyChange</narrative>
+                <narrative xml:lang="fr">AmplifyChange</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47036</code>
             <name>
@@ -2347,10 +2353,17 @@
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>31007</code>
+            <code>31008</code>
             <name>
-                <narrative>Drugs for Neglected Diseases initative</narrative>
-                <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+                <narrative>Foundation for Innovative New Diagnostics</narrative>
+                <narrative xml:lang="fr">Fondation pour les nouveaux diagnostics innovants</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>47153</code>
+            <name>
+                <narrative>IFAD Core Additional Climate Contributions</narrative>
+                <narrative xml:lang="fr">FIDA Contributions Additionnelles de Base pour le Climat</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2658,24 +2671,17 @@
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>41321</code>
+            <code>43007</code>
             <name>
-                <narrative>World Health Organisation - Strategic Preparedness and Response Plan</narrative>
-                <narrative xml:lang="fr">Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention</narrative>
+                <narrative>IMF Resilience and Sustainability Trust</narrative>
+                <narrative xml:lang="fr">Fonds monétaire international - Fonds fiduciaire pour la résilience et la durabilité</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">
-            <code>41403</code>
+            <code>46028</code>
             <name>
-                <narrative>COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
-                <narrative xml:lang="fr">COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>41402</code>
-            <name>
-                <narrative>Joint Sustainable Development Goals Fund</narrative>
-                <narrative xml:lang="fr">Fonds conjoint des objectifs de développement durable</narrative>
+                <narrative>New Development Bank</narrative>
+                <narrative xml:lang="fr">Nouvelle Banque de développement</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3202,7 +3208,7 @@
             <code>47502</code>
             <name>
                 <narrative>Global Fund for Disaster Risk Reduction</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Dispositif mondial pour la réduction des risques de catastrophes</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -3223,10 +3229,31 @@
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>47149</code>
+            <code>47150</code>
             <name>
-                <narrative>International Commission on Missing Persons</narrative>
-                <narrative xml:lang="fr">Commission internationale pour les personnes disparues</narrative>
+                <narrative>Secretariat General Iberoamericana</narrative>
+                <narrative xml:lang="fr">Secretariat General Iberoamericana</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>47151</code>
+            <name>
+                <narrative>Arab Bank for Reconstruction and Development</narrative>
+                <narrative xml:lang="fr">Banque Arabe de Développement Economique en Afrique</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>47152</code>
+            <name>
+                <narrative>Arab Fund for Economic and Social Development</narrative>
+                <narrative xml:lang="fr">Fonds Arabe pour le Développement Economique et Social</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>47701</code>
+            <name>
+                <narrative>GEF Global Biodiversity Framework Fund</narrative>
+                <narrative xml:lang="fr">Fonds du cadre mondial pour la biodiversité</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
@@ -3263,7 +3290,7 @@
         <codelist-item status="active" activation-date="2016-01-01">
             <code>60000</code>
             <name>
-                <narrative>Private sector institution</narrative>
+                <narrative>Private sector institutions</narrative>
                 <narrative xml:lang="fr">Institutions du Secteur Privé</narrative>
             </name>
         </codelist-item>
