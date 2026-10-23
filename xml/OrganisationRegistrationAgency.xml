@@ -5371,6 +5371,23 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             <category>MK</category>
             <url>https://gov-id-finder.codeforiati.org/countries/MK/</url>
         </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>MK-CR</code>
+            <name>
+                <narrative>Central Registry of the Republic of North Macedonia</narrative>
+            </name>
+            <description>
+                <narrative>The Central Registry of the Republic of North Macedonia is the country's official state register of legal entities. It was established by the Law on Central Registry and serves as a central information base of legal and other organisational data. [1]
+
+The Registry maintains the Trade Register and the Register of Other Legal Entities. The Trade Register covers businesses such as limited liability companies (DOO/DOOEL), joint-stock companies and sole traders. The Register of Other Legal Entities covers non-commercial bodies such as associations, foundations and other civil society organisations.
+
+The EMBS (Единствен матичен број на субјектот) registration number is a 7-digit number assigned electronically by the Central Registry when an entity first registers. It stays the same if the entity changes its address or activity.
+
+[1] https://www.crm.com.mk/en/about-crrsm/basic-institutional-data/about-us-mission-and-vision</narrative>
+            </description>
+            <category>MK</category>
+            <url>https://www.crm.com.mk/</url>
+        </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>ML-CCIM</code>
             <name>
@@ -6976,16 +6993,10 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
                 <narrative>Unified State Register of Legal Entities (USRLE), Russian Federation</narrative>
             </name>
             <description>
-                <narrative>"The USRLE (Uniform State Register of Legal Entities) (also EGRUL) is a federal information resource. The USRLE recording is performed by the registering authorities according to the procedure established by the Government of the Russian Federation.
-
-Here you can get information about any legal entity registered in the territory of the Russian Federation in the form of an information extract from the Unified State Register of Legal Entities. 
-
-In addition, access to foreign state registers of more than 200 countries of the world is open, including to most European countries. 
-
-Information is provided from the Unified State Register of Legal Entities in the form of an electronic document."</narrative>
+                <narrative>The USRLE (Unified State Register of Legal Entities, EGRUL) is the federal register of legal entities of the Russian Federation, maintained by the Federal Tax Service (FTS). The companion register for sole proprietors is the EGRIP. The official search interface at egrul.nalog.ru is free and requires no registration: a search by OGRN, INN or company name returns a signed PDF extract. The FTS additionally publishes the full register as open data for bulk download.</narrative>
             </description>
             <category>RU</category>
-            <url>https://www.egrul.ru/</url>
+            <url>https://egrul.nalog.ru/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>RW-COA</code>
@@ -8386,6 +8397,21 @@ This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] fro
             </description>
             <category>VN</category>
             <url>https://gov-id-finder.codeforiati.org/countries/VN/</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>VN-MFA</code>
+            <name>
+                <narrative>Vietnam Ministry of Foreign Affairs</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Foreign Affairs (MOFA, Bộ Ngoại giao) is the Vietnamese government ministry responsible for foreign policy, diplomatic and consular relations, including the country’s dealings with foreign governments and international bodies.
+
+The main type of organisation MOFA registers is foreign non-governmental organisations (INGOs) working in Vietnam. This is governed by Decree 58/2022/ND-CP. The decree took effect on November 1, 2022, replacing the earlier Decree 12 of 2012. Under it, MOFA is the agency that issues, renews, amends, re-issues, suspends, terminates and revokes INGO registration certificates. [1]
+
+[1] https://conventuslaw.com/report/vietnam-issues-new-regulations-on-foreign-ngo-registration-and-operations/</narrative>
+            </description>
+            <category>VN</category>
+            <url>https://mofa.gov.vn</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>VN-MOST</code>
